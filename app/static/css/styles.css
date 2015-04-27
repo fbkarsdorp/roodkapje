@@ -1,0 +1,109 @@
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display);
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  color:#444;
+  line-height:1.5em;
+}
+
+.wrapper {
+  width:100%;
+  max-width:800px;
+  margin:0 auto;
+}
+
+section {
+  margin:20px 0;
+}
+
+.contents {
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+  user-select: none;
+  font-family:Georgia;
+  margin-bottom:40px;
+  font-size:1em;
+  margin:0 auto 10px auto;
+  padding:15px 20px;
+  background:rgba(0,0,0,0.03);
+}
+
+.story {
+  margin:0 auto 10px auto;
+}
+
+.login form {
+  padding:30px 20px;
+}
+
+.login form input {
+  outline-style:none;
+  padding:0.5em 1em 0.3em 1em ;
+}
+
+.login label {
+  color:#999;
+  font-weight:100;
+  display:block;
+  padding-left:20px;
+  line-height:2em;
+  font-size:0.8em;
+} 
+
+textarea {
+    width:760px;
+    height:350px;
+    resize: none;
+    border: 1px solid #cccccc;
+    overflow: auto;
+    outline: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    background: rgb(235,235,235);
+    box-shadow: none;
+    padding:10px;
+    font-family: Georgia;
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;
+}
+
+.instruction {
+    margin:0;
+    font-size:1em;
+    padding:5px 15px;
+    line-height: 1.6em;
+}
+
+input[type='submit'] {
+  padding:0.5em 1.5em 0.3em 1.5em;
+  background:#eee;
+  border:1px solid #ccc;
+}
+
+input[type='submit']:hover {
+  background:#fff;
+}
+
+header {
+  border-bottom:1px solid #eee;
+  font-size:16px;
+  padding:5px 20px 0 20px;
+  letter-spacing:0.1em;
+  color:#999;
+}
+
+h1, h2, h3, h4 {
+  font-weight:100;
+  color:#999;
+  letter-spacing:0.1em;
+}
+
+footer {
+  font-size:0.7em;
+  color:#999;
+  border-top:1px solid #eee;
+  padding:20px 15px 100px 15px;
+  font-weight:100;
+}

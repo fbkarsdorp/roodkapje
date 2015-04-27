@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block content %}
+
+     <form method="POST" action="", name="annotate">
+         {{ form.hidden_tag() }}         
+         {% set f = form.story.process_data(story.story) %}
+         <div class="story">
+         {{ form.story() }}
+         </div>
+         <div>
+         {% for question in form %}
+             {% if question.errors %}
+                 {% for error in question.errors %}
+                     <span style="color: red;">[{{ error }}]</span>
+                 {% endfor %}
+             {% endif %}
+             {% if question.type == "BooleanField" %}
+                 <p>{{ question.label }} {{ question() }} </p>
+             {% elif question.type == "RadioField" %}
+                 <p>{{ question.label }} {{ question }} </p>
+             {% elif question.type == "StringField" %}
+                 <p>{{question.label}} </br> {{ question(size=50) }}</p>
+             {% elif question.type == "SectionField" %}
+                 {{ question.label }}
+             {% endif %}
+         {% endfor %}
+         <p class="submit"><input type="submit" value="Submit"></p>
+         </div>
+         </form>
+   
+{% endblock %}

@@ -1,0 +1,6 @@
+Folgert,Folgert Karsdorp,Folgert
+Marten,Marten van der Meulen,Marten
+Peter,Peter van Kranenburg,Peter
+Theo,Theo Meder,Theo
+Antal,Antal van den Bosch,Antal
+Marianne,Marianne van Zuylen,Marianne

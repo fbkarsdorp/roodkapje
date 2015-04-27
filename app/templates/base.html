@@ -1,0 +1,59 @@
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <title>Annotation Little Red Riding Hood</title>
+   <meta name="description" content="">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <base href="/">
+   <link rel="stylesheet" href="static/css/normalize.css">
+   <link rel="stylesheet" href="static/css/main.css">
+   <link rel="stylesheet" href="static/css/styles.css">
+
+  </head>
+  
+  <body>
+
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script>
+$(function(){
+        var stickyHeaderTop = $('#story').offset().top;
+ 
+        $(window).scroll(function(){
+                if( $(window).scrollTop() > stickyHeaderTop ) {
+                        $('#story').css({position: 'fixed', top: '0px'});
+                        $('#stickystory').css('display', 'block');
+                } else {
+                        $('#story').css({position: 'static', top: '0px'});
+                        $('#stickystory').css('display', 'none');
+                }
+        });
+  });
+</script>
+
+  <div class="wrapper">
+  <header>
+      <h1>Annotating Little Red Riding Hood <img src="static/image/roodkapje.jpg" alt="Roodkapje" style="height:128px"></h1>
+  </header>
+
+   <div class="contents">
+      {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <ul>
+        {% for message in messages %}
+            <li>{{ message }} </li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+    {% block content %}{% endblock %}
+    </div>
+
+   <footer>
+    This experiment is maintained and executed by Folgert Karsdorp<br>
+    For more information send an e-mail to: folgert.karsdorp@meertens.knaw.nl.
+   </footer>
+   </div>
+  </body>
+</html>
