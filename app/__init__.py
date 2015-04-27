@@ -19,6 +19,6 @@ if not app.debug:
     app.logger.setLevel(logging.INFO)
     file_handler.setLevel(logging.INFO)
     app.logger.addHandler(file_handler)
-    app.logger.info('microblog startup')
+    app.logger.info('roodkapje startup')
 
 from app import views, models
