@@ -1,8 +1,10 @@
 import codecs
+import os
 from flask.ext.wtf import Form
 from wtforms import RadioField, StringField, TextAreaField, Field, PasswordField, BooleanField
 from wtforms.widgets import TextArea
 from wtforms.validators import DataRequired
+from app import app
 from models import User
 from utils import SectionCounter
 
@@ -31,7 +33,7 @@ class SectionField(Field):
 class QuestionForm(Form):
     story = TextAreaField("story", widget=TextArea())
     sc = SectionCounter()
-    for k, line in enumerate(codecs.open("schema.md", encoding='utf-8')):
+    for k, line in enumerate(codecs.open(os.path.join(app.config["ROOT_DIR"], "schema.md"), encoding='utf-8')):
         fields = line.strip().split('\t')
         if len(fields) > 1:
             qnumber = sc.to_number(fields[0])
