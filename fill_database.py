@@ -17,15 +17,13 @@ for user in open("users.txt"):
 db.session.commit()
 
 # add all stories to the database (admin is author)
-for directory in os.listdir('../../corpus'):
-    if os.path.isdir(os.path.join('../../corpus', directory)):
-        storyid = directory
-        if 'transcription.txt' in os.listdir(os.path.join('../../corpus', directory)):
-            print directory
-            with codecs.open(os.path.join('../../corpus', directory, 'transcription.txt'), encoding='utf-8') as f:
-                story = f.read()
-                story = models.Story(storyname=storyid, story=story, done=0)
-                db.session.add(story)
+for filename in os.listdir('corpus'):
+    if filename.endswith(".txt"):
+        storyid = filename.replace(".txt", '')
+        with codecs.open(os.path.join('corpus', filename), encoding='utf-8') as f:
+            story = f.read()
+            story = models.Story(storyname=storyid, story=story, done=0)
+            db.session.add(story)
 
 db.session.commit()
 
