@@ -14,9 +14,9 @@
 ###	Algemeen
 ####	R	Is de leeftijd van Roodkapje:	niet genoemd, bepaald (bv. 10 jaar), onbepaald (bv. dreumes)
 ####	T	Wat is de echte naam van Roodkapje?	
-####	B	Is Roodkapje vernoemd naar haar kledingstuk?	ja, nee
+####	R	Is Roodkapje vernoemd naar haar kledingstuk?	ja, nee, onbekend
 ####	R	Wie heeft Roodkapje haar naam gegeven?	onbekend, iedereen, moeder, Grootmoeder, Roodkapje
-####	B	Heeft Roodkapje broers of zussen?	ja, nee
+####	R	Heeft Roodkapje broers of zussen?	ja, nee, onbekend
 ####	R	Wie houdt het meest van Roodkapje?	onbekend, Grootmoeder, moeder
 
 ###	Kleding

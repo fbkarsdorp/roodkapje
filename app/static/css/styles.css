@@ -57,6 +57,7 @@ textarea {
     resize: none;
     border: 1px solid #cccccc;
     overflow: auto;
+    overflow-y:scroll;
     outline: none;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;

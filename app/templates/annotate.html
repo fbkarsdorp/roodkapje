@@ -7,7 +7,7 @@
          <div class="story">
          {{ form.story() }}
          </div>
-         <div>
+         <div id="questions">
          {% for question in form %}
              {% if question.errors %}
                  {% for error in question.errors %}
