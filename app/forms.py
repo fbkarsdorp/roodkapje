@@ -13,7 +13,7 @@ class LoginForm(Form):
     password = PasswordField('password', validators=[DataRequired()])
     remember_me = BooleanField('remember_me', default=False)
 
-    def validate_login(self):
+    def validate_on_submit(self):
         user = self.get_user()
         if user is None:
             self.username.errors = ('Jij bestaat niet.',)
