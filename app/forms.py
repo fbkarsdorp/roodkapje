@@ -26,6 +26,25 @@ class LoginForm(Form):
     def get_user(self):
         return User.query.filter_by(username=self.username.data).first()
 
+class RegisterForm(Form):
+    username = StringField('username', validators=[DataRequired()])
+    firstname = StringField('Voornaam', validators=[DataRequired()])
+    surname = StringField('Achternaam', validators=[DataRequired()])
+    password = PasswordField('password', validators=[DataRequired()])
+    cpassword = PasswordField('confirm password', validators=[DataRequired()])
+
+    def validate_on_submit(self):
+        if not self.available_username():
+            self.username.errors = ('Deze naam is bezet.',)
+            return False
+        if self.password.data != self.cpassword.data:
+            self.cpassword.errors = ('Wachtwoorden zijn niet hetzelfde', )
+            return False
+        return True
+
+    def available_username(self):
+        return User.query.filter_by(username=self.username.data).first() is None
+
 
 class SectionField(Field):
     pass

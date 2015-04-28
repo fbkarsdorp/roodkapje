@@ -7,7 +7,7 @@ from wtforms import RadioField, StringField
 
 from app import app, lm, db
 from models import User, Story
-from forms import QuestionForm, LoginForm
+from forms import QuestionForm, LoginForm, RegisterForm
 
 
 @lm.user_loader
@@ -20,14 +20,31 @@ def before_request():
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
-    # if flask.g.user is not None and flask.g.user.is_authenticated():
-    #    return flask.redirect(flask.url_for("index"))
+    if flask.g.user is not None and flask.g.user.is_authenticated():
+        return flask.redirect(flask.url_for("index"))
     form = LoginForm()
-    if form.validate_login():
+    if flask.request.method == 'GET':
+        return flask.render_template('login.html', title='Sign In', form=form)
+    if form.validate_on_submit():
         flask.session['remember_me'] = form.remember_me.data
         login_user(form.get_user(), remember=form.remember_me.data)
         return flask.redirect(flask.url_for("index"))
     return flask.render_template('login.html', title='Sign In', form=form)
+
+@app.route('/register', methods=['GET', 'POST'])
+def register():
+    form = RegisterForm()
+    if flask.request.method == 'GET':
+        return flask.render_template('register.html', title='Sign In', form=form)
+    if form.validate_on_submit():
+        user = User(username=form.username.data, 
+                    firstname=form.firstname.data, 
+                    surname=form.surname.data,
+                    password=form.password.data)
+        db.session.add(user)
+        db.session.commit()
+        return flask.redirect(flask.url_for('login'))
+    return flask.render_template('register.html', title='Sign Up', form=form)
 
 @app.route('/', methods=['GET', 'POST'])
 @app.route('/index', methods=['GET', 'POST'])
@@ -39,7 +56,6 @@ def index():
         story = Story.query.filter_by(done=0).first()
         story.user_id = user.id
         db.session.commit()
-    print story
     n_to_do = len(Story.query.filter_by(done=0).all())
     return flask.render_template('index.html', user=user, story=story, to_do=n_to_do)
 
@@ -50,12 +66,16 @@ def annotate(storyname):
     story = Story.query.filter_by(storyname=storyname).first()
     if form.validate_on_submit():
         story.done = 1
+        story.story = form.story.data
         db.session.commit()
         with codecs.open(os.path.join(app.config["ANNOTATION_DIR"], story.storyname + ".ann"), 'w', 'utf-8') as outfile:
             for field in form:
                 if isinstance(field, (RadioField, StringField)) and field.name not in ('csrf_token', 'story', 'question'):
                     outfile.write("%s;%s\n" % (field.name, field.data))
         return flask.redirect(flask.url_for("index"))
+    if form.story.data is not None and not form.story.data == story.story:
+        story.story = form.story.data
+        db.session.commit()
     return flask.render_template('annotate.html', form=form, story=story)
 
 @app.errorhandler(404)
