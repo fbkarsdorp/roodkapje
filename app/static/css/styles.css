@@ -1,110 +1,135 @@
-@import url(http://fonts.googleapis.com/css?family=Playfair+Display);
-
 body {
-  font-family: Helvetica, Arial, sans-serif;
-  color:#444;
-  line-height:1.5em;
+    color: #333;
 }
 
-.wrapper {
-  width:100%;
-  max-width:800px;
-  margin:0 auto;
+#layout {
+    position: relative;
+    padding-left: 0;
 }
 
-section {
-  margin:20px 0;
+.wrap {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 2em;
 }
 
-.contents {
--webkit-user-select: none;
--moz-user-select: none;
--ms-user-select: none;
-  user-select: none;
-  font-family:Georgia;
-  margin-bottom:40px;
-  font-size:1em;
-  margin:0 auto 10px auto;
-  padding:15px 20px;
-  background:rgba(0,0,0,0.03);
+.content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    line-height: 1.6em;
 }
 
-.story {
-  margin:0 auto 10px auto;
+.login, .register {
+    width: 60%;
+    margin: 0 auto;
 }
 
-.login form {
-  padding:30px 20px;
+.instruction {
+  width: 85%;
+  margin: 0 auto;
 }
 
-.login form input {
-  outline-style:none;
-  padding:0.5em 1em 0.3em 1em ;
+.button-next {
+  color: white;
+  border-radius: 4px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  background: rgb(202, 60, 60);
 }
 
-.login label {
-  color:#999;
-  font-weight:100;
-  display:block;
-  padding-left:20px;
-  line-height:2em;
+.error-message {
+  color: red; 
   font-size:0.8em;
-} 
+}
+
+header {
+     margin: 0;
+     text-align: center;
+     color:#999;
+     padding: 2.0em 2em 0.5em;
+     border-bottom: 1px solid #eee;
+ }
+    header h1 {
+        margin: 0.2em 0 1em;
+        font-size: 2.5em;
+        font-weight:100;
+        letter-spacing:0.1em;
+    }
+     header h2 {
+        color: #ccc;
+        padding: 0;
+        margin-top: 0;
+    }
+
+footer {
+  text-align: center;
+  font-size:0.7em;
+  color:#999;
+  border-top:1px solid #eee;
+  padding:2.0em 2em 0.5em;
+  font-weight:100;
+}
+
+.aside {
+  padding: 5px;
+  font-weight:300%;
+  font-size: 1.1em;
+  color:#999;
+
+}
+
+#question-form label span {
+  background-color: #f2f2f2;
+  border-radius: 4px;
+  padding: 10px 15px;
+  display: block;
+  cursor: hand; cursor: pointer;
+}
+
+#next {
+  padding: 10px 15px;
+  line-height: 1.6em;
+}
+
+#question-form input[type='radio'] {
+  -webkit-appearance: none;
+}
+
+#question-form label input {
+    position:absolute;
+}
+
+#question-form input:checked + span {
+  color: white;
+  border-radius: 4px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  background: rgb(28, 184, 65);
+}
+
+input[type=text], input[type=password] {
+  margin-bottom: .5em;
+}
+
+.pure-form input[type=text]:focus, .pure-form input[type=password]:focus{
+    border: 1px solid rgb(202, 60, 60);
+}
 
 textarea {
-    width:760px;
-    height:350px;
+    background-color: #f2f2f2;
+    width: 95%;
+    height:500px;
     resize: none;
-    border: 1px solid #cccccc;
+    border: none;
+    border-radius: 3px;
+
     overflow: auto;
     overflow-y:scroll;
     outline: none;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
-    background: rgb(235,235,235);
     box-shadow: none;
     padding:10px;
-    font-family: Georgia;
     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
     -moz-box-sizing: border-box;    /* Firefox, other Gecko */
     box-sizing: border-box;
 }
 
-.instruction {
-    margin:0;
-    font-size:1em;
-    padding:5px 15px;
-    line-height: 1.6em;
-}
-
-input[type='submit'] {
-  padding:0.5em 1.5em 0.3em 1.5em;
-  background:#eee;
-  border:1px solid #ccc;
-}
-
-input[type='submit']:hover {
-  background:#fff;
-}
-
-header {
-  border-bottom:1px solid #eee;
-  font-size:16px;
-  padding:5px 20px 0 20px;
-  letter-spacing:0.1em;
-  color:#999;
-}
-
-h1, h2, h3, h4 {
-  font-weight:100;
-  color:#999;
-  letter-spacing:0.1em;
-}
-
-footer {
-  font-size:0.7em;
-  color:#999;
-  border-top:1px solid #eee;
-  padding:20px 15px 100px 15px;
-  font-weight:100;
-}
