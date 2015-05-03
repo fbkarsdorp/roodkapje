@@ -1,4 +1,5 @@
 import codecs
+import json
 
 class SectionCounter(object):
     def __init__(self, max_depth=10):
@@ -20,9 +21,20 @@ class SectionCounter(object):
         self._update_counts(marker)
         return '.'.join(str(c) for c in self.section_counts if c > 0)
 
+def json_question(qnumber, qtype, question, options, default):
+    template = {}
+    template['number'] = qnumber
+    template['default'] = default
+    template['skip'] = ""
+    template['question'] = question
+    template['qtype'] = qtype
+    template['options'] = {option: option for option in options} if qtype in 'RB' else {}
+    return template
+
 if __name__ == '__main__':
     sc = SectionCounter()
-    with codecs.open("questions.csv", 'w', 'utf-8') as outfile:
+    with codecs.open("questions.json", 'w', 'utf-8') as outfile:
+        json_questions = []
         for k, line in enumerate(codecs.open("schema.md", encoding='utf-8')):
             fields = line.strip().split('\t')
             if len(fields) > 1:
@@ -30,16 +42,16 @@ if __name__ == '__main__':
             if len(fields) <= 2:
                 continue
             if fields[1] == 'B':
-                qtype, question, options, default = fields[1], fields[2], 'ja,nee', 'nee'
+                qtype, question, options, default = fields[1], fields[2], ('ja', 'nee'), 'nee'
             elif fields[1] == 'R':
                 qtype, question, options = fields[1], fields[2], [f.strip() for f in fields[3].split(',')]
                 default = options[0]
-                options = ','.join(options)#next(option for option in options if option.startswith('*'))
+                options = options
             elif fields[1] == 'T':
                 qtype, question, options, default = fields[1], fields[2], None, '-'
             else:
                 raise ValueError("Unsupported question type.")
-            outfile.write(u"{qnumber};{qtype};{question};{options};{default}\n".format(
-                qnumber=qnumber, qtype=qtype, question=question, options=options if options else '', default=default))
+            json_questions.append(json_question(qnumber, qtype, question, options, default))
+        json.dump(json_questions, outfile)
 
     
