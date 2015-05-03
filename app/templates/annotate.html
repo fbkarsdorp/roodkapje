@@ -39,7 +39,7 @@
     }
 
 
-    var questions = {{ questions|tojson }};
+    var questions = {{ questions|tojson|safe }};
 
     $(document).ready(function() {
 
@@ -93,7 +93,7 @@
           // perform the request
           $.ajax({
             contentType: 'application/json;charset=UTF-8',
-            url: {{ story.storyname }},
+            url: "{{ story.storyname }}",
             data: JSON.stringify(answers),
             type: 'POST',
             dataType: 'json',
