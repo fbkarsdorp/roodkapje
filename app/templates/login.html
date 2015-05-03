@@ -1,26 +1,34 @@
 <!-- extend from base layout -->
 {% extends "base.html" %}
-
 {% block content %}
-  <div class="login">
-  <form action="" method="POST" name="login">
+
+<div class="login">
+  <form class="pure-form pure-form-aligned" action="" method="POST" name="login">
     {{ form.hidden_tag() }}
-    <p>{{ form.username.label }} {{ form.username(class="css_class") }}
-    {% if form.username.errors %} 
-    {% for error in form.username.errors %}
-        <span style="color: red;">[{{ error }}]</span>
-    {% endfor %} 
-    {% endif %} 
-    <br></p>
-    <p>{{ form.password.label }} {{ form.password() }}
-    {% if form.password.errors %}
-    {% for error in form.password.errors %}
-        <span style="color: red;">[{{ error }}]</span>
-    {% endfor %}
-    {% endif %}
-    <br></p>
-    <p class="submit"><input type="submit" value="Sign In"></p>
+    <fieldset>
+    <div class="pure-control-group">
+        <label for="name">{{ form.username.label }}</label>
+        {{ form.username() }}
+        {% if form.username.errors %} 
+        {% for error in form.username.errors %}
+            <span class="error-message">{{ error }}</span>
+        {% endfor %} 
+        {% endif %} 
+    </div>
+    <div class="pure-control-group">
+     <label for="password">{{ form.password.label }}</label>
+     {{ form.password() }}
+      {% if form.password.errors %}
+      {% for error in form.password.errors %}
+          <span class="error-message">{{ error }}</span>
+      {% endfor %}
+      {% endif %}
+    </div>
+    <div class="pure-controls">
+       <button type="submit" class="button-next pure-button">Sign In</button>
+       <span><a href="{{ url_for('register') }}">Nieuwe gebruiker?</a></span>
+    </div>
+    </fieldset>
   </form>
-  <p>Nieuwe gebruiker? Klik <a href="{{ url_for('register') }}">hier</a>.
   </div>
 {% endblock %}

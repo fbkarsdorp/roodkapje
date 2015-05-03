@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
 
-     <div class="instruction">
+<div class="instruction">
      <p>Hoi {{ user.firstname }},</p>
      <p>Roodkapje is misschien wel het meest bekende sprookje ter wereld. Duizenden en duizenden keren 
      is het verhaal van het meisje met het rode kapje opnieuw verteld, opgeschreven, 
@@ -16,6 +16,5 @@
 
      <p>Er zijn nog {{ to_do }} Roodkapjes om te annoteren.</p>
      <a href="{{ url_for('annotate', storyname=story.storyname) }}">Annoteer het volgende verhaal!</a>
-     </div>
-   
+</div>   
 {% endblock %}

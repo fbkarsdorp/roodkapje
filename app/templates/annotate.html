@@ -1,31 +1,129 @@
 {% extends "base.html" %}
 {% block content %}
 
-     <form method="POST" action="", name="annotate">
-         {{ form.hidden_tag() }}         
-         {% set f = form.story.process_data(story.story) %}
-         <div class="story">
-         {{ form.story() }}
-         </div>
-         <div id="questions">
-         {% for question in form %}
-             {% if question.errors %}
-                 {% for error in question.errors %}
-                     <span style="color: red;">[{{ error }}]</span>
-                 {% endfor %}
-             {% endif %}
-             {% if question.type == "BooleanField" %}
-                 <p>{{ question.label }} {{ question() }} </p>
-             {% elif question.type == "RadioField" %}
-                 <p>{{ question.label }} {{ question }} </p>
-             {% elif question.type == "StringField" %}
-                 <p>{{question.label}} </br> {{ question(size=50) }}</p>
-             {% elif question.type == "SectionField" %}
-                 {{ question.label }}
-             {% endif %}
-         {% endfor %}
-         <p class="submit"><input type="submit" value="Submit"></p>
-         </div>
-         </form>
-   
+<script>
+
+    function toForm(question) {
+        var form = document.createElement("form");
+        form.setAttribute("method", "get");
+        form.setAttribute("action", "");
+        form.setAttribute("class", "pure-form");
+        form.setAttribute("name", question["number"]);
+        if (question["qtype"] == "R" || question["qtype"] == "B") {
+            var c = 0;
+            for (var option in question["options"]) {
+                c++;
+                var label = document.createElement("label");
+                label.setAttribute("for", question["number"] + "-" + c);
+                label.setAttribute("class", "pure-radio");
+                label.setAttribute("accesskey", c);
+                var field = document.createElement("input");
+                field.setAttribute("type", "radio");
+                field.setAttribute("value", option);
+                field.setAttribute("id", question["number"] + "-" + c);
+                field.setAttribute("name", question["number"]);
+                label.appendChild(field);
+                span = document.createElement("span");
+                span.innerHTML = option;
+                label.appendChild(span);
+                form.appendChild(label);
+            }
+        } else {
+            var field = document.createElement("input");
+            field.setAttribute("type", "text");
+            field.setAttribute("name", question["number"]);
+            field.setAttribute("class", "pure-input-1");
+            form.appendChild(field);
+        }
+        return form;
+    }
+
+
+    var questions = {{ questions|tojson }};
+
+    $(document).ready(function() {
+
+    var skip = new Object();
+    for (var i = 0; i < questions.length; i++) {
+        var question = questions[i];
+        skip[question.number] = false;
+    }
+
+    answers = new Object();
+    answers['answers'] = new Object();
+
+    currentQuestion = 0;
+    question = questions[currentQuestion];
+    $("#description").html(question["question"])
+    $("#question-form").html(toForm(question));
+
+    $("#next").click(function() {
+      var data = $('.pure-form').serializeArray()[0];
+      if (typeof(data) == 'undefined' || data.value == null || data.value == "") {
+          alert("Please give an answer to the question.");
+          return false;
+      }
+      answers['answers'][data.name] = data.value;
+      if (data.value == question.default) {
+          for (var i = 0; i < question.skip.length; i++) {
+              skip[question.skip[i]] = true;
+          }
+      }
+      if ((currentQuestion + 1) < questions.length) {
+          for (var i = currentQuestion + 1; i < questions.length; i++) {
+              if (skip[questions[i].number] == false) {
+                  currentQuestion = i;
+                  break;
+              }
+          }
+          // update the html content
+          question = questions[currentQuestion];
+          $("#description").html(questions[currentQuestion]["question"]);
+          $("#question-form").html(toForm(questions[currentQuestion]));
+          return false;
+      } else {
+          // first update the answers object with default answers
+          for (var i = 0; i < questions.length; i++) {
+              if (skip[questions[i].number]) {
+                  answers['answers'][questions[i].number] = questions[i].default;
+              }
+          }
+          // add the possibly updated story contents
+          answers['story'] = $('textarea').val();
+          // perform the request
+          $.ajax({
+            contentType: 'application/json;charset=UTF-8',
+            url: {{ story.storyname }},
+            data: JSON.stringify(answers),
+            type: 'POST',
+            dataType: 'json',
+            success: function (r) {
+                console.log(r);
+                $("#questionaire").html("Dank voor je hulp!");
+                var button = document.createElement("button");
+                button.setAttribute("type", "submit");
+                button.setAttribute("class", "pure-button pure-button-primary");
+                button.setAttribute("onclick", "window.location='/'");
+                button.innerHTML = "Volgende verhaal";
+                div = document.getElementById("questionaire");
+                div.appendChild(button);
+            }
+        });
+          return true;
+      }
+  });
+});
+</script>
+
+<div class="pure-g">
+    <div class="pure-u-17-24">
+        <textarea>{{ story.story }}</textarea>
+    </div>
+    <div id="questionaire" class="pure-u-7-24">
+        <div id="description" class="aside"></div>
+        <div id="question-form"></div>
+        <button type="submit" class="button-next pure-u-1 pure-button" id="next">Volgende vraag</button>
+    </div>
+</div>
+
 {% endblock %}
