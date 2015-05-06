@@ -96,7 +96,7 @@ footer {
 }
 
 #question-form input[type='radio'] {
-  -webkit-appearance: none;
+  display:none;
 }
 
 #question-form label input {
