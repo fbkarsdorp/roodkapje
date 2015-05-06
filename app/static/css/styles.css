@@ -41,6 +41,11 @@ body {
   font-size:0.8em;
 }
 
+#progressbar {
+  margin-top: -14px;
+  padding: 0;
+}
+
 header {
      margin: 0;
      text-align: center;
