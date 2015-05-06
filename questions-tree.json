@@ -9,8 +9,7 @@
         "1": {
           "id": 109, 
           "question": "Wat is de vorm van de tekst?", 
-          "options": ["(rijmend) gedicht", "verhaal", "toneel", 
-                      "strip", "prentenboek", "pop-up boek"],
+          "options": ["(rijmend) gedicht", "verhaal", "toneel"],
           "default": []
         }, 
         "2": {
