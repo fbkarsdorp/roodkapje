@@ -1,0 +1,2046 @@
+{
+  "id": 1, 
+  "question": "vragenlijst", 
+  "children": {
+    "1": {
+      "id": 2, 
+      "question": "Algemeen", 
+      "children": {
+        "1": {
+          "id": 109, 
+          "question": "Wat is de vorm van de tekst?", 
+          "options": ["(rijmend) gedicht", "verhaal", "toneel", 
+                      "strip", "prentenboek", "pop-up boek"],
+          "default": []
+        }, 
+        "2": {
+          "id": 111, 
+          "question": "Wie is de verteller van de tekst?",
+          "options": ["alwetend", "ik-vorm", "jij-vorm"],
+          "default": []          
+        }, 
+        "3": {
+          "id": 112, 
+          "question": "Staat (vrijwel) de hele tekst op rijm?",
+          "options": ["ja", "nee"],
+          "default": []          
+        }, 
+        "4": {
+          "id": 113, 
+          "question": "Begint het verhaal met een klassieke openingsformule?",
+          "options": ["afwezig", "\"Lang lang geleden...\"", "\"Er was eens...\"", "\"In een land hier ver vandaan...\"", "anders"],
+          "default": []          
+        }, 
+        "6": {
+          "id": 115, 
+          "question": "Staat expliciet in de tekst wanneer het verhaal zich afspeelt?", 
+          "options": ["niet genoemd", "vroeger bepaald", "vroeger onbepaald", "nu", "toekomst"],
+          "default": []          
+        }, 
+        "7": {
+          "id": 116, 
+          "question": "Spreekt de verteller ergens in het verhaal het publiek rechtstreeks aan?",
+          "options": ["ja", "nee"],
+          "default": []          
+        }, 
+        "8": {
+          "id": 117, 
+          "question": "Zitten er retorische vragen in het verhaal? (bv. \"Wat denk je dat de wolf deed?\")",
+          "options": ["ja", "nee"],
+          "default": []          
+        }
+      }
+    }, 
+    "2": {
+      "id": 3, 
+      "question": "Personages", 
+      "children": {
+        "1": {
+          "id": 7, 
+          "question": "Roodkapje", 
+          "children": {
+            "1": {
+              "id": 120, 
+              "question": "Is Roodkapje de enige naam die wordt gebruikt om het meisje aan te duiden?",
+              "options": ["ja", "nee"],
+              "default": ["ja"],
+              "children": {
+                "1": {
+                  "id": 122, 
+                  "question": "Wat is volgens de tekst de echte naam van Roodkapje?",
+                  "default": ["-"]
+                }, 
+                "2": {
+                  "id": "352.gd35d2f4428462d973", 
+                  "question": "Is Roodkapje een bijnaam?",
+                  "options": ["ja", "nee", "onbekend"],
+                  "default": ["onbekend"],
+                  "children": {
+                    "1": {
+                      "id": 123, 
+                      "question": "Heeft Roodkapje haar bijnaam gekregen vanwege een kledingstuk?",
+                      "options": ["ja", "nee", "onbekend"],
+                      "default": ["onbekend"]
+                    }, 
+                    "2": {
+                      "id": 124, 
+                      "question": "Wie heeft Roodkapje deze bijnaam gegeven?",
+                      "default": ["-"]
+                    }
+                  }
+                }
+              }
+            }, 
+            "2": {
+              "id": 125, 
+              "question": "Wordt gezegd wie het meest van Roodkapje houdt?",
+              "options": ["niet gezegd", "moeder", "Grootmoeder"],
+              "default": ["niet gezegd"]
+            }, 
+            "3": {
+              "id": 126, 
+              "question": "Wordt de leeftijd van Roodkapje genoemd? Zo ja, hoe oud is ze?",
+              "options": ["niet genoemd", "bepaald (bv. 10 jaar)", "onbepaald (bv. dreumes)"],
+              "default": ["niet genoemd"]
+            }, 
+            "4": {
+              "id": 127, 
+              "question": "Wordt expliciet genoemd of Roodkapje een rood kledingstuk heeft?", 
+              "options": ["ja", "nee"],
+              "default": ["nee"],
+              "children": {
+                "1": {
+                  "id": 128, 
+                  "question": "Heeft Roodkapje een rood manteltje?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]
+                }, 
+                "2": {
+                  "id": 129, 
+                  "question": "Wordt het rode kapje van Roodkapje expliciet besproken?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "2": {
+                      "id": 132, 
+                      "question": "Op welke leeftijd krijgt Roodkapje haar kapje?",
+                      "options": ["niet genoemd", "bepaald (bv. 10 jaar)", "onbepaald (bv. dreumes)"],
+                      "default": ["niet genoemd"]
+                    }, 
+                    "3": {
+                      "id": 133, 
+                      "question": "Van wie krijgt Roodkapje haar kapje?",
+                      "options": ["niet genoemd", "moeder", "Grootmoeder", "anders"],
+                      "default": ["niet genoemd"]
+                    }, 
+                    "4": {
+                      "id": 134, 
+                      "question": "Wie heeft het kapje van Roodkapje gemaakt?",
+                      "options": ["niet genoemd", "moeder", "Grootmoeder", "anders"],
+                      "default": ["niet genoemd"]
+                    }, 
+                    "5": {
+                      "id": 135, 
+                      "question": "Waarom krijgt Roodkapje haar kapje?",
+                      "options": ["niet genoemd", "verjaardag", "Grootmoeders liefde", "verwennerij", "anders"],
+                      "default": ["niet genoemd"]
+                    }, 
+                    "6": {
+                      "id": 136, 
+                      "question": "Moet Roodkapje haar kapje opzetten voor vertrek?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]
+                    }, 
+                    "7": {
+                      "id": 131, 
+                      "question": "Van welk materiaal is het kapje gemaakt? (gebruik moderne lemmavorm)",
+                      "default": ["-"]
+                    }
+                  }
+                }
+              }
+            }, 
+            "5": {
+              "id": 137, 
+              "question": "Worden de mentale eigenschappen van Roodkapje beschreven?", 
+              "options": ["ja", "nee"],
+              "default": ["nee"],
+              "children": {
+                "4": {
+                  "id": 139, 
+                  "question": "Met welke woorden worden de positieve eigenschappen van Roodkapje beschreven?",
+                  "default": ["-"]
+                }, 
+                "5": {
+                  "id": 141, 
+                  "question": "Met welke woorden worden de negatieve eigenschappen van Roodkapje beschreven?",
+                  "default": ["-"]
+                }
+              }
+            }, 
+            "6": {
+              "id": 143, 
+              "question": "Worden uiterlijke kenmerken van Roodkapje genoemd?", 
+              "options": ["ja", "nee"],
+              "default": ["nee"],
+              "children": {
+                "1": {
+                  "id": 144, 
+                  "question": "Welke kleur ogen heeft Roodkapje?",
+                  "default": ["-"]
+                }, 
+                "2": {
+                  "id": 145, 
+                  "question": "Welke kleur haar heeft Roodkapje?",
+                  "default": ["-"]
+                }, 
+                "3": {
+                  "id": 146, 
+                  "question": "Door wie wordt Roodkapje om haar uiterlijk geroemd?",
+                  "options": ["niet genoemd", "moeder", "Grootmoeder", "vriendjes", "wolf", "anders"],
+                  "default": ["-"]
+                }
+              }
+            }, 
+            "7": {
+              "id": 147, 
+              "question": "Worden familieleden van Roodkapje genoemd?",
+              "options": ["ja", "nee"],
+              "default": ["nee"],
+              "children": {
+                "1": {
+                  "id": 148, 
+                  "question": "Wordt de moeder van Roodkapje genoemd?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 149, 
+                      "question": "Hoe wordt moeder genoemd? (bv. moe, mama, mammie)",
+                      "default": ["-"]
+                    }, 
+                    "2": {
+                      "id": 150, 
+                      "question": "Wordt moeder in de beginepisode genoemd?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }, 
+                    "3": {
+                      "id": 151, 
+                      "question": "Is moeder aanwezig in de begin-episode?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }, 
+                    "4": {
+                      "id": 152, 
+                      "question": "Komt moeder in een ander deel van het verhaal nog voor?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }
+                  }
+                }, 
+                "2": {
+                  "id": 153, 
+                  "question": "Wordt de vader van Roodkapje genoemd?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 154, 
+                      "question": "Hoe wordt de vader van Roodkapje genoemd?",
+                      "default": ["-"]
+                    }, 
+                    "2": {
+                      "id": 155, 
+                      "question": "Wordt vader in de beginepisode genoemd?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }, 
+                    "3": {
+                      "id": 156, 
+                      "question": "Is vader aanwezig in de beginepisode?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "4": {
+                      "id": 157, 
+                      "question": "Komt vader in een ander deel van het verhaal nog voor?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+
+                    }, 
+                    "5": {
+                      "id": 158, 
+                      "question": "Wat is het beroep van Roodkapjes vader?",
+                      "default": ["-"]
+                    }
+                  }
+                }, 
+                "3": {
+                  "id": 159, 
+                  "question": "Worden broers/zussen van Roodkapje genoemd?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]
+
+                }, 
+                "4": {
+                  "id": 160, 
+                  "question": "Komt de oma van Roodkapje voor in het verhaal?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 161, 
+                      "question": "Hoe wordt Grootmoeder genoemd? (bv. grootmoe, oma, opoe)?",
+                      "default": ["-"]
+                    }, 
+                    "2": {
+                      "id": 162, 
+                      "question": "Is Grootmoeder jarig?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }, 
+                    "3": {
+                      "id": 163, 
+                      "question": "Is Grootmoeder ziek?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "4": {
+                      "id": 164, 
+                      "question": "Is Grootmoeder al beter?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "5": {
+                      "id": 165, 
+                      "question": "Wordt gezegd of Grootmoeder van Roodkapje houdt?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "6": {
+                      "id": 166, 
+                      "question": "Van wie is Grootmoeder de moeder?",
+                      "options": ["onbekend", "moeder", "vader"],
+                      "default": ["onbekend"]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }, 
+        "2": {
+          "id": 9, 
+          "question": "Villain (wolf)", 
+          "children": {
+            "1": {
+              "id": 167, 
+              "question": "Is de villain een wolf?",
+              "options": ["ja", "nee"],
+              "default": ["nee"],
+              "children": {
+                "1": {
+                  "id": 168, 
+                  "question": "Wordt \"wolf\" met een hoofdletter geschreven?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]
+                }, 
+                "2": {
+                  "id": 169, 
+                  "question": "Hoe wordt de wolf aangeduid?",
+                  "options": ["onbekend", "een wolf", "de wolf", "de grote wolf", "de boze wolf", "de grote boze wolf", "meneer wolf", "anders"],
+                  "default": ["onbekend"]
+                }
+              }
+            }, 
+            "2": {
+              "id": 170, 
+              "question": "Heeft de villain een eigennaam, zo ja welke?",
+              "default": ["-"]
+            }, 
+            "3": {
+              "id": 174, 
+              "question": "Met welke adjectieven wordt de villain aangeduid?",
+              "default": ["-"]
+            }, 
+            "4": {
+              "id": 175, 
+              "question": "Met welke woorden wordt het uiterlijk van de villain omschreven?",
+              "default": ["-"]
+            }, 
+            "5": {
+              "id": 349, 
+              "question": "Worden er achtergronden over het leven van de villain gegeven?", 
+              "options": ["ja", "nee"],
+              "default": ["nee"],
+              "children": {
+                "1": {
+                  "id": 171, 
+                  "question": "Wordt het huis van de villain genoemd?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]                 
+                }, 
+                "2": {
+                  "id": 172, 
+                  "question": "Heeft de villain vrouw en kinderen?",
+                  "options": ["ja", "onbekend"],
+                  "default": ["onbekend"]                  
+                }, 
+                "3": {
+                  "id": 173, 
+                  "question": "Wordt verteld waarom de villain zo slecht is geworden?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]                  
+                }
+              }
+            },
+            "6": {
+              "id": 219, 
+              "question": "Wordt er gezegd hoe lang de villain (wolf) niet heeft gegeten?",
+              "options": ["ja", "nee"],
+              "default": ["nee"]
+            }
+          }
+        }, 
+        "3": {
+          "id": 10, 
+          "question": "Overige Personages", 
+          "children": {
+            "1": {
+              "id": 176, 
+              "question": "Worden er behalve bovenstaande nog andere personages genoemd?",
+              "options": ["ja", "nee"],
+              "default": ["nee"],
+              "children": {
+                "1": {
+                  "id": 178, 
+                  "question": "Komt er een hond voor in het verhaal?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],                  
+                  "children": {
+                    "1": {
+                      "id": 179, 
+                      "question": "Wie de eigenaar van de hond?",
+                      "options": ["onbekend", "Roodkapje", "redder", "anders"],
+                      "default": ["niet relevant"]
+                    }, 
+                    "2": {
+                      "id": 180, 
+                      "question": "Gaat het hondje mee met Roodkapje op reis naar oma?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet relevant"]
+                    }, 
+                    "3": {
+                      "id": 181, 
+                      "question": "Wat is de naam van de hond?",
+                      "default": ["-"]
+                    }
+                  }
+                }, 
+                "2": {
+                  "id": 177, 
+                  "question": "Komen er in het verhaal behalve de villain nog andere pratende dieren voor?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": "353.gd35d2f4428462d973", 
+                      "question": "Praat Roodkapje met deze dieren?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }
+                  }
+                }, 
+                "3": {
+                  "id": 183, 
+                  "question": "Welke andere personages komen er voor?",
+                  "default": ["-"]
+                }
+              }
+            }
+          }
+        }
+      }
+    }, 
+    "3": {
+      "id": 11, 
+      "question": "Episodes", 
+      "children": {
+        "1": {
+          "id": 12, 
+          "question": "Wordt een episode voor het vertrek van Roodkapje besproken?",
+          "options": ["ja", "nee"],
+          "default": ["nee"],          
+          "children": {
+            "1": {
+              "id": 13, 
+              "question": "Krijgt Roodkapje aanwijzingen en/of waarschuwingen voor onderweg en/of bij oma?",
+              "options": ["ja", "nee"],
+              "default": ["nee"],
+              "children": {
+                "1": {
+                  "id": 194, 
+                  "question": "Wie waarschuwt Roodkapje voor ze op reis gaat voor alle gevaren op de weg?",
+                  "default": ["-"]
+                }, 
+                "2": {
+                  "id": 203, 
+                  "question": "Krijgt Roodkapje instructies hoe ze zich moet gedragen bij Grootmoeder?",
+                  "default": ["-"]
+                }, 
+                "3": {
+                  "id": 204, 
+                  "question": "Wordt Roodkapje voor vertrek gewaarschuwd voor d\u00e9 wolf?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],                  
+                  "children": {
+                    "1": {
+                      "id": 206, 
+                      "question": "Gelooft Roodkapje erin dat de wolf slecht is als het haar wordt verteld?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }
+                  }
+                }, 
+                "4": {
+                  "id": 205, 
+                  "question": "Wordt Roodkapje voor vertrek gewaarschuwd voor wolven / enge dieren in het algemeen?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]                  
+                }, 
+                "5": {
+                  "id": 195, 
+                  "question": "Hoe lang moet Roodkapje bij Grootmoeder blijven?",
+                  "options": ["onbekend", "zelfde dag terug", "een nachtje", "meerdere dagen"],
+                  "default": ["onbekend"]
+                }, 
+                "6": {
+                  "id": 196, 
+                  "question": "Wordt Roodkapje voordat ze op reis gaat gezegd niet van de (grote) weg te gaan?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]
+                }, 
+                "7": {
+                  "id": 197, 
+                  "question": "Wordt Roodkapje voor ze op reis gaat gezegd niet te treuzelen onderweg?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]                  
+                }, 
+                "8": {
+                  "id": 198, 
+                  "question": "Wordt Roodkapje voor ze op reis gaat gezegd geen bloemen te plukken?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]                  
+                }, 
+                "9": {
+                  "id": 199, 
+                  "question": "Wordt Roodkapje voor ze op reis gaat gezegd geen vlinders na te jagen?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]                  
+                }, 
+                "10": {
+                  "id": 200, 
+                  "question": "Wordt Roodkapje voor ze op reis gaat gezegd te vertrekken voor het te warm is?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]                  
+                }, 
+                "11": {
+                  "id": 201, 
+                  "question": "Mag Roodkapje van haar moeder het bos in (als ze maar op het pad blijft)?",
+                  "options": ["ja", "nee", "onbekend"],
+                  "default": ["onbekend"]                  
+                }, 
+                "12": {
+                  "id": 202, 
+                  "question": "Moet Roodkapje voorzichtig lopen zodat de spullen voor Grootmoeder niet beschadigd raken door haar roekeloze gedrag?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]                  
+                }
+              }
+            }, 
+            "2": {
+              "id": 185, 
+              "question": "Wordt de reden gegeven waarom Roodkapje naar Grootmoeder moet en niet haar moeder zelf?",
+              "options": ["ja", "nee"],
+              "default": ["nee"]
+            }, 
+            "3": {
+              "id": 186, 
+              "question": "Wordt er in de begin-episode een vooruitwijzing naar een mogelijk slechte afloop gegeven?",
+              "options": ["ja", "nee"],
+              "default": ["nee"]              
+            }, 
+            "4": {
+              "id": 187, 
+              "question": "Wie stuurt Roodkapje naar Grootmoeder?",
+              "options": ["onbekend", "moeder", "vader", "Grootmoeder", "Roodkapje", "anders"],
+              "default": ["onbekend"]
+            }, 
+            "5": {
+              "id": 188, 
+              "question": "Hoe weten moeder en Roodkapje dat Grootmoeder ziek of jarig is?",
+              "options": ["onbekend", "gerucht", "boodschap van Grootmoeder", "jager", "dierenvriendjes", "anders"],
+              "default": ["onbekend"]
+            }, 
+            "6": {
+              "id": 189, 
+              "question": "Is Roodkapje al eerder alleen naar Grootmoeder gegaan?",
+              "options": ["ja", "nee", "onbekend"],
+              "default": ["onbekend"]                            
+            }, 
+            "7": {
+              "id": 190, 
+              "question": "Wordt in de begin-episode gezegd of Roodkapje spullen voor Grootmoeder meeneemt?", 
+              "options": ["ja", "nee"],
+              "default": ["nee"],              
+              "children": {
+                "1": {
+                  "id": 192, 
+                  "question": "Wat neemt Roodkapje mee naar Grootmoeder?",
+                  "default": ["-"]
+                }, 
+                "2": {
+                  "id": 193, 
+                  "question": "Hoe draagt Roodkapje de spullen voor Grootmoeder?",
+                  "options": ["onbekend", "in een mandje", "onder haar schortje", "anders"],
+                  "default": ["onbekend"]
+                }
+              }
+            }, 
+            "8": {
+              "id": 118, 
+              "question": "Staat in de tekst in welk seizoen het verhaal zich afspeelt? Zo ja, in welk seizoen?",
+              "default": ["-"]
+            }, 
+            "9": {
+              "id": 119, 
+              "question": "In welk deel van de dag vertrekt Roodkapje naar Grootmoeder?",
+              "options": ["niet genoemd", "ochtend", "middag", "avond"],
+              "default": ["niet genoemd"]
+            }
+          }
+        }, 
+        "2": {
+          "id": 14, 
+          "question": "Speelt een deel van het verhaal zich onderweg naar Grootmoeder af?", 
+          "options": ["ja", "nee"],
+          "default": ["nee"],          
+          "children": {
+            "1": {
+              "id": 207, 
+              "question": "Ontmoet Roodkapje iemand onderweg naar Grootmoeder?",
+              "options": ["ja", "nee"],
+              "default": ["nee"],              
+              "children": {
+                "1": {
+                  "id": 208, 
+                  "question": "Ontmoet Roodkapje een/ de wolf onderweg naar Grootmoeder?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],                  
+                  "children": {
+                    "1": {
+                      "id": 209, 
+                      "question": "Waar ontmoet Roodkapje de wolf onderweg naar Grootmoeder?",
+                      "options": ["op het pad", "van het pad af"],
+                      "default": ["niet relevant"]
+                    }, 
+                    "2": {
+                      "id": 217, 
+                      "question": "Voor wat ziet Roodkapje de wolf aan bij de eerste ontmoeting met hem?",
+                      "default": ["-"]
+                    }, 
+                    "3": {
+                      "id": 218, 
+                      "question": "Wie vertelt over de intenties van de wolf?",
+                      "options": ["wordt niet gedaan", "Roodkapje", "wolf", "verteller", "dieren in het bos", "anders"],
+                      "default": ["wordt niet gedaan"]
+                    }, 
+                    "4": {
+                      "id": 220, 
+                      "question": "Hebben Roodkapje en de wolf het bij hun eerste ontmoeting over Roodkapjes mandje?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],
+                      "children": {
+                        "1": {
+                          "id": "355.gd35d2f4428462d973", 
+                          "question": "Vraagt de Wolf aan Roodkapje wat ze in haar mandje heeft?",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]                          
+                        }, 
+                        "2": {
+                          "id": 221, 
+                          "question": "Wordt duidelijk wat de intenties zijn van de wolf ten aanzien van het mandje?",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]                          
+                        }
+                      }
+                    }, 
+                    "5": {
+                      "id": 223, 
+                      "question": "Waarom eet de wolf Roodkapje niet meteen op?",
+                      "options": ["onduidelijk", "de wolf wil haar niet opeten", "houthakkers in de buurt", "Roodkapje is niet genoeg", "anders"],
+                      "default": ["niet relevant"]
+                    }, 
+                    "6": {
+                      "id": 224, 
+                      "question": "Praten Roodkapje en de wolf over waar Grootmoeder woont en haar huisje?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],
+                      "children": {
+                        "1": {
+                          "id": 226, 
+                          "question": "Blijkt uit het gesprek tussen Roodkapje en de wolf dat de wolf weet waar Grootmoeder woont?", 
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]
+                        },
+                        "2": {
+                          "id": 227, 
+                          "question": "Probeert de wolf Roodkapje te ontfutselen waar Grootmoeder woont?", 
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]
+                        },
+                        "3": {
+                          "id": 228, 
+                          "question": "Zegt Roodkapje iets als: \"Maar je weet toch wat Grootmoeder woont?\"",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]
+                        }, 
+                        "4": {
+                          "id": 229, 
+                          "question": "Verklapt Roodkapje hoe de deur van Grootmoeders huisje open gaat?",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]
+                        }
+                      }
+                    }, 
+                    "7": {
+                      "id": 230, 
+                      "question": "Hoe ver is het nog naar Grootmoeder als de wolf en Roodkapje elkaar ontmoeten?",
+                      "options": ["onbekend", "heel ver", "kwartiertje", "half uurtje", "dichtbij"],
+                      "default": ["onbekend"]
+                    }, 
+                    "8": {
+                      "id": 231, 
+                      "question": "Doen de wolf en Roodkapje een wedstrijd wie het eerst bij Grootmoeder is?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }, 
+                    "9": {
+                      "id": 210, 
+                      "question": "Hoe weet de wolf dat Roodkapje in de buurt is, op weg naar Grootmoeder?",
+                      "options": ["onbekend", "van horen zeggen", "directe waarneming", "anders"],
+                      "default": ["niet van toepassing"]
+                    }, 
+                    "10": {
+                      "id": 234, 
+                      "question": "Welke weg bewandelt de wolf na de eerste ontmoeting met Roodkapje?",
+                      "default": ["-"]
+                    }, 
+                    "11": {
+                      "id": 235, 
+                      "question": "Welke weg bewandelt Roodkapje na de eerste ontmoeting met de wolf?",
+                      "default": ["-"]
+                    }, 
+                    "12": {
+                      "id": 236, 
+                      "question": "Gelooft Roodkapje na de eerst ontmoeting met de wolf in de goedheid van de wolf?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]                      
+                    }, 
+                    "13": {
+                      "id": 212, 
+                      "question": "Schrikt Roodkapje van de wolf wanneer ze hem onderweg tegenkomt?", 
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]
+                    },                   
+                    "14": {
+                      "id": 222, 
+                      "question": "Blijft Roodkapje bang gedurende de eerste ontmoeting met de wolf?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]
+                    },
+                    "15": {
+                      "id": 213, 
+                      "question": "Wordt er gezegd dat Roodkapje niet weet dat wolven gevaarlijk zijn als ze de wolf ontmoet in het bos?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "16": {
+                      "id": 214, 
+                      "question": "Wie spreekt wie aan onderweg naar Grootmoeder? De wolf Roodkapje, of andersom?",
+                      "options": ["wolf -> Roodkapje", "Roodkapje -> wolf"],
+                      "default": ["niet van toepassing"]
+                    }, 
+                    "17": {
+                      "id": 215, 
+                      "question": "Bij de ontmoeting in het bos, kent de wolf Roodkapje bij naam?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }, 
+                    "18": {
+                      "id": 216, 
+                      "question": "Hoe noemt de wolf Roodkapje? (noem alle eigennamen en zelfstandig naamwoorden)",
+                      "default": ["-"]
+                    }
+                  }
+                }, 
+                "2": {
+                  "id": 239, 
+                  "question": "Ontmoet Roodkapje iemand anders behalve de wolf in het bos?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 240, 
+                      "question": "Wie ontmoet Roodkapje nog meer in het bos?",
+                      "default": ["-"]
+                    }, 
+                    "2": {
+                      "id": 241, 
+                      "question": "Waarschuwt (een van) diegene(n) Roodkapje voor naderend onheil?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }, 
+                    "3": {
+                      "id": 242, 
+                      "question": "Ontmoet Roodkapje iemand anders voor, na, of voor \u00e9n nadat ze de wolf ontmoette?",
+                      "options": ["voor", "na", "voor en na"],
+                      "default": ["niet relevant"]
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "id": 225, 
+              "question": "Weet de wolf al waar Roodkapje naar toe gaat?",
+              "options": ["ja", "nee"],
+              "default": ["ja"]   
+            },
+            "3": {
+              "id": 237, 
+              "question": "Welke andere dieren behalve de wolf worden genoemd op Roodkapjes reis naar Grootmoeder (die Roodkapje niet ontmoet)?", 
+              "default": ["-"]
+            }, 
+            "4": {
+              "id": 244, 
+              "question": "Wordt vermeld over wat voor soort weg Roodkapje loopt?",
+              "options": ["ja", "nee"],
+              "default": ["nee"]
+            },
+            "5": {
+              "id": 246, 
+              "question": "Verlaat Roodkapje het pad dat ze neemt naar Grootmoeder?",
+              "options": ["ja", "nee"],
+              "default": ["niet relevant"]
+            },
+            "6": {
+              "id": 247, 
+              "question": "Wie zorgt ervoor dat Roodkapje de weg verlaat?",
+              "options": ["onbekend", "de wolf", "Roodkapje", "de wolf en Roodkapje", "anders"],
+              "default": ["niet relevant"]
+            },
+            "7": {
+              "id": 248, 
+              "question": "Zingt Roodkapje onderweg naar Grootmoeder?", 
+              "options": ["ja", "nee"],
+              "default": ["nee"],
+              "children": {
+                "1": {
+                  "id": 249, 
+                  "question": "Wordt er naar het liedje van Roodkapje gerefereerd (\"Zeg Roodkapje waar ga je...\")?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]
+                }
+              }
+            }, 
+            "8": {
+              "id": 250, 
+              "question": "Doet Roodkapje dingen in het bos die haar tocht naar Grootmoeder vertragen?",
+              "options": ["ja", "nee"],
+              "default": ["nee"],
+              "children": {
+                "1": {
+                  "id": 252, 
+                  "question": "Plukt Roodkapje bloemen of zoekt ze andere dingen voordat ze de wolf ontmoet of erna of allebei?", 
+                  "options": ["niet relevant", "ervoor", "erna", "ervoor en erna"],
+                  "default": ["niet relevant"],
+                  "children": {
+                    "1": {
+                      "id": 257, 
+                      "question": "Jaagt Roodkapje op vlinders?", 
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }, 
+                    "2": {
+                      "id": 256, 
+                      "question": "Zoekt Roodkapje nootjes?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "3": {
+                      "id": 251, 
+                      "question": "Plukt Roodkapje bloempjes?", 
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "4": {
+                      "id": 350, 
+                      "question": "Probeert de wolf Roodkapje van het pad af te brengen?", 
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],                      
+                      "children": {
+                        "1": {
+                          "id": 233, 
+                          "question": "Vindt de wolf dat Roodkapje van de schone natuur moet genieten?",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]                      
+                        }, 
+                        "2": {
+                          "id": 232, 
+                          "question": "Vindt de wolf dat Roodkapje loopt alsof ze naar \"school\" gaat?",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]                          
+                        }, 
+                        "3": {
+                          "id": 254, 
+                          "question": "Van wie is het plan om bloemen te plukken of andere dingen te zoeken?",
+                          "options": ["onbekend", "Roodkapje", "de wolf", "Roodkapje en de wolf", "anders"],
+                          "default": ["niet relevant"]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }, 
+        "3": {
+          "id": 15, 
+          "question": "Wordt een episode bij Grootmoeder besproken?", 
+          "options": ["ja", "nee"],
+          "default": ["nee"],          
+          "children": {
+            "1": {
+              "id": 259, 
+              "question": "Wordt gezegd waar het huisje van Grootmoeder staat?", 
+              "options": ["ja", "nee"],
+              "default": ["nee"],                        
+              "children": {
+                "1": {
+                  "id": 260, 
+                  "question": "Waar staat het huis van Grootmoeder?",
+                  "options": ["in het (volgende) dorp", "in het bos", "anders"],
+                  "default": ["onbekend"]
+                }, 
+                "2": {
+                  "id": 261, 
+                  "question": "Wordt de omgeving van Grootmoeders huisje gespecificeerd? Zoja, met welke woorden?",
+                  "default": ["-"],
+                  "children": {
+                    "1": {
+                      "id": 262, 
+                      "question": "Worden de drie eiken in het bos genoemd?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }, 
+                    "2": {
+                      "id": 263, 
+                      "question": "Staat het huisje van Grootmoeder bij de drie eiken?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "3": {
+                      "id": 264, 
+                      "question": "Wordt de molen genoemd in de buurt van Grootmoeders huis?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "4": {
+                      "id": 265, 
+                      "question": "Wat is de kleur van het dak van Grootmoeders huisje?",
+                      "default": ["-"]                      
+                    }, 
+                    "5": {
+                      "id": 266, 
+                      "question": "Wat is de kleur van Grootmoeders huisje?",
+                      "default": ["-"]
+                    }, 
+                    "6": {
+                      "id": 267, 
+                      "question": "Is het huisje van Grootmoeder omgeven door een haag?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }
+                  }
+                }
+              }
+            }, 
+            "2": {
+              "id": 16, 
+              "question": "Aankomst van de wolf", 
+              "children": {
+                "1": {
+                  "id": 268, 
+                  "question": "Wordt de tocht van de wolf naar Grootmoeders huisje beschreven?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 269, 
+                      "question": "Gaat de wolf nog ergens anders heen voor hij naar het huisje van Grootmoeder gaat?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }
+                  }
+                },
+                "2": {
+                  "id": 274, 
+                  "question": "Is Grootmoeder thuis als de wolf aankomt?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 275, 
+                      "question": "Vindt er een gesprek plaats tussen Grootmoeder en de wolf terwijl de wolf nog buiten is?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }, 
+                    "2": {
+                      "id": 286, 
+                      "question": "Wordt Grootmoeder opgegeten?", 
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],                      
+                      "children": {
+                        "1": {
+                          "id": 287, 
+                          "question": "Wordt oma (in een hap) \"opgeslokt\" of \"opgegeten\"?",
+                          "options": ["opgeslokt", "opgegeten", "anders"],
+                          "default": ["niet relevant"]
+                        }, 
+                        "2": {
+                          "id": 288, 
+                          "question": "Wordt bij het opeten al duidelijk dat Grootmoeder het zou kunnen overleven?",
+                          "options": ["ja", "nee"],
+                          "default": ["niet relevant"]
+                        }
+                      }
+                    }, 
+                    "3": {
+                      "id": 273, 
+                      "question": "Is Grootmoeder wantrouwig als de wolf aanklopt?",
+                      "options": ["ja", "nee", "onbekend"],
+                      "default": ["niet relevant"]
+                    }, 
+                    "4": {
+                      "id": 277, 
+                      "question": "Hoe klinkt de stem van de wolf? (noem adjectieven)",
+                      "default": ["-"]
+                    }, 
+                    "5": {
+                      "id": 278, 
+                      "question": "Kijkt Grootmoeder door het raampje om te zien of het Roodkapje is die voor de deur staat?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }, 
+                    "6": {
+                      "id": 276, 
+                      "question": "Komt de wolf zonder Grootmoeders hulp het huis binnen?",
+                      "options": ["ja", "nee"],
+                      "default": ["ja"],
+                      "children": {
+                        "5": {
+                          "id": 279, 
+                          "question": "Doet Grootmoeder zelf de deur open voor de wolf?", 
+                          "options": ["ja", "nee"],
+                          "default": ["nee"],
+                          "children": {
+                            "1": {
+                              "id": 280, 
+                              "question": "Vertelt Grootmoeder hoe de deur open gaat?", 
+                              "options": ["ja", "nee"],
+                              "default": ["nee"],
+                              "children": {
+                                "1": {
+                                  "id": 281, 
+                                  "question": "Waarmee gaat de deur open (touwtje, klink, etc.)?",
+                                  "default": ["-"]
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }, 
+                    "7": {
+                      "id": 282, 
+                      "question": "Ligt Grootmoeder achter een gordijn?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "8": {
+                      "id": 290, 
+                      "question": "Verliest Grootmoeder haar kleren tijdens de belaging van de wolf?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "9": {
+                      "id": 289, 
+                      "question": "Vlucht Grootmoeder voor de wolf, zo ja waarheen?",
+                      "options": ["nee", "kast", "kelder", "naar buiten", "anders"],
+                      "default": ["nee"]
+                    }
+                  }
+                }, 
+                "3": {
+                  "id": 270, 
+                  "question": "Klopt de wolf aan het huisje van Grootmoeder?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 271, 
+                      "question": "Hoe klinkt het kloppen van de wolf? (\u00e9\u00e9n woord per klank)",
+                      "default": ["-"]
+                    }, 
+                    "2": {
+                      "id": 272, 
+                      "question": "Hoe vaak klopt de wolf?",
+                      "options": ["0", "1", "2", "3", "4", "5", ">5"],
+                      "default": ["0"]
+                    }
+                  }
+                },
+                "4": {
+                  "id": 291, 
+                  "question": "Verkleedt de wolf zich?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 297, 
+                      "question": "Als wie verkleedt de wolf zich?",
+                      "default": ["-"]
+                    }, 
+                    "2": {
+                      "id": 292, 
+                      "question": "Trekt de wolf de kleren aan van Grootmoeder?", 
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],                      
+                      "children": {
+                        "1": {
+                          "id": 293, 
+                          "question": "Worden de kledingstukken die de wolf aantrekt met een definiet lidwoord aangeduid?",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]                          
+                        }, 
+                        "2": {
+                          "id": 294, 
+                          "question": "Doet de wolf de/ een slaapmuts op van Grootmoeder?",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]                                                    
+                        }, 
+                        "3": {
+                          "id": 295, 
+                          "question": "Trekt de wolf de/ een nachtjapon aan van Grootmoeder?",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]                                                    
+                        }, 
+                        "4": {
+                          "id": 296, 
+                          "question": "Zet de wolf de/ een bril op van Grootmoeder?",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]                          
+                        }
+                      }
+                    }, 
+                    "3": {
+                      "id": 302, 
+                      "question": "Complimenteert de wolf zichzelf met zijn snode en sluwe plan?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }
+                  }
+                }, 
+                "5": {
+                  "id": 283, 
+                  "question": "Met welke woorden wordt beschreven hoe de wolf het huis in gaat (bv. \"rennen\")?",
+                  "default": ["-"]
+                }, 
+                "6": {
+                  "id": "FBK.1",
+                  "question": "Verstopt de wolf Grootmoeder (bijvoorbeeld in de kast?)",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]
+                },
+                "7": {
+                  "id": 298, 
+                  "question": "Kruipt de wolf in bed?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "2": {
+                      "id": 300, 
+                      "question": "Kruipt de wolf \"onder\" de dekens?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                                                
+                    }, 
+                    "3": {
+                      "id": 284, 
+                      "question": "Waar in het huis staat het bed van Grootmoeder?",
+                      "default": ["-"]
+                    }
+                  }
+                }, 
+                "8": {
+                  "id": 301, 
+                  "question": "Trekt de wolf de gordijnen dicht? Zoja, welke (bv. bed, bedstee, huisje)?",
+                  "default": ["-"]
+                }, 
+                "9": {
+                  "id": 303, 
+                  "question": "Wacht de wolf \"geduldig\" of \"ongeduldig\" op Roodkapje?",
+                  "options": ["onbekend", "geduldig", "ongeduldig"],
+                  "default": ["niet relevant"]
+                } 
+              }
+            }, 
+            "3": {
+              "id": 17, 
+              "question": "Aankomst van Roodkapje", 
+              "children": {
+                "1": {
+                  "id": 304, 
+                  "question": "Wordt Roodkapje door iemand vergezeld tot aan Grootmoeders huisje?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]
+                }, 
+                "2": {
+                  "id": 305, 
+                  "question": "Staat de deur al open als Roodkapje aankomt bij Grootmoeders huisje?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 308, 
+                      "question": "Klopt Roodkapje aan de deur?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],
+                      "children": {
+                        "1": {
+                          "id": 309, 
+                          "question": "Hoe klinkt het kloppen van Roodkapje? (een woord per klank)",
+                          "default": ["-"]
+                        }, 
+                        "2": {
+                          "id": 310, 
+                          "question": "Hoe vaak klopt Roodkapje?",
+                          "options": ["0", "1", "2", "3", "5", ">5"],
+                          "default": ["0"]
+                        }
+                      }
+                    }, 
+                    "2": {
+                      "id": 311, 
+                      "question": "Trekt Roodkapje aan de bel?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }, 
+                    "3": {
+                      "id": 312, 
+                      "question": "Is de \"doe de deur maar open...\"-formule aanwezig?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }, 
+                    "4": {
+                      "id": 314, 
+                      "question": "Kijkt de wolf uit het raam of het Roodkapje is die voor de deur staat?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }
+                  }
+                }, 
+                "3": {
+                  "id": 313, 
+                  "question": "Is Roodkapje angstig bij het binnentreden van Grootmoeders huisje?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]              
+                }, 
+                "4": {
+                  "id": 315, 
+                  "question": "Schrikt Roodkapje als bij de eerste aanblik van de wolf in Grootmoeders huisje?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]                  
+                }, 
+                "5": {
+                  "id": 317, 
+                  "question": "Schrikt Roodkapje als ze de stem van de wolf hoort bij Grootmoeder?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 318, 
+                      "question": "Wordt de stem van de wolf omschreven als grof oid?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],                      
+                      "children": {
+                        "1": {
+                          "id": 319, 
+                          "question": "Schrijft Roodkapje de grove stem van de wolf toe aan Grootmoeders verkoudheid / ziekte?",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]                          
+                        }
+                      }
+                    }
+                  }
+                }, 
+                "6": {
+                  "id": 299, 
+                  "question": "Is het voor de lezer duidelijk dat het de wolf is die in bed ligt bij de aankomst van Roodkapje bij Grootmoeder?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]                  
+                }
+              }
+            }, 
+            "4": {
+              "id": 18, 
+              "question": "Opeten van Roodkapje", 
+              "children": {
+                "1": {
+                  "id": 320, 
+                  "question": "Herkent Roodkapje de wolf meteen als ze hem ziet in Grootmoeders huis?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]                  
+                }, 
+                "2": {
+                  "id": 321, 
+                  "question": "Vindt er een gesprek plaats tussen Roodkapje en de wolf als Roodkapje binnen is?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 322, 
+                      "question": "Waar moet Roodkapje haar meegebrachte spulletjes neerzetten van de wolf?",
+                      "default": ["-"]
+                    }, 
+                    "2": {
+                      "id": 323, 
+                      "question": "Vertelt Roodkapje aan de wolf over ontmoeting met de wolf in het bos?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "3": {
+                      "id": 324, 
+                      "question": "Is de bekende formulaische passage van \"wat heeft u grote X\" aanwezig?", 
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],                      
+                      "children": {
+                        "1": {
+                          "id": 325, 
+                          "question": "Welke lichaamsdelen worden er in de formulaische passage genoemd? (geef in volgorde van de tekst)",
+                          "default": ["-"]
+                        }, 
+                        "2": {
+                          "id": 326, 
+                          "question": "Rijmt deze formulaische passage?",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]                          
+                        }
+                      }
+                    }, 
+                    "4": {
+                      "id": 327, 
+                      "question": "Wil de wolf een kus van Roodkapje?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }
+                  }
+                }, 
+                "3": {
+                  "id": 328, 
+                  "question": "Stapt Roodkapje bij de wolf \"in\" of \"op\" bed?",
+                  "options": ["niet van toepassing", "\"in bed\"", "\"op bed\""],
+                  "default": ["niet van toepassing"],
+                  "children": {
+                    "2": {
+                      "id": 331, 
+                      "question": "Kleedt Roodkapje zich uit?", 
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],                      
+                      "children": {
+                        "1": {
+                          "id": 332, 
+                          "question": "Welke kleding trekt Roodkapje uit?",
+                          "default": ["-"]
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "id": 329, 
+                  "question": "Vraagt de wolf Roodkapje in / op het bed te stappen?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],                      
+                  "children": {
+                    "1": {
+                      "id": 330, 
+                      "question": "Geeft de wolf een reden waarom Roodkapje bij hem in bed moet kruipen?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                          
+                    }
+                  }
+                },                 
+                "5": {
+                  "id": 333, 
+                  "question": "Wil de wolf Roodkapje opeten?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]
+                }, 
+                "6": {
+                  "id": 334, 
+                  "question": "Eet de wolf Roodkapje op?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 335, 
+                      "question": "Wordt Roodkapje (in een hap) \"opgeslokt\" of \"opgegeten\"?",
+                      "options": ["\"opgeslokt\"", "\"opgegeten\"", "anders"],
+                      "default": ["niet van toepassing"]
+                    }, 
+                    "2": {
+                      "id": 336, 
+                      "question": "Wordt bij het opeten al duidelijk dat Roodkapje het zou kunnen overleven?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]
+                    }, 
+                    "3": {
+                      "id": 337, 
+                      "question": "Blijft de wolf na het opeten van (Grootmoeder en) Roodkapje in het huis?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]
+                    }, 
+                    "4": {
+                      "id": 338, 
+                      "question": "Gaat de wolf slapen na het opeten van (Grootmoeder en) Roodkapje?", 
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"],
+                      "children": {
+                        "1": {
+                          "id": 339, 
+                          "question": "Waar gaat de wolf liggen slapen?",
+                          "default": ["-"]
+                        }, 
+                        "2": {
+                          "id": 340, 
+                          "question": "Snurkt de wolf?",
+                          "options": ["ja", "nee"],
+                          "default": ["niet van toepassing"]
+                        }
+                      }
+                    }
+                  }
+                }, 
+                "7": {
+                  "id": 341, 
+                  "question": "Probeert Roodkapje te vluchten van de wolf?",                  
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],                  
+                  "children": {
+                    "1": {
+                      "id": 342, 
+                      "question": "Slaagt Roodkapje erin te vluchten van de wolf?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],
+                      "children": {
+                        "1": {
+                          "id": 1001,
+                          "question": "Waar vlucht Roodkapje naartoe?",
+                          "default": ["-"]
+                        }
+                      }
+                    }, 
+                    "2": {
+                      "id": 343, 
+                      "question": "Zit de wolf Roodkapje achterna in Grootmoeders huis?", 
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],                      
+                      "children": {
+                        "1": {
+                          "id": 344, 
+                          "question": "Struikelt de wolf over iets tijdens zijn achtervolging?", 
+                          "options": ["ja", "nee"],
+                          "default": ["nee"],                          
+                          "children": {
+                            "1": {
+                              "id": 345, 
+                              "question": "Waarover struikelt de wolf tijdens de achtervolging?",
+                              "default": ["-"]
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }, 
+                "8": {
+                  "id": 346, 
+                  "question": "Nuttigt de wolf de door Roodkapje meegebrachte spullen?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],                  
+                  "children": {
+                    "1": {
+                      "id": 347, 
+                      "question": "Nuttigt de wolf de spullen voor of nadat hij Roodkapje opeet?",
+                      "options": ["niet van toepassing", "voordat", "nadat"],
+                      "default": ["niet van toepassing"]
+                    }, 
+                    "2": {
+                      "id": 348, 
+                      "question": "Welke spullen nuttigt de wolf?",
+                      "default": ["-"]
+                    }
+                  }
+                }
+              }
+            }, 
+            "5": {
+              "id": 19, 
+              "question": "Zit er een reddingscene in het verhaal?",
+              "options": ["ja", "nee"],
+              "default": ["nee"],              
+              "children": {
+                "1": {
+                  "id": 20, 
+                  "question": "Is de redder (of een van de redders) Roodkapje zelf?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]
+                }, 
+                "2": {
+                  "id": 21, 
+                  "question": "Is de redder (of een van de redders) Grootmoeder?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]
+                },
+                "3": {
+                  "id": 22, 
+                  "question": "Is de redder (ook) iemand anders?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],                  
+                  "children": {
+                    "1": {
+                      "id": 24, 
+                      "question": "Door wie wordt Roodkapje (en Grootmoeder) gered?",
+                      "default": ["-"]
+                    }, 
+                    "2": {
+                      "id": 37, 
+                      "question": "Zijn er meerdere redders?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]                      
+                    }, 
+                    "3": {
+                      "id": 25, 
+                      "question": "Wordt de redder ge\u00efntroduceerd met definiet lidwoord?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]                      
+                    }, 
+                    "4": {
+                      "id": 26, 
+                      "question": "Wat is de leeftijd van de redder?",
+                      "options": ["niet genoemd", "jong", "oud"],
+                      "default": ["niet van toepassing"]
+                    }, 
+                    "5": {
+                      "id": 27, 
+                      "question": "Waarom komt de redder naar het huisje?",
+                      "options": ["toevallig voorbij", "verdacht gesnurk", "visite", "iemand vertelt wat er is gebeurd", "andere aanwijzing"],
+                      "default": ["niet van toepassing"]
+                    }, 
+                    "6": {
+                      "id": 28, 
+                      "question": "Weet de redder wie er in het huisje woont?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]                                     
+                    }, 
+                    "7": {
+                      "id": 29, 
+                      "question": "Wordt de redder door een ander personage naar het huisje geleid?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"], 
+                      "children": {
+                        "1": {
+                          "id": 30, 
+                          "question": "Door wie wordt de redder naar het huisje geleid?",
+                          "default": ["-"]
+                        }
+                      }
+                    }, 
+                    "8": {
+                      "id": 31, 
+                      "question": "Hoe komt de redder het huisje binnen? (noem bewegingswerkwoord, bv. binnenstormen)",
+                      "default": ["-"]
+                    }, 
+                    "9": {
+                      "id": 32, 
+                      "question": "Vermoedt de redder dat Roodkapje ook is opgegeten?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]
+                    }, 
+                    "10": {
+                      "id": 33, 
+                      "question": "Begrijpt de redder als hij de wolf ziet meteen \"hoe het zit\"?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]
+                    },                    
+                    "11": {
+                      "id": 34, 
+                      "question": "Heeft de redder hulp van een hond?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]
+                    }, 
+                    "12": {
+                      "id": 35, 
+                      "question": "Kent de redder de wolf?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]                      
+                    }, 
+                    "13": {
+                      "id": 36, 
+                      "question": "Hoe noemt de redder de wolf?",
+                      "default": ["-"]
+                    }
+                  }
+                },                                  
+                "4": {
+                  "id": 64, 
+                  "question": "Wordt de wolf gestraft en/ of gedood?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],                  
+                  "children": {
+                    "1": {
+                      "id": 65, 
+                      "question": "Wie initieert het plan de wolf te straffen / te doden?",
+                      "default": ["-"]
+                    }, 
+                    "2": {
+                      "id": 66, 
+                      "question": "Wordt er iets in de buik van de wolf gestopt?", 
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],
+                      "children": {
+                        "1": {
+                          "id": 67, 
+                          "question": "Wat wordt er in de buik van de wolf gestopt?",
+                          "default": ["-"]
+                        }, 
+                        "2": {
+                          "id": 68, 
+                          "question": "Wordt de buik gevuld v\u00f3\u00f3r of na de dood van de wolf?",
+                          "options": ["niet van toepassing", "voor de dood", "na de dood"],
+                          "default": ["niet van toepassing"]
+                        }, 
+                        "3": {
+                          "id": 69, 
+                          "question": "Wie stopt er iets in de buik van de wolf?",
+                          "options": ["Roodkapje", "Grootmoeder", "redder", "moeder", "iemand anders"],
+                          "default": ["niet van toepassing"]
+                        }, 
+                        "4": {
+                          "id": 70, 
+                          "question": "Wordt de buik van de wolf weer dichtgenaaid?", 
+                          "options": ["ja", "nee"],
+                          "default": ["niet van toepassing"],                          
+                          "children": {
+                            "1": {
+                              "id": 71, 
+                              "question": "Wie naait de buik van wolf dicht?",
+                              "options": ["Roodkapje", "Grootmoeder", "redder", "moeder", "iemand anders"],
+                              "default": ["niet van toepassing"]
+                            }
+                          }
+                        }, 
+                        "5": {
+                          "id": 72, 
+                          "question": "Bij het ontwaken, heeft de wolf \"buikpijn van het vele eten\"?",
+                          "options": ["ja", "nee"],
+                          "default": ["niet van toepassing"]                          
+                        }
+                      }
+                    }, 
+                    "3": {
+                      "id": 76, 
+                      "question": "Gaat de wolf dood?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],
+                      "children": {
+                        "1": {
+                          "id": 77, 
+                          "question": "Wordt de wolf vermoord? (indirect gevolg telt niet)",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"],
+                          "children": {
+                            "1": {
+                              "id": 78, 
+                              "question": "Wordt de wolf vermoord v\u00f3\u00f3r of nadat Roodkapje (en Grootmoeder) zijn gered?",
+                              "options": ["voordat", "nadat"],
+                              "default": ["niet van toepassing"]
+                            }, 
+                            "2": {
+                              "id": 79, 
+                              "question": "Waarmee wordt de wolf vermoord (geweer, bijl, etc.)?",
+                              "default": ["-"]
+                            }
+                          }
+                        }, 
+                        "2": {
+                          "id": 80, 
+                          "question": "Valt de wolf dood neer door het gewicht van de stenen in zijn buik?",
+                          "options": ["ja", "nee"],
+                          "default": ["niet van toepassing"]
+                        }, 
+                        "3": {
+                          "id": 81, 
+                          "question": "Verdrinkt de wolf?", 
+                          "options": ["ja", "nee"],
+                          "default": ["nee"],
+                          "children": {
+                            "1": {
+                              "id": 82, 
+                              "question": "Waarin verdrinkt de wolf?",
+                              "default": ["-"]
+                            }, 
+                            "2": {
+                              "id": 83, 
+                              "question": "Hoe komt de wolf in de put (of ander water)?",
+                              "options": ["hij wordt erin gegooid", "de stenen in zijn buik", "hij springt erin", "anders"],
+                              "default": ["niet van toepassing"]
+                            }
+                          }
+                        }, 
+                        "4": {
+                          "id": 84, 
+                          "question": "Wordt expliciet gezegd dat de wolf dood is?",
+                          "options": ["ja", "nee"],
+                          "default": ["niet van toepassing"]                          
+                        }, 
+                        "5": {
+                          "id": 85, 
+                          "question": "Moet er geinfereerd worden dat de wolf dood is?",
+                          "options": ["ja", "nee"],
+                          "default": ["niet van toepassing"]                          
+                        }, 
+                        "6": {
+                          "id": 86, 
+                          "question": "Wordt het vel van de wolf gestroopt?", 
+                          "options": ["ja", "nee"],
+                          "default": ["nee"],                          
+                          "children": {
+                            "1": {
+                              "id": 87, 
+                              "question": "Wat wordt er van het vel van de wolf gemaakt?",
+                              "default": ["-"],
+                              "children": {
+                                "1": {
+                                  "id": 88, 
+                                  "question": "Voor wie is de jas (of ander voorwerp) gemaakt van wolvenvel?",
+                                  "options": ["Roodkapje", "redder", "Grootmoeder", "moeder", "anders"],
+                                  "default": ["niet van toepassing"]
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }, 
+                    "4": {
+                      "id": "356.gd35d2f4428462d973", 
+                      "question": "Wordt de wolf gevangen genomen?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]
+                    }
+                  }
+                }, 
+                "5": {
+                  "id": 74, 
+                  "question": "Probeert de wolf te vluchten voor de redder?",
+                  "options": ["ja", "nee"],
+                  "default": ["niet van toepassing"]
+                },                
+                "6": {
+                  "id": 38, 
+                  "question": "Wordt Grootmoeder gered?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 39, 
+                      "question": "Wordt Grootmoeder uit de buik gehaald?",                       
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],                      
+                      "children": {
+                        "1": {
+                          "id": 40, 
+                          "question": "Vertelt Grootmoeder iets over haar ervaringen in de buik van de wolf?", 
+                          "options": ["ja", "nee"],
+                          "default": ["nee"],                          
+                          "children": {
+                            "1": {
+                              "id": 41, 
+                              "question": "Vertelt Grootmoeder dat het zo donker was in de buik van de wolf?",
+                              "options": ["ja", "nee"],
+                              "default": ["nee"]
+                            }
+                          }
+                        }
+                      }
+                    }, 
+                    "2": {
+                      "id": 42, 
+                      "question": "Komt Grootmoeder uit de mond van de wolf?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "3": {
+                      "id": 43, 
+                      "question": "Heeft Grootmoeder ademhalingsproblemen nadat ze is bevrijd?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]
+                    }, 
+                    "4": {
+                      "id": 44, 
+                      "question": "Is Grootmoeder direct na haar bevrijding niet meer ziek?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]
+                    }, 
+                    "5": {
+                      "id": 63, 
+                      "question": "Leert oma ook een les van alles wat is gebeurd?",
+                      "options": ["ja", "nee"],
+                      "default": ["niet van toepassing"]                      
+                    }
+                  }
+                }, 
+                "7": {
+                  "id": 45, 
+                  "question": "Wordt Roodkapje gered van de wolf?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 48, 
+                      "question": "Wordt Roodkapje uit de buik gehaald?", 
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],
+                      "children": {
+                        "1": {
+                          "id": 49, 
+                          "question": "Vertelt Roodkapje iets over haar ervaringen in de buik van de wolf?",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]
+                        }, 
+                        "2": {
+                          "id": 50, 
+                          "question": "Vertelt Roodkapje dat het zo donker was in de buik van de wolf?",
+                          "options": ["ja", "nee"],
+                          "default": ["nee"]
+                        }
+                      }
+                    }, 
+                    "2": {
+                      "id": 51, 
+                      "question": "Komt Roodkapje uit de mond van de wolf?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    },
+                    "3": {
+                      "id": 55, 
+                      "question": "Nuttigen Roodkapje, Grootmoeder en of de redder de door Roodkapje meegebrachte spullen?", 
+                      "options": ["ja", "nee"],
+                      "default": ["nee"],                      
+                      "children": {
+                        "1": {
+                          "id": 56, 
+                          "question": "Wordt er gegeten en gedronken voor of nadat de wolf wordt gedood / gestraft?", 
+                          "options": ["niet van toepassing", "voordat", "nadat"],
+                          "default": ["niet van toepassing"],
+                          "children": {
+                            "1": {
+                              "id": 57, 
+                              "question": "Wat eet en/of drinkt Roodkapje?", 
+                              "default": ["-"]
+                            }, 
+                            "2": {
+                              "id": 60, 
+                              "question": "Wat eet en/of drinkt Grootmoeder?",
+                              "default": ["-"]
+                            }, 
+                            "3": {
+                              "id": 61, 
+                              "question": "Wat eet en/of drinkt de redder?",
+                              "default": ["-"]
+                            }
+                          }
+                        }
+                      }
+                    }, 
+                    "4": {
+                      "id": 62, 
+                      "question": "Komt moeder ook naar Grootmoeder?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }
+                  }
+                },
+                "8": {
+                  "id": "XX8989",
+                  "question": "Wordt de buik van de wolf opengemaakt?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "2": {
+                      "id": 53, 
+                      "question": "Waarmee wordt de buik van de wolf opengemaakt?",
+                      "default": ["-"]
+                    }, 
+                    "1": {
+                      "id": 54, 
+                      "question": "Wie maakt de buik van de wolf open?",
+                      "default": ["-"]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }, 
+        "4": {
+          "id": 89, 
+          "question": "Wordt een episode besproken waarin Roodkapje na haar avontuur weer thuis is?", 
+          "options": ["ja", "nee"],
+          "default": ["nee"],
+          "children": {
+            "1": {
+              "id": 90, 
+              "question": "Gaat Roodkapje weer terug naar huis?", 
+              "options": ["ja", "nee"],
+              "default": ["nee"],              
+              "children": {
+                "1": {
+                  "id": 92, 
+                  "question": "Wie brengt Roodkapje weer terug naar huis?",
+                  "default": ["-"]
+                }, 
+                "2": {
+                  "id": 101, 
+                  "question": "Wordt bij thuiskomst de goede afloop gevierd?", 
+                  "options": ["ja", "nee"],
+                  "default": ["nee"],
+                  "children": {
+                    "1": {
+                      "id": 99, 
+                      "question": "Wordt er thuis nog gegeten en gedronken op de goede afloop?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "2": {
+                      "id": 98, 
+                      "question": "Wordt er een feest gegeven ter ere van de redder?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }, 
+                    "3": {
+                      "id": 97, 
+                      "question": "Viert het hele dorp feest nadat de wolf is gedood?",
+                      "options": ["ja", "nee"],
+                      "default": ["nee"]                      
+                    }
+                  }
+                }, 
+                "3": {
+                  "id": 93, 
+                  "question": "Wordt moeder boos op Roodkapje als ze weer thuis is?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]                  
+                }, 
+                "4": {
+                  "id": 94, 
+                  "question": "Vertelt Roodkapje wat er allemaal gebeurd is?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]
+                }, 
+                "5": {
+                  "id": 95, 
+                  "question": "Is Moeder te blij / opgelucht om boos te worden?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]                  
+                }, 
+                "6": {
+                  "id": 96, 
+                  "question": "Trouwt Roodkapje met haar redder?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]                  
+                }, 
+                "7": {
+                  "id": 100, 
+                  "question": "Trekt Grootmoeder bij Roodkapje en haar moeder in?",
+                  "options": ["ja", "nee"],
+                  "default": ["nee"]   
+                }
+              }
+            }
+          }
+        }, 
+        "5": {
+          "id": 103, 
+          "question": "Eindigt het verhaal met een moraal of moralistisch gedeelte?", 
+          "options": ["ja", "nee"],
+          "default": ["nee"],
+          "children": {
+            "1": {
+              "id": 104, 
+              "question": "Zegt Roodkapje aan het eind van het verhaal tot bezinning te zijn gekomen?",
+              "options": ["ja", "nee"],
+              "default": ["nee"]              
+            }, 
+            "2": {
+              "id": 105, 
+              "question": "Wordt de schuld van alles aan Roodkapje gegeven?",
+              "options": ["ja", "nee"],
+              "default": ["nee"]
+            }, 
+            "3": {
+              "id": 106, 
+              "question": "Staat de moraal op rijm?",
+              "options": ["ja", "nee"],
+              "default": ["nee"]
+            }, 
+            "4": {
+              "id": 107, 
+              "question": "Wordt er gezegd dat Roodkapje vanaf nu altijd gehoorzaam etc. is gebleven?",
+              "options": ["ja", "nee"],
+              "default": ["nee"]              
+            }
+          }
+        }, 
+        "6": {
+          "id": 102, 
+          "question": "Bevat het verhaal een tweede episode, waarin Roodkapje opnieuw naar Grootmoeder gaat en weer een wolf tegenkomt?", 
+          "options": ["ja", "nee"],
+          "default": ["nee"],
+          "children": {
+            "2": {
+              "id": 108, 
+              "question": "Blijkt uit deze episode dat Roodkapje haar lesje geleerd heeft?",
+              "options": ["ja", "nee"],
+              "default": ["niet van toepassing"] 
+            }
+          }
+        }
+      }
+    }
+  }
+}
