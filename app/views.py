@@ -53,7 +53,7 @@ def index():
     user = flask.g.user
     story = Story.query.filter_by(user_id=user.id, done=0).first()
     if story is None:
-        story = Story.query.filter_by(done=0).first()
+        story = Story.query.filter_by(user_id=None, done=0).first()
         story.user_id = user.id
         db.session.commit()
     n_to_do = len(Story.query.filter_by(done=0).all())
