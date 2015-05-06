@@ -14,7 +14,7 @@
   <body>
 
 <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-<script src="{{url_for('.static', filename='js/jquery-scrolltofixed-min.js')}}" type="text/javascript"></script>
+<script src="{{url_for('.static', filename='js/progressbar.js')}}" type="text/javascript"></script>
 
 <div id="layout">
 
@@ -23,6 +23,8 @@
   <header>
       <h1>Annotating Little Red Riding Hood <img src="{{ url_for('.static', filename='image/roodkapje.jpg')}}" alt="Roodkapje" style="height:78px"></h1>
   </header>
+
+  <div id="progressbar"></div>
 
   <div class="content">
   {% block content %}

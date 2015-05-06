@@ -33,6 +33,7 @@
             field.setAttribute("type", "text");
             field.setAttribute("name", question["number"]);
             field.setAttribute("class", "pure-input-1");
+            form.setAttribute("onkeypress", "return event.keyCode != 13;")
             form.appendChild(field);
         }
         return form;
@@ -43,12 +44,24 @@
 
     $(document).ready(function() {
 
+    var line = new ProgressBar.Line('#progressbar', {
+        color: "rgb(202, 60, 60)",
+        strokeWidth: 0.1
+    });
+
     var skip = new Object();
     for (var i = 0; i < questions.length; i++) {
         var question = questions[i];
-        skip[question.number] = false;
+        skip[question.number] = false;        
     }
 
+    var lookup = {};
+    for (var i = 0; i < questions.length; i++) {
+        lookup[questions[i].number] = i;
+    }
+
+    var progressPerAnswer = 1.0 / questions.length;
+    var progress = progressPerAnswer; 
     answers = new Object();
     answers['answers'] = new Object();
 
@@ -65,23 +78,40 @@
       }
       answers['answers'][data.name] = data.value;
       if (data.value == question.default) {
+          var queue = [];
           for (var i = 0; i < question.skip.length; i++) {
-              skip[question.skip[i]] = true;
+              queue.push(question.skip[i]);
           }
-      }
-      if ((currentQuestion + 1) < questions.length) {
-          for (var i = currentQuestion + 1; i < questions.length; i++) {
-              if (skip[questions[i].number] == false) {
-                  currentQuestion = i;
-                  break;
+          while (queue.length > 0) {
+              var toskip = queue.shift();
+              skip[toskip] = true;
+              var skip_question = questions[lookup[toskip]];
+              for (var i = 0; i < skip_question.skip.length; i++) {
+                  queue.push(skip_question.skip[i]);
               }
           }
+      }
+      var nextQuestion = false;
+      for (var i = currentQuestion + 1; i < questions.length; i++) {
+          if (skip[questions[i].number] == false) {
+              if (questions[i].qtype != "connecting") {
+              currentQuestion = i;
+              nextQuestion = true;
+              break;
+              }
+          }
+      }
+      if (nextQuestion) {
           // update the html content
+          var progressMade = currentQuestion * progressPerAnswer
+          line.animate(progressMade);
+          progress = progressMade;
           question = questions[currentQuestion];
           $("#description").html(questions[currentQuestion]["question"]);
           $("#question-form").html(toForm(questions[currentQuestion]));
           return false;
       } else {
+          line.animate(1.0);
           // first update the answers object with default answers
           for (var i = 0; i < questions.length; i++) {
               if (skip[questions[i].number]) {
@@ -102,7 +132,7 @@
                 $("#questionaire").html("Dank voor je hulp!");
                 var button = document.createElement("button");
                 button.setAttribute("type", "submit");
-                button.setAttribute("class", "pure-button pure-button-primary");
+                button.setAttribute("class", "button-next pure-u-1 pure-button");
                 button.setAttribute("onclick", "window.location='/'");
                 button.innerHTML = "Volgende verhaal";
                 div = document.getElementById("questionaire");
