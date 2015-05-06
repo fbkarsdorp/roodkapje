@@ -487,7 +487,8 @@
                 "2": {
                   "id": 203, 
                   "question": "Krijgt Roodkapje instructies hoe ze zich moet gedragen bij Grootmoeder?",
-                  "default": ["-"]
+                  "options": ["ja", "nee"],
+                  "default": "nee"
                 }, 
                 "3": {
                   "id": 204, 
@@ -498,8 +499,8 @@
                     "1": {
                       "id": 206, 
                       "question": "Gelooft Roodkapje erin dat de wolf slecht is als het haar wordt verteld?",
-                      "options": ["ja", "nee"],
-                      "default": ["nee"]                      
+                      "options": ["ja", "nee", "onbekend"],
+                      "default": ["onbekend"]                      
                     }
                   }
                 }, 
@@ -591,7 +592,7 @@
             }, 
             "7": {
               "id": 190, 
-              "question": "Wordt in de begin-episode gezegd of Roodkapje spullen voor Grootmoeder meeneemt?", 
+              "question": "Neemt Roodkapje spullen mee voor oma?", 
               "options": ["ja", "nee"],
               "default": ["nee"],              
               "children": {
@@ -642,7 +643,7 @@
                     "1": {
                       "id": 209, 
                       "question": "Waar ontmoet Roodkapje de wolf onderweg naar Grootmoeder?",
-                      "options": ["op het pad", "van het pad af"],
+                      "options": ["op het pad", "van het pad af", "onbekend"],
                       "default": ["niet relevant"]
                     }, 
                     "2": {
@@ -775,8 +776,8 @@
                     "17": {
                       "id": 215, 
                       "question": "Bij de ontmoeting in het bos, kent de wolf Roodkapje bij naam?",
-                      "options": ["ja", "nee"],
-                      "default": ["nee"]
+                      "options": ["ja", "nee", "onbekend"],
+                      "default": ["niet van toepassing"]
                     }, 
                     "18": {
                       "id": 216, 
@@ -815,7 +816,7 @@
             "2": {
               "id": 225, 
               "question": "Weet de wolf al waar Roodkapje naar toe gaat?",
-              "options": ["ja", "nee"],
+              "options": ["ja", "nee", "onbekend"],
               "default": ["ja"]   
             },
             "3": {
@@ -838,7 +839,7 @@
             "6": {
               "id": 247, 
               "question": "Wie zorgt ervoor dat Roodkapje de weg verlaat?",
-              "options": ["onbekend", "de wolf", "Roodkapje", "de wolf en Roodkapje", "anders"],
+              "options": ["niet relevant", "de wolf", "Roodkapje", "de wolf en Roodkapje", "anders"],
               "default": ["niet relevant"]
             },
             "7": {
@@ -893,13 +894,13 @@
                       "children": {
                         "1": {
                           "id": 233, 
-                          "question": "Vindt de wolf dat Roodkapje van de schone natuur moet genieten?",
+                          "question": "Vindt de wolf dat Roodkapje \"van de schone natuur moet genieten\"?",
                           "options": ["ja", "nee"],
                           "default": ["nee"]                      
                         }, 
                         "2": {
                           "id": 232, 
-                          "question": "Vindt de wolf dat Roodkapje loopt alsof ze naar \"school\" gaat?",
+                          "question": "Vindt de wolf dat Roodkapje \"loopt alsof ze naar school gaat\"?",
                           "options": ["ja", "nee"],
                           "default": ["nee"]                          
                         }, 
@@ -1077,8 +1078,8 @@
                     "7": {
                       "id": 282, 
                       "question": "Ligt Grootmoeder achter een gordijn?",
-                      "options": ["ja", "nee"],
-                      "default": ["nee"]                      
+                      "options": ["ja", "nee", "onbekend"],
+                      "default": ["onbekend"]                      
                     }, 
                     "8": {
                       "id": 290, 
@@ -1563,7 +1564,7 @@
                     "6": {
                       "id": 28, 
                       "question": "Weet de redder wie er in het huisje woont?",
-                      "options": ["ja", "nee"],
+                      "options": ["ja", "nee", "onbekend"],
                       "default": ["niet van toepassing"]                                     
                     }, 
                     "7": {
@@ -1605,7 +1606,7 @@
                     "12": {
                       "id": 35, 
                       "question": "Kent de redder de wolf?",
-                      "options": ["ja", "nee"],
+                      "options": ["ja", "nee", "onbekend"],
                       "default": ["niet van toepassing"]                      
                     }, 
                     "13": {
@@ -1646,14 +1647,14 @@
                         "3": {
                           "id": 69, 
                           "question": "Wie stopt er iets in de buik van de wolf?",
-                          "options": ["Roodkapje", "Grootmoeder", "redder", "moeder", "iemand anders"],
+                          "options": ["Roodkapje", "Grootmoeder", "redder", "moeder", "combinatie van personen", "iemand anders"],
                           "default": ["niet van toepassing"]
                         }, 
                         "4": {
                           "id": 70, 
                           "question": "Wordt de buik van de wolf weer dichtgenaaid?", 
                           "options": ["ja", "nee"],
-                          "default": ["niet van toepassing"],                          
+                          "default": ["nee"],                          
                           "children": {
                             "1": {
                               "id": 71, 
@@ -1818,7 +1819,7 @@
                     }, 
                     "5": {
                       "id": 63, 
-                      "question": "Leert oma ook een les van alles wat is gebeurd?",
+                      "question": "Beschrijft de tekst dat oma ook een les leert van alles wat is gebeurd?",
                       "options": ["ja", "nee"],
                       "default": ["niet van toepassing"]                      
                     }
