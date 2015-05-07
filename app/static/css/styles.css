@@ -42,8 +42,15 @@ body {
 }
 
 #progressbar {
-  margin-top: -14px;
+  margin-top: -1px;
   padding: 0;
+  height: 10px;
+}
+
+#progressbar > svg {
+    width: 100%;
+    height: 10%;
+    display: block;
 }
 
 header {
