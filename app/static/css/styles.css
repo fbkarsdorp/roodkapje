@@ -107,8 +107,14 @@ footer {
   cursor: hand; cursor: pointer;
 }
 
-#next, #previous {
+#next {
+  padding: 10px 15px;
   line-height: 30px;
+}
+
+#previous {
+    padding: 10px 5px;
+    line-height: 30px;
 }
 
 #question-form input[type='radio'] {
