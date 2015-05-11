@@ -9,7 +9,7 @@
         form.setAttribute("action", "");
         form.setAttribute("class", "pure-form");
         form.setAttribute("name", question["number"]);
-        if (question["qtype"] == "R" || question["qtype"] == "B") {
+        if (question["qtype"] === "R" || question["qtype"] === "B") {
             var c = 0;
             for (var option in question["options"]) {
                 c++;
@@ -73,28 +73,37 @@
     $("#next").click(function() {
       var data = $('.pure-form').serializeArray()[0];
       if (typeof(data) == 'undefined' || data.value == null || data.value == "") {
-          alert("Please give an answer to the question.");
-          return false;
+          if (confirm("Weet je zeker dat je geen antwoord kunt geven?") == false) {
+              return false;
+          } else {
+              data = new Object();
+              data.name = question.number;
+              data.value = "NO ANSWER PROVIDED";
+          }
       }
+      console.log(data.name);
       answers['answers'][data.name] = data.value;
-      if (data.value == question.default) {
-          var queue = [];
-          for (var i = 0; i < question.skip.length; i++) {
-              queue.push(question.skip[i]);
-          }
-          while (queue.length > 0) {
-              var toskip = queue.shift();
-              skip[toskip] = true;
-              var skip_question = questions[lookup[toskip]];
-              for (var i = 0; i < skip_question.skip.length; i++) {
-                  queue.push(skip_question.skip[i]);
-              }
-          }
+      for (var qi = 0; qi < question.default.length; qi++) {
+        if (data.value === question.default[qi]) {
+            var queue = [];
+            for (var i = 0; i < question.skip.length; i++) {
+                queue.push(question.skip[i]);
+            }
+            while (queue.length > 0) {
+                var toskip = queue.shift();
+                skip[toskip] = true;
+                var skip_question = questions[lookup[toskip]];
+                for (var i = 0; i < skip_question.skip.length; i++) {
+                    queue.push(skip_question.skip[i]);
+                }
+            }
+            break;
+        }
       }
       var nextQuestion = false;
       for (var i = currentQuestion + 1; i < questions.length; i++) {
-          if (skip[questions[i].number] == false) {
-              if (questions[i].qtype != "connecting") {
+          if (skip[questions[i].number] === false) {
+              if (questions[i].qtype !== "connecting") {
               currentQuestion = i;
               nextQuestion = true;
               break;
@@ -115,7 +124,7 @@
           // first update the answers object with default answers
           for (var i = 0; i < questions.length; i++) {
               if (skip[questions[i].number]) {
-                  answers['answers'][questions[i].number] = questions[i].default;
+                  answers['answers'][questions[i].number] = questions[i].default[0];
               }
           }
           // add the possibly updated story contents
