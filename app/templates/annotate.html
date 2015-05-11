@@ -11,7 +11,8 @@
         form.setAttribute("name", question["number"]);
         if (question["qtype"] === "R" || question["qtype"] === "B") {
             var c = 0;
-            for (var option in question["options"]) {
+            for (var oi = 0; oi < question["options"].length; oi++) {
+                var option = question["options"][oi];
                 c++;
                 var label = document.createElement("label");
                 label.setAttribute("for", question["number"] + "-" + c);
