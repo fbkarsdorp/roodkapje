@@ -3,18 +3,27 @@
 
 <div class="instruction">
      <p>Hoi {{ user.firstname }},</p>
-     <p>Roodkapje is misschien wel het meest bekende sprookje ter wereld. Duizenden en duizenden keren 
-     is het verhaal van het meisje met het rode kapje opnieuw verteld, opgeschreven, 
+     <p>Roodkapje is misschien wel het meest bekende sprookje ter wereld. Duizenden en duizenden keren
+     is het verhaal van het meisje met het rode kapje opnieuw verteld, opgeschreven,
      in beeld gebracht en zelfs op muziek gezet. Hoewel het soms lijkt dat de meeste van die hervertellingen
      vrijwel hetzelfde zijn, laten ze allemaal opvallende variaties zien. Wij zijn geinteresseerd in al deze (kleine)
-     variaties. Het doel van dit experiment is om een grote hoeveelheid Roodkapje-versies van 
-     annotaties te voorzien, waarmee we de variaties en de evolutie van het sprookje in Nederland 
+     variaties. Het doel van dit experiment is om een grote hoeveelheid Roodkapje-versies van
+     annotaties te voorzien, waarmee we de variaties en de evolutie van het sprookje in Nederland
      in kaart proberen te brengen.</p>
-     <p>In dit experiment krijg je telkens een verhaal te lezen en daarna wordt je gevraagd een flinke hoeveelheid vragen te beantwoorden. De meeste vragen zijn eenvoudige "ja-nee"-vragen. Sommige vragen zijn multiple-choice en er is ook een aantal vragen met een open tekstvak. Deze tekstvakken moeten ingevuld worden met losse woorden, gescheiden door een komma. Op een vraag als "Wat neemt Roodkapje mee naar Grootmoeder?" is een mogelijk antwoord: brood, melk, koekjes. Soms is er geen relevant antwoord te geven. In dat geval plaats je een streepje als antwoord: "-". </p>
 
-     <p>De teksten zijn allemaal overgetypt of ge-OCR'd en daarom kan het zijn dat er hier en daar tikfouten of andere onregelmatigheden in de tekst aanwezig zijn. Als je zo'n fout ziet, zou het fijn zijn als je die verbetert.</p>
+     <p>In dit experiment krijg je telkens een verhaal te lezen en daarna wordt je gevraagd een
+         flinke hoeveelheid vragen te beantwoorden. De meeste vragen zijn eenvoudige "ja-nee"-vragen.
+         Sommige vragen zijn multiple-choice en er is ook een aantal vragen met een open tekstvak.
+         Deze tekstvakken moeten ingevuld worden met losse woorden, gescheiden door een komma.
+         Op een vraag als "Wat neemt Roodkapje mee naar Grootmoeder?" is een mogelijk antwoord:
+         brood, melk, koekjes. Soms is er geen relevant antwoord te geven. In dat geval plaats
+         je een streepje als antwoord: "-". </p>
+
+     <p>De teksten zijn allemaal overgetypt of ge-OCR'd en daarom kan het zijn dat er hier en
+         daar tikfouten of andere onregelmatigheden in de tekst aanwezig zijn. Als je zo'n fout
+         ziet, zou het fijn zijn als je die verbetert.</p>
 
      <p>Er zijn nog {{ to_do }} Roodkapjes om te annoteren.</p>
      <a href="{{ url_for('annotate', storyname=story.storyname) }}">Annoteer het volgende verhaal!</a>
-</div>   
+</div>
 {% endblock %}
