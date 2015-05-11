@@ -195,7 +195,8 @@
 		194;Is de bekende formulaïsche passage van "wat heeft u grote ogen / oren etc." aanwezig?;ja,nee;nee;
 			195;Welke lichaamsdelen worden er in deze formulaïsche passage genoemd? (geef in volgorde van de tekst);-;-;
 			196;Rijmt deze formulaïsche passage?;ja,nee;niet van toepassing;
-	197;Vraagt de wolf aan Roodkapje bij hem in bed te stappen?;ja,nee;nee;
+	197;Vraagt de wolf aan Roodkapje bij hem in / op bed te stappen?;ja,nee;nee;
+		298;Vraagt de wolf aan Roodkapje of ze bij hem "in" bed of "op" bed komt?;in,op,anders;niet van toepassing;
 		198;Geeft de wolf een reden waarom Roodkapje bij hem in bed moet stappen?;ja,nee;niet van toepassing;
 	199;Stapt Roodkapje bij de wolf in / op bed?;ja,nee;nee;
 		200;Kruipt Roodkapje bij de wolf onder de dekens?;ja,nee,niet genoemd;nee;
