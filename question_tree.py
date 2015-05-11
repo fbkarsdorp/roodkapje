@@ -1,5 +1,4 @@
 import codecs
-from collections import OrderedDict
 import json
 
 def line2json(line):
@@ -10,7 +9,7 @@ def line2json(line):
     options = options.split(',')
     jstring = {'question': question,
                'number': number,
-               'options': OrderedDict((o, o) for o in sorted(options)) if options[0] != '-' else {},
+               'options': options if options[0] != '-' else [],
                'qtype': 'R' if len(options) > 1 else 'T',
                'default': default.split(','),
                'skip': []}
