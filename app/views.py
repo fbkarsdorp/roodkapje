@@ -20,8 +20,8 @@ def before_request():
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
-#    if flask.g.user is not None and flask.g.user.is_authenticated():
-#        return flask.redirect(flask.url_for("index"))
+    if flask.g.user is not None and flask.g.user.is_authenticated():
+        return flask.redirect(flask.url_for("index"))
     form = LoginForm()
     if flask.request.method == 'GET':
         return flask.render_template('login.html', title='Sign In', form=form)
@@ -37,8 +37,8 @@ def register():
     if flask.request.method == 'GET':
         return flask.render_template('register.html', title='Sign In', form=form)
     if form.validate_on_submit() and form.validate_fields():
-        user = User(username=form.username.data, 
-                    firstname=form.firstname.data, 
+        user = User(username=form.username.data,
+                    firstname=form.firstname.data,
                     surname=form.surname.data,
                     password=form.password.data)
         db.session.add(user)
@@ -69,7 +69,7 @@ def annotate(storyname):
         story.done = 1
         db.session.commit()
         with codecs.open(os.path.join(app.config['ANNOTATION_DIR'], story.storyname + '.ann'), 'w', 'utf-8') as outfile:
-            for qnumber, answer in answers['answers'].iteritems():
+            for qnumber, answer in sorted(answers['answers'].iteritems(), key=lambda i: int(i[0])):
                 outfile.write("%s;%s\n" % (qnumber, answer))
         return json.dumps({'annotation stored':'OK'})
     with codecs.open(os.path.join(app.config["ROOT_DIR"], 'questions.json'), encoding='utf-8') as inf:

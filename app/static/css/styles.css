@@ -24,6 +24,16 @@ body {
     margin: 0 auto;
 }
 
+.fa {
+    font-size:150%;
+    vertical-align:middle;
+    line-height: inherit;
+}
+
+.fa-caret-right {
+    float: right;
+}
+
 .instruction {
   width: 85%;
   margin: 0 auto;
@@ -37,7 +47,7 @@ body {
 }
 
 .error-message {
-  color: red; 
+  color: red;
   font-size:0.8em;
 }
 
@@ -97,9 +107,8 @@ footer {
   cursor: hand; cursor: pointer;
 }
 
-#next {
-  padding: 10px 15px;
-  line-height: 1.6em;
+#next, #previous {
+  line-height: 30px;
 }
 
 #question-form input[type='radio'] {
@@ -144,4 +153,3 @@ textarea {
     -moz-box-sizing: border-box;    /* Firefox, other Gecko */
     box-sizing: border-box;
 }
-
