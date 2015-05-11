@@ -62,7 +62,7 @@
 		61;Praat Roodkapje met deze dieren?;ja,nee;niet van toepassing;
 	62;Welke andere personages komen er nog voor in het verhaal?;-;-;
 63;Beschrijft de tekst een scène van vóór het vertrek van Roodkapje?;ja,nee;nee;
-	64;Wat is de reden dat Roodkapje naar Grootmoeder moet?;niet genoemd,Grootmoeder is ziek,Grootmoeder is jarig;niet genoemd;
+	64;Wat is de reden dat Roodkapje naar Grootmoeder moet?;niet genoemd,Grootmoeder is ziek,Grootmoeder is jarig,andere reden;niet genoemd;
 		65;Hoe weet Roodkapje (en haar moeder) dat Grootmoeder ziek of jarig is?;niet genoemd,gerucht,boodschap van Grootmoeder,boodschap van de jager,boodschap van dierenvriendjes,anders;niet genoemd;
 	66;Wie stuurt Roodkapje naar Grootmoeder?;niet genoemd,Roodkapjes moeder,Roodkapjes vader,Grootmoeder,Roodkapje,de redder,dierenvriendjes,iemand anders;niet genoemd;
 	67;Wordt de reden gegeven waarom Roodkapje naar Grootmoeder moet gaan en niet haar moeder zelf?;ja,nee;nee;
@@ -111,7 +111,7 @@
 				110;Probeert de wolf erachter te komen waar Grootmoeder woont?;ja,nee;nee;
 				111;Zegt Roodkapje zoiets als: "Maar je weet toch waar Grootmoeder woont"?;ja,nee;nee;
 				112;Verklapt Roodkapje aan de wolf hoe de deur van Grootmoeders huis open gaat?;ja,nee;nee;
-			113;Probeert de wolf Roodkapjes toch naar Grootmoeder te vertragen?;ja,nee;nee;
+			113;Probeert de wolf Roodkapjes tocht naar Grootmoeder te vertragen?;ja,nee;nee;
 				114;Vindt de wolf dat Roodkapje "van de (schone) natuur moet genieten"?;ja,niet genoemd;niet genoemd;
 				115;Vindt de wolf dat Roodkapje "loopt alsof ze naar school gaat"?;ja,niet genoemd;niet genoemd;
 				116;Stelt de wolf voor om bloemen te plukken (voor Grootmoeder) of andere dingen te zoeken?;ja,nee;nee;
@@ -167,13 +167,13 @@
 			166;Zet de wolf de bril op van Grootmoeder?;ja,nee;nee;
 			167;Worden de kledingstukken die de wolf aantrekt met een bepaald lidwoord aangeduid?;ja,nee;nee;
 			168;Complimenteert de wolf zichzelf met zijn plan om Roodkapje voor de gek te houden?;ja,niet genoemd;niet genoemd;
-	169;Gaat de wolf in (Grootmoeders) bed liggen?;ja,nee;nee;
+	169;Gaat de wolf in (Grootmoeders) bed liggen?;ja,nee,niet genoemd;nee,niet genoemd;
 		170;Kruipt de wolf "onder" de dekens?;ja,nee,niet genoemd;niet genoemd;
 	171;Trekt de wolf de gordijnen van de bedstee of van het huisje dicht voordat Roodkapje aankomt?;niet genoemd,bedstee,huisje;niet genoemd;
 	172;Wacht de wolf "geduldig" of "ongeduldig" op Roodkapje?;niet genoemd,geduldig,ongeduldig;niet genoemd;
 	173;Wordt Roodkapje door iemand vergezeld tot aan Grootmoeders huisje?;ja,nee;nee;
 	174;Is het voor de lezer duidelijk dat het de wolf is die in bed ligt bij de aankomst van Roodkapje bij Grootmoeder?;ja,nee;nee;
-	175;Staat de deur van Grootmoeders huisje al open wanneer Roodkapje aankomt?;niet genoemd,ja,nee;niet genoemd,nee;
+	175;Staat de deur van Grootmoeders huisje al open wanneer Roodkapje aankomt?;niet genoemd,ja,nee;ja;
 		176;Klopt Roodkapje op de deur van Grootmoeder?;ja,nee;nee;
 			177;Hoe klinkt het kloppen van Roodkapje? (één woord per klank);-;-;
 			178;Hoe vaak klopt Roodkapje?;niet genoemd,1,2,3,4,5,>5;niet genoemd;
@@ -185,7 +185,7 @@
 	184;Is Roodkapje angstig bij het binnentreden van Grootmoeders huisje;ja,niet genoemd;niet genoemd;
 	185;Schrikt Roodkapje als bij de eerste aanblik van de wolf in Grootmoeders huisje?;ja,niet genoemd;niet genoemd;
 	186;Schrikt Roodkapje wanneer ze de stem van de wolf hoort bij Grootmoeder?;ja,nee,niet genoemd;niet genoemd;
-	187;Wordt de stem van de wolf omschreven als grof etc.?;ja,nee;nee;
+	187;Wordt de stem van de wolf omschreven als grof / zwaar etc.?;ja,nee;nee;
 		188;Schrijft Roodkapje de stemklank van de wolf toe aan Grootmoeders verkoudheid / ziekte?;ja,nee;niet van toepassing;
 	189;Herkent Roodkapje de wolf meteen als ze hem ziet of hoort in Grootmoeders huisje?;ja,nee;niet van toepassing;
 	190;Vindt er een gesprek plaats tussen Roodkapje en de wolf als Roodkapje in Grootmoeders huisje is?;ja,nee;nee;197
@@ -198,7 +198,7 @@
 	197;Vraagt de wolf aan Roodkapje bij hem in / op bed te stappen?;ja,nee;nee;
 		298;Vraagt de wolf aan Roodkapje of ze bij hem "in" bed of "op" bed komt?;in,op,anders;niet van toepassing;
 		198;Geeft de wolf een reden waarom Roodkapje bij hem in bed moet stappen?;ja,nee;niet van toepassing;
-	199;Stapt Roodkapje bij de wolf in / op bed?;ja,nee;nee;
+	199;Stapt Roodkapje bij de wolf in / op bed?;ja,nee,niet genoemd;nee,niet genoemd;
 		200;Kruipt Roodkapje bij de wolf onder de dekens?;ja,nee,niet genoemd;nee;
 	201;Kleedt Roodkapje zich uit?;ja,nee;nee;
 		202;Welke kleding trekt Roodkapje uit?;-;-;
@@ -233,8 +233,8 @@
 		231;Herkent de redder de wolf bij binnenkomst in Grootmoeders huisje?;ja,nee;niet van toepassing,nee;
 			232;Hoe noemt de redder de wolf?;-;-;
 		233;Probeert de wolf te vluchten van de redder?;ja,nee;niet van toepassing;
-		234;Vermoedt de redder dat Grootmoeder is opgegeten?;niet van toepassing,ja,niet genoemd;niet van toepassing;
-		235;Vermoedt de redder dat Roodkapje is opgegeten?;niet van toepassing,ja,niet genoemd;niet van toepassing;
+		234;Vermoedt de redder dat Grootmoeder is opgegeten?;niet van toepassing,ja,nee,niet genoemd;niet van toepassing;
+		235;Vermoedt de redder dat Roodkapje is opgegeten?;niet van toepassing,ja,nee,niet genoemd;niet van toepassing;
 		236;Wordt Grootmoeder gered van de wolf?;ja,nee;nee;
 			237;Wordt Grootmoeder uit de buik van de wolf gehaald?;ja,nee;nee;
 				238;Vertelt Grootmoeder iets over haar ervaringen in de buik van de wolf?;ja,nee;nee;
@@ -271,7 +271,7 @@
 					269;Wat wordt er van het vel van de wolf gemaakt?;-;-;
 						270;Voor wie is de jas (of ander object) gemaakt van wolvenvel?;niet genoemd,Roodkapje,Grootmoeder,redder,moeder,iemand anders;niet genoemd;
 			271;Wordt de wolf gevangen genomen (en niet gedood)?;ja,nee;niet van toepassing;
-		272;Komt de moeder van Roodkapje naar Grootmoeder?;ja,nee;niet van toepassing;
+		272;Komt de moeder van Roodkapje naar Grootmoeder?;ja,nee;niet van toepassing;278
 		273;Nuttigen Roodkapje, Grootmoeder, moeder en of de redder de door Roodkapje meegebrachte spullen?;ja,nee;nee;
 			274;Wordt er gegeten en gedronken vóór- of nadat de wolf wordt gedood en of gestraft?;niet van toepassing,voordat,nadat;niet van toepassing;
 			275;Wat eet en of drinkt Roodkapje?;-;-;
