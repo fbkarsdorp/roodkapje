@@ -9,7 +9,7 @@ def line2json(line):
     options = options.split(',')
     jstring = {'question': question,
                'number': number,
-               'options': options if options[0] != '-' else [],
+               'options': sorted(options) if options[0] != '-' else [],
                'qtype': 'R' if len(options) > 1 else 'T',
                'default': default.split(','),
                'skip': []}
