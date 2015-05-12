@@ -75,7 +75,7 @@
 		74;Wordt Roodkapje voor vertrekt gewaarschuwd voor wolven / enge dieren in het algemeen?;ja,nee;nee;
 		75;Wordt gezegd hoe lang Roodkapje bij Grootmoeder moet blijven? Zo ja, hoe lang?;niet genoemd,zelfde dag terug,een nachtje,meerdere dagen;niet genoemd;
 		76;Wordt Roodkapje gezegd niet van de (grote) weg af te gaan?;ja,nee;nee;
-		77;Wordt Roodkapje gezegd niet te treuzelen onderweg?;ja,nee;nee;
+		77;Wordt Roodkapje gezegd niet te treuzelen / blijven staan etc. onderweg?;ja,nee;nee;
 		78;Wordt Roodkapje gezegd geen bloemen te plukken?;ja,nee;nee;
 		79;Wordt Roodkapje gezegd niet op vlinders te jagen?;ja,nee;nee;
 		80;Wordt Roodkapje gezegd te vertrekken voor het te warm is?;ja,nee;nee;
@@ -120,7 +120,7 @@
 				119;Welke weg bewandelt de wolf na de ontmoeting met Roodkapje?;-;-;
 		120;Wie vertelt de lezer over de eigenlijke intenties van de wolf?;wordt niet gedaan,Roodkapje,de wolf,verteller,dieren in het bos,iemand anders;wordt niet gedaan;
 		121;Waarom eet de wolf Roodkapje niet meteen op?;niet genoemd,hij wil haar niet opeten,er zijn mensen in de buurt,Roodkapje is niet genoeg,andere reden;niet genoemd;
-		122;Wordt verteld hoe ver het nog lopen is naar Grootmoeder vanaf het punt waarop de wolf en Roodkapje elkaar ontmoeten?;niet genoemd,heel ver,dichtbij,kwartiertje lopen,half uurtje lopen;niet genoemd;
+		122;Wordt verteld hoe ver het nog lopen is naar Grootmoeder vanaf het punt waarop de wolf en Roodkapje elkaar ontmoeten?;niet genoemd,bepaalde tijd,onbepaalde tijd;niet genoemd;
 		123;Gelooft Roodkapje na de eerst ontmoeting met de wolf in de goedheid van de wolf?;niet genoemd,ja,nee;niet genoemd;
 	124;Blijkt uit de tekst dat de wolf al weet waar Roodkapje naartoe gaat?;ja,nee;nee;
 	125;Ontmoet Roodkapje nog iemand anders behalve de wolf onderweg naar Grootmoeder?;ja,nee;nee;
