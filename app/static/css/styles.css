@@ -13,6 +13,11 @@ body {
     padding: 0 2em;
 }
 
+.pagination {
+  width: 80%;
+  margin: 0 auto;
+}
+
 .content {
     margin-top: 30px;
     margin-bottom: 30px;
@@ -25,13 +30,11 @@ body {
 }
 
 .fa {
-    font-size:150%;
-    vertical-align:middle;
-    line-height: inherit;
-}
-
-.fa-caret-right {
-    float: right;
+  font-weight:300%;
+  font-size:180%;
+  vertical-align:middle;
+  line-height: inherit;
+  color: rgb(202, 60, 60);
 }
 
 .instruction {
@@ -46,8 +49,19 @@ body {
   background: rgb(202, 60, 60) !important;
 }
 
-.pure-button:hover {
-  background: rgb(202, 60, 60) !important;
+.button-question {
+  background-color: white;
+  background: white;
+  border-radius: 4px;
+  padding: 10px 15px;
+  display: inline-block;;
+  border:none;
+  cursor: hand; 
+  cursor: pointer;
+}
+
+.button-question:focus {
+  outline:0;
 }
 
 .error-message {
@@ -103,7 +117,12 @@ footer {
   font-weight:300%;
   font-size: 1.1em;
   color:#999;
+}
 
+#questioncount {
+ padding: 10px 15px;
+ line-height: 30px;
+ text-align: center;
 }
 
 #question-form label span {
@@ -117,6 +136,7 @@ footer {
 #next {
   padding: 10px 15px;
   line-height: 30px;
+  float: right;
 }
 
 #previous {

@@ -14,9 +14,10 @@ var questions = {{ questions|tojson|safe }};
     <div id="questionaire" class="pure-u-7-24">
         <div id="description" class="aside"></div>
         <div id="question-form"></div>
-        <div class="pure-g">
-            <button type="submit" class="button-next pure-u-4-24 pure-button" id="previous"><i class="fa fa-caret-left"></i></button>
-            <button type="submit" class="button-next pure-u-20-24 pure-button" id="next">Volgende vraag<i class="fa fa-caret-right"></i></button>
+        <div class="pagination pure-g">
+            <button class="button-question pure-u-5-24" id="previous"><i class="fa fa-angle-left"></i></button>
+            <div id="questioncount" class="aside pure-u-10-24"></div>
+            <button class="button-question pure-u-5-24" id="next"><i class="fa fa-angle-right"></i></button>
         </div>
     </div>
 </div>

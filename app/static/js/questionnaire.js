@@ -96,6 +96,7 @@ Questionnaire.prototype.update_page = function(question) {
   this.line.animate(this.currentQuestion * this.progressPerAnswer);
   $("#description").html(question.question);
   $("#question-form").html(toForm(question, this.answers['answers'][question.number]));
+  $("#questioncount").html(this.currentQuestion + 1);
 };
 
 Questionnaire.prototype.pop = function() {
