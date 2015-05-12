@@ -153,8 +153,8 @@
 				152;Waarmee kan de deur worden opengemaakt (touwtje, klink, etc.)?;-;-;
 		153;Doet Grootmoeder zelf de deur open voor de wolf?;ja,nee;nee;
 		154;Kijkt Grootmoeder door het raampje om te zien of Roodkapje voor de deur staat?;niet genoemd,ja;niet genoemd;
-		155;Komt de wolf zonder aanwijzingen of hulp van Grootmoeder het huisje van Grootmoeder binnen?;ja,nee;nee;
-		156;Wordt Grootmoeder opgegeten door de wolf?;ja,nee;nee;
+		155;Komt de wolf zonder aanwijzingen of hulp van Grootmoeder het huisje van Grootmoeder binnen?;ja,nee,niet genoemd;nee;
+		156;Wordt Grootmoeder opgegeten door de wolf?;ja,nee;nee;161
 			157;Noem het werkwoord waarmee wordt beschreven dat de wolf Grootmoeder opeet. Bijvoorbeeld: opeten, verslinden, opslokken etc.;-;-;
 			158;Maakt de verteller expliciet dat Grootmoeder nadat ze is opgegeten, toch nog in leven zou kunnen zijn?;ja,nee;niet van toepassing;
 			159;Verliest Grootmoeder haar kleren tijdens de belaging van de wolf?;niet genoemd,ja;niet van toepassing;
@@ -230,7 +230,7 @@
 			228;Door wie wordt de redder naar het huisje geleid?;-;-;
 		229;Heeft de redder hulp van een hond?;ja,nee;niet van toepassing;
 		230;Hoe komt de redder het huisje van Grootmoeder binnen? (noem het bewegingswerkwoord, bv. binnenstormen);-;-;
-		231;Herkent de redder de wolf bij binnenkomst in Grootmoeders huisje?;ja,nee;niet van toepassing,nee;
+		231;Herkent de redder de wolf bij binnenkomst in Grootmoeders huisje?;ja,nee,niet genoemd;niet genoemd,nee;
 			232;Hoe noemt de redder de wolf?;-;-;
 		233;Probeert de wolf te vluchten van de redder?;ja,nee;niet van toepassing;
 		234;Vermoedt de redder dat Grootmoeder is opgegeten?;niet van toepassing,ja,nee,niet genoemd;niet van toepassing;
@@ -256,7 +256,7 @@
 				254;Wat wordt er in de buik van de wolf gestopt?;-;-;
 				255;Wordt de buik van de wolf gevuld vóór of na de dood van de wolf?;niet van toepassing,vóór,na;niet van toepassing;
 				256;Wordt de buik van de wolf weer dichtgenaaid, zo ja door wie?;nee,Roodkapje,Grootmoeder,redder,moeder,combinatie van personen,iemand anders;niet van toepassing;
-				257;Heeft de wolf bij het ontwaken buikpijn of is hij misselijk van het vele eten?;ja,nee;niet van toepassing;
+				257;Heeft de wolf bij het ontwaken buikpijn of is hij misselijk van het vele eten?;ja,niet genoemd;niet van toepassing;
 			258;Gaat de wolf dood?;ja,nee;nee;
 				259;Wordt de wolf vermoord door de redder (en of zijn hond)?;ja,nee;nee;
 					260;Waarmee wordt de wolf vermoord (geweer, bijl, knuppel, etc.);-;-;
@@ -271,7 +271,7 @@
 					269;Wat wordt er van het vel van de wolf gemaakt?;-;-;
 						270;Voor wie is de jas (of ander object) gemaakt van wolvenvel?;niet genoemd,Roodkapje,Grootmoeder,redder,moeder,iemand anders;niet genoemd;
 			271;Wordt de wolf gevangen genomen (en niet gedood)?;ja,nee;niet van toepassing;
-		272;Komt de moeder van Roodkapje naar Grootmoeder?;ja,nee;niet van toepassing;278
+		272;Komt de moeder van Roodkapje naar Grootmoeder?;ja,nee;niet van toepassing,nee;278
 		273;Nuttigen Roodkapje, Grootmoeder, moeder en of de redder de door Roodkapje meegebrachte spullen?;ja,nee;nee;
 			274;Wordt er gegeten en gedronken vóór- of nadat de wolf wordt gedood en of gestraft?;niet van toepassing,voordat,nadat;niet van toepassing;
 			275;Wat eet en of drinkt Roodkapje?;-;-;

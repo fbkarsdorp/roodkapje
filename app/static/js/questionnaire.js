@@ -41,7 +41,8 @@ function toForm(question, selected) {
   return form;
 }
 
-function Questionnaire(questions) {
+function Questionnaire(storyname, questions) {
+  this.storyname = storyname;
   this.questions = questions;
   this.answers = {};
   this.answers['answers'] = {};
@@ -120,7 +121,7 @@ Questionnaire.prototype.current = function() {
 
 $(document).ready(function() {
 
-  var questionnaire = new Questionnaire(questions);
+  var questionnaire = new Questionnaire(storyname, questions);
 
   question = questionnaire.current()
   questionnaire.questionPath.push(question.number);
@@ -176,7 +177,7 @@ $(document).ready(function() {
       // perform the request
       $.ajax({
         contentType: 'application/json;charset=UTF-8',
-        url: "{{ story.storyname }}",
+        url: questionnaire.storyname,
         data: JSON.stringify(questionnaire.answers),
         type: 'POST',
         dataType: 'json',
