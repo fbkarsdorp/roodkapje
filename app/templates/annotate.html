@@ -2,11 +2,11 @@
 {% block content %}
 
 
+<script src="{{url_for('.static', filename='js/questionnaire.js')}}" type="text/javascript"></script>
 <script>
 var questions = {{ questions|tojson|safe }};
-var storyname = {{ story.storyname }};
+var storyname = "{{ story.storyname }}";
 </script>
-<script src="{{url_for('.static', filename='js/questionnaire.js')}}" type="text/javascript"></script>
 
 <div class="pure-g">
     <div class="pure-u-17-24">
