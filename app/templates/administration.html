@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="storyinfo">
+    <table class="pure-table">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Story ID</th>
+                <th>Klaar?</th>
+                <th>Annotator</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            {% for (i, storyname, done, user) in stories %}
+                {% if i % 2 != 0 %}
+                    <tr class="pure-table-odd">
+                {% else %}
+                    <tr>
+                {% endif %}
+                    <td>{{ i }}</td>
+                    <td>{{ storyname }}</td>
+                    <td>{{ done }}</td>
+                    <td>{{ user }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}
