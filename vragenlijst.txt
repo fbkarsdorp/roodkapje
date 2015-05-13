@@ -111,7 +111,7 @@
 				110;Probeert de wolf erachter te komen waar Grootmoeder woont?;ja,nee;nee;
 				111;Zegt Roodkapje zoiets als: "Maar je weet toch waar Grootmoeder woont"?;ja,nee;nee;
 				112;Verklapt Roodkapje aan de wolf hoe de deur van Grootmoeders huis open gaat?;ja,nee;nee;
-			113;Probeert de wolf Roodkapjes tocht naar Grootmoeder te vertragen?;ja,nee;nee;
+			113;Probeert de wolf Roodkapjes tocht naar Grootmoeder te vertragen? (bijvoorbeeld door haar te wijzen op bloemen in het bos);ja,nee;nee;
 				114;Vindt de wolf dat Roodkapje "van de (schone) natuur moet genieten"?;ja,niet genoemd;niet genoemd;
 				115;Vindt de wolf dat Roodkapje "loopt alsof ze naar school gaat"?;ja,niet genoemd;niet genoemd;
 				116;Stelt de wolf voor om bloemen te plukken (voor Grootmoeder) of andere dingen te zoeken?;ja,nee;nee;
@@ -235,7 +235,7 @@
 		233;Probeert de wolf te vluchten van de redder?;ja,nee;niet van toepassing;
 		234;Vermoedt de redder dat Grootmoeder is opgegeten?;niet van toepassing,ja,nee,niet genoemd;niet van toepassing;
 		235;Vermoedt de redder dat Roodkapje is opgegeten?;niet van toepassing,ja,nee,niet genoemd;niet van toepassing;
-		236;Wordt Grootmoeder gered van de wolf?;ja,nee;nee;
+		236;Wordt Grootmoeder gered van de wolf?;ja,nee,niet van toepassing;nee,niet van toepassing;
 			237;Wordt Grootmoeder uit (de buik van) de wolf gehaald?;ja,nee;nee;
 				238;Vertelt Grootmoeder iets over haar ervaringen in de buik van de wolf?;ja,nee;nee;
 					239;Vertelt Grootmoeder dat het zo donker was in de buik van de wolf?;ja,nee;nee;
@@ -247,7 +247,7 @@
 				245;Vertelt Roodkapje iets over haar ervaringen in (de buik van) de wolf?;ja,nee;nee;
 					246;Vertelt Roodkapje dat het zo donker was in (de buik van) de wolf?;ja,nee;nee;
 			247;Wordt Roodkapje via de mond van de wolf bevrijd?;ja,nee;nee;
-		248;Wordt (de buik van) de wolf opengemaakt?;ja,nee;nee;
+		248;Wordt (de buik van) de wolf opengemaakt?;ja,nee;nee;253
 			249;Wie maakt (de buik van) de wolf open?;-;-;
 			250;Waarmee wordt (de buik van) de wolf opengemaakt?;-;-;
 		251;Wordt de wolf gestraft en of gedood voor zijn daden?;ja,nee;nee;
@@ -258,7 +258,7 @@
 				256;Wordt de buik van de wolf weer dichtgenaaid, zo ja door wie?;nee,niet genoemd,Roodkapje,Grootmoeder,redder,moeder,combinatie van personen,iemand anders;niet van toepassing;
 				257;Heeft de wolf bij het ontwaken buikpijn of is hij misselijk van het vele eten?;ja,niet genoemd;niet van toepassing;
 			258;Gaat de wolf dood?;ja,nee;nee;
-				259;Wordt de wolf vermoord door de redder (en of zijn hond)?;ja,nee;nee;262,263,267,271
+				259;Wordt de wolf vermoord door de redder (en of zijn hond)?;ja,nee;nee;
 					260;Waarmee wordt de wolf vermoord (geweer, bijl, knuppel, etc.);-;-;
 					261;Wordt de wolf vermoord vóór- of nadat Roodkapje en of Grootmoeder zijn gered?;voordat,nadat,niet van toepassing;niet van toepassing;
 				262;Valt de wolf dood neer door het gewicht van de stenen in zijn buik?;ja,nee;nee;
