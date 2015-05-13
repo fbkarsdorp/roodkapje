@@ -1,6 +1,15 @@
 {% extends "base.html" %}
 {% block content %}
 
+<script>
+var todo = {{ to_do }};
+var line = new ProgressBar.Line('#progressbar', {
+      color: "rgb(202, 60, 60)",
+      strokeWidth: 0.1
+    });
+line.animate((427 - todo) / 427);
+</script>
+
 <div class="instruction">
      <p>Hoi {{ user.firstname }},</p>
      <p>Roodkapje is misschien wel het meest bekende sprookje ter wereld. Duizenden en duizenden keren
@@ -23,7 +32,6 @@
          daar tikfouten of andere onregelmatigheden in de tekst aanwezig zijn. Als je zo'n fout
          ziet, zou het fijn zijn als je die verbetert.</p>
 
-     <p>Er zijn nog {{ to_do }} Roodkapjes om te annoteren.</p>
-     <a href="{{ url_for('annotate', storyname=story.storyname) }}">Annoteer het volgende verhaal!</a>
+     <a class="button-next pure-button" href="{{ url_for('annotate', storyname=story.storyname) }}">Annoteer het volgende verhaal!</a>
 </div>
 {% endblock %}

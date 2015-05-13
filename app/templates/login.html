@@ -25,8 +25,12 @@
       {% endif %}
     </div>
     <div class="pure-controls">
-       <button type="submit" class="button-next pure-button">Sign In</button>
-       <span><a href="{{ url_for('register') }}">Nieuwe gebruiker?</a></span>
+       <button type="submit" class="button-next pure-button">
+       Sign In
+       <i class="fa fa-sign-in fa-lg"></i>
+       </button>
+       <a class="button-next pure-button" href="{{ url_for('register') }}">
+       <i class="fa fa-lg fa-user-plus"></i></a>
     </div>
     </fieldset>
   </form>

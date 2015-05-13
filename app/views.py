@@ -76,6 +76,14 @@ def annotate(storyname):
         questions = json.load(inf)
     return flask.render_template('annotate.html', questions=questions, story=story)
 
+@app.route('/administration', methods=['GET'])
+@login_required
+def administration():
+    active_users = {u.id: u.firstname + ' ' + u.surname for u in User.query.all()}
+    stories = ((i, s.storyname, 'ja' if s.done else 'nee', active_users[s.user_id] if s.user_id != None else 'Not Assigned') 
+               for i, s in enumerate(Story.query.all(), 1))
+    return flask.render_template("administration.html", stories=stories)
+
 @app.errorhandler(404)
 def not_found_error(error):
     return flask.render_template('404.html'), 404

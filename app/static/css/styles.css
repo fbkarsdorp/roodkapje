@@ -2,6 +2,13 @@ body {
     color: #333;
 }
 
+html, button, input, select, textarea,
+.pure-g [class *= "pure-u"] {
+    font-family: sans-serif;
+    font-weight: 100;
+    letter-spacing: 0.01em;
+}
+
 #layout {
     position: relative;
     padding-left: 0;
@@ -29,7 +36,7 @@ body {
     margin: 0 auto;
 }
 
-.fa {
+.fa-angle-left, .fa-angle-right {
   font-weight:300%;
   font-size:180%;
   vertical-align:middle;
@@ -39,6 +46,11 @@ body {
 
 .instruction {
   width: 85%;
+  margin: 0 auto;
+}
+
+.storyinfo {
+  width: 60%;
   margin: 0 auto;
 }
 
