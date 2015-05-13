@@ -14,7 +14,7 @@
 13;Wordt expliciet beschreven of Roodkapje een rood kledingstuk heeft?;ja,nee;nee;
 	14;Wordt het rode kapje (petje, mutsje, etc.) van Roodkapje expliciet besproken?;ja,nee;nee;
 	15;Wordt het manteltje (capeje, jasje, etc.) van Roodkapje expliciet besproken?;ja,nee;nee;
-	16;Van wie krijgt Roodkapje het rode kledingstuk?;niet genoemd,moeder,grootmoeder,roodkapje,anders;niet genoemd;
+	16;Van wie krijgt Roodkapje het rode kledingstuk?;niet genoemd,moeder,grootmoeder,roodkapje,grootmoeder en moeder,anders;niet genoemd;
 		17;Waarom krijgt Roodkapje haar rode kledingstuk?;niet genoemd,voor haar verjaardag,omdat Oma zoveel van haar houdt,anders;niet genoemd;
 	18;Op welke leeftijd krijgt Roodkapje haar rode kledingstuk?;niet genoemd,bepaald (bv. 10 jaar),onbepaald (bv. toen ze klein was);niet genoemd;
 	19;Wie heeft het rode kledingstuk gemaakt?;niet genoemd,moeder,grootmoeder,roodkapje,iemand anders;niet genoemd;
@@ -133,8 +133,8 @@
 132;Wordt besproken waar het huisje van Grootmoeder staat of waar ze woont?;ja,nee;nee;
 	133;Waar staat het huisje van Grootmoeder?;niet genoemd, in het (volgende) dorp,in het bos,andere locatie;niet genoemd;
 	134;Wordt de omgeving van Grootmoeders huisje besproken in de tekst?;ja,nee;nee;
-		135;Worden de drie eiken in het bos genoemd?;ja,nee;nee;
-		136;Staat het huisje van Grootmoeder bij de drie eiken?;ja,niet genoemd;niet genoemd;
+		135;Worden de drie eiken (of andere bomen) in het bos genoemd?;ja,nee;nee;
+		136;Staat het huisje van Grootmoeder bij de drie eiken (of andere bomen)?;ja,niet genoemd;niet genoemd;
 		137;Wordt de molen genoemd in de buurt van Grootmoeders huisje?;ja,nee;nee;
 	138;Wat is de kleur van Grootmoeders huisje?;-;-;
 	139;Wat is de kleur van het dak van Grootmoeders huisje?;-;-;
@@ -231,7 +231,7 @@
 		229;Heeft de redder hulp van een hond?;ja,nee;niet van toepassing;
 		230;Hoe komt de redder het huisje van Grootmoeder binnen? (noem het bewegingswerkwoord, bv. binnenstormen);-;-;
 		231;Herkent de redder de wolf bij binnenkomst in Grootmoeders huisje?;ja,nee,niet genoemd;niet genoemd,nee;
-			232;Hoe noemt de redder de wolf?;-;-;
+		232;Hoe noemt de redder de wolf?;-;-;
 		233;Probeert de wolf te vluchten van de redder?;ja,nee;niet van toepassing;
 		234;Vermoedt de redder dat Grootmoeder is opgegeten?;niet van toepassing,ja,nee,niet genoemd;niet van toepassing;
 		235;Vermoedt de redder dat Roodkapje is opgegeten?;niet van toepassing,ja,nee,niet genoemd;niet van toepassing;
@@ -255,6 +255,7 @@
 			253;Wordt er iets in de buik van de wolf gestopt?;ja,nee;nee;
 				254;Wat wordt er in de buik van de wolf gestopt?;-;-;
 				255;Wordt de buik van de wolf gevuld vóór of na de dood van de wolf?;niet van toepassing,vóór,na;niet van toepassing;
+				299;Wie vult of wie vullen de buik van de wolf?;niet genoemd,Roodkapje,Grootmoeder,redder,moeder,combinatie van personen,iemand anders;niet van toepassing;
 				256;Wordt de buik van de wolf weer dichtgenaaid, zo ja door wie?;nee,niet genoemd,Roodkapje,Grootmoeder,redder,moeder,combinatie van personen,iemand anders;niet van toepassing;
 				257;Heeft de wolf bij het ontwaken buikpijn of is hij misselijk van het vele eten?;ja,niet genoemd;niet van toepassing;
 			258;Gaat de wolf dood?;ja,nee;nee;
