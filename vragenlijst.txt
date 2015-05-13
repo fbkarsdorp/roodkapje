@@ -32,7 +32,7 @@
 31;Heeft de slechterik een eigennaam, zo ja, welke?;-;-;
 32;Worden er achtergronden over het leven van de slechterik gegeven?;ja,nee;nee;
 	33;Wordt het huis van de slechterik genoemd?;ja,nee;nee;
-	34;Heeft de slechterik vrouw en kinderen?;ja,niet genoemd;niet genoemd;
+	34;Heeft de slechterik vrouw en kinderen?;ja,nee,niet genoemd;niet genoemd;
 	35;Beschrijft de tekst waarom de slechterik zo slecht is geworden?;ja,nee;nee;
 36;Wordt de Grootmoeder van Roodkapje genoemd in het verhaal?;ja,nee;nee;
 	37;Hoe wordt Grootmoeder genoemd? (bv. grootmoeder, oma, opoe);-;-;
@@ -44,7 +44,7 @@
 	43;Hoe wordt de moeder van Roodkapje genoemd? (bv. moeder, mama, moeke);-;-;
 	44;Is de moeder van Roodkapje ook als personage aanwezig in het verhaal?;ja,nee;nee;
 		45;Is de moeder van Roodkapje aanwezig in het begin van het verhaal?;ja,nee;nee;
-		46;Komt de moeder nog in een ander deel van het verhaal voor?;ja,nee;nee;
+		46;Komt de moeder nog in een ander deel van het verhaal voor?;ja,nee;nee;272
 47;Wordt de vader van Roodkapje genoemd in het verhaal?;ja,nee;nee;
 	48;Wordt de vader van Roodkapje genoemd aan het begin van het verhaal?;ja,nee;nee;
 	49;Hoe wordt de vader van Roodkapje genoemd? (bv. vader, papa etc.);-;-;
@@ -66,7 +66,7 @@
 		65;Hoe weet Roodkapje (en haar moeder) dat Grootmoeder ziek of jarig is?;niet genoemd,gerucht,boodschap van Grootmoeder,boodschap van de jager,boodschap van dierenvriendjes,anders;niet genoemd;
 	66;Wie stuurt Roodkapje naar Grootmoeder?;niet genoemd,Roodkapjes moeder,Roodkapjes vader,Grootmoeder,Roodkapje,de redder,dierenvriendjes,iemand anders;niet genoemd;
 	67;Wordt de reden gegeven waarom Roodkapje naar Grootmoeder moet gaan en niet haar moeder zelf?;ja,nee;nee;
-	68;Is Roodkapje al eerder alléén naar Grootmoeder gegaan?;niet genoemd,ja,nee;niet genoemd;
+	68;Is Roodkapje al eerder alléén naar Grootmoeder gegaan?;ja,nee,niet genoemd;niet genoemd;
 	69;Krijgt Roodkapje aanwijzingen en / of waarschuwing voor onderweg en / of bij Grootmoeder?;ja,nee;nee;
 		70;Wie geeft Roodkapje deze waarschuwingen / aanwijzingen?;-;-;
 		71;Krijgt Roodkapje instructies hoe ze zich moet gedragen bij Grootmoeder?;ja,niet genoemd;niet genoemd;
@@ -75,12 +75,12 @@
 		74;Wordt Roodkapje voor vertrekt gewaarschuwd voor wolven / enge dieren in het algemeen?;ja,nee;nee;
 		75;Wordt gezegd hoe lang Roodkapje bij Grootmoeder moet blijven? Zo ja, hoe lang?;niet genoemd,zelfde dag terug,een nachtje,meerdere dagen;niet genoemd;
 		76;Wordt Roodkapje gezegd niet van de (grote) weg af te gaan?;ja,nee;nee;
-		77;Wordt Roodkapje gezegd niet te treuzelen / blijven staan etc. onderweg?;ja,nee;nee;
+		77;Wordt Roodkapje gezegd niet te spelen / treuzelen / blijven staan etc. onderweg?;ja,nee;nee;
 		78;Wordt Roodkapje gezegd geen bloemen te plukken?;ja,nee;nee;
 		79;Wordt Roodkapje gezegd niet op vlinders te jagen?;ja,nee;nee;
-		80;Wordt Roodkapje gezegd te vertrekken voor het te warm is?;ja,nee;nee;
-		81;Wordt Roodkapje gezegd haar rode kledingstuk aan te doen of op te zetten voor vertrek?;ja,nee;nee;
+		80;Wordt Roodkapje gezegd te vertrekken voor het te warm is / nu het nog koel is?;ja,nee;nee;
 		82;Wordt Roodkapje gezegd voorzichtig te lopen zodat de spullen voor oma niet kapot zullen gaan?;ja,nee;nee;
+	81;Trekt Roodkapje haar rode kledingstuk aan of zet ze het op voor vertrek?;ja,nee,niet genoemd;nee;
 	83;Wordt er een vooruitwijzing gegeven naar een mogelijk slechte afloop?;ja,nee;nee;
 84;Speelt een deel van het verhaal zich af onderweg naar Grootmoeder?;ja,nee;nee;
 	85;In welk deel van de dag vertrekt Roodkapje naar Grootmoeder?;niet genoemd,ochtend,middag,avond;niet van toepassing;
@@ -130,7 +130,7 @@
 	129;Worden er nog andere personen of dieren genoemd in het bos die Roodkapje niet ontmoet?;ja,nee;nee;
 	130;Staat in de tekst dat Roodkapje onderweg (een liedje) zingt?;ja,nee;nee;
 		131;Wordt er naar het bekende liedje van Roodkapje gerefereed? ("Zeg Roodkapje waar ga je...");ja,nee;nee;
-132;Wordt het huisje van Grootmoeder besproken in de tekst?;ja,nee;nee;
+132;Wordt besproken waar het huisje van Grootmoeder staat of waar ze woont?;ja,nee;nee;
 	133;Waar staat het huisje van Grootmoeder?;niet genoemd, in het (volgende) dorp,in het bos,andere locatie;niet genoemd;
 	134;Wordt de omgeving van Grootmoeders huisje besproken in de tekst?;ja,nee;nee;
 		135;Worden de drie eiken in het bos genoemd?;ja,nee;nee;
@@ -146,7 +146,7 @@
 		145;Vindt er een gesprek plaats tussen Grootmoeder en de wolf wanneer de wolf voor Grootmoeders huisje staat?;ja,nee;nee;
 			146;Is Grootmoeder wantrouwig als ze de stem van de wolf hoort?;ja,niet genoemd;niet genoemd;
 			147;Hoe klinkt de stem van de wolf als hij voor Grootmoeders huisje staat?;-;-;
-			148;Klopt de wolf op de deur van Grootmoeders huisje?;ja,nee;nee;
+			148;Klopt (tikt, bonst, etc.) de wolf op de deur van Grootmoeders huisje?;ja,nee;nee;
 				149;Hoe klinkt het kloppen van de wolf? (één woord per klank);-;-;
 				150;Hoe vaak klopt de wolf?;niet genoemd,1,2,3,4,5,>5;0;
 			151;Vertelt Grootmoeder aan de wolf hoe de deur open gaat?;ja,nee;nee;
@@ -157,7 +157,7 @@
 		156;Wordt Grootmoeder opgegeten door de wolf?;ja,nee;nee;161
 			157;Noem het werkwoord waarmee wordt beschreven dat de wolf Grootmoeder opeet. Bijvoorbeeld: opeten, verslinden, opslokken etc.;-;-;
 			158;Maakt de verteller expliciet dat Grootmoeder nadat ze is opgegeten, toch nog in leven zou kunnen zijn?;ja,nee;niet van toepassing;
-			159;Verliest Grootmoeder haar kleren tijdens de belaging van de wolf?;ja,niet genoemd;niet van toepassing;
+			159;Verliest Grootmoeder haar kleren tijdens de belaging van de wolf?;ja,nee,niet genoemd;niet van toepassing;
 		160;Vlucht Grootmoeder voor de wolf, zo ja waarheen?;nee,kast,kelder,naar buiten,andere locatie;niet van toepassing;
 		161;Verstopt de wolf Grootmoeder (bijvoorbeeld in de kast)?;ja,nee;niet van toepassing;
 	162;Verkleedt de wolf zich?;ja,nee,niet genoemd;niet genoemd,nee;
@@ -172,9 +172,9 @@
 	171;Trekt de wolf de gordijnen van de bedstee of van het huisje dicht voordat Roodkapje aankomt?;niet genoemd,bedstee,huisje;niet genoemd;
 	172;Wacht de wolf "geduldig" of "ongeduldig" op Roodkapje?;niet genoemd,geduldig,ongeduldig;niet genoemd;
 	173;Wordt Roodkapje door iemand vergezeld tot aan Grootmoeders huisje?;ja,nee,niet genoemd;nee;
-	174;Is het voor de lezer duidelijk dat het de wolf is die in bed ligt bij de aankomst van Roodkapje bij Grootmoeder?;ja,nee;nee;
+	174;Is het voor de lezer bij de aankomst van Roodkapje bij Grootmoeder duidelijk dat het de wolf is die in bed ligt (of in het huisje van Grootmoeder aanwezig is)?;ja,nee;nee;
 	175;Staat de deur van Grootmoeders huisje al open wanneer Roodkapje aankomt?;ja,nee,niet genoemd;ja;
-		176;Klopt Roodkapje op de deur van Grootmoeder?;ja,nee;nee;
+		176;Klopt (tikt, bonst, etc.) Roodkapje op de deur van Grootmoeder?;ja,nee;nee;
 			177;Hoe klinkt het kloppen van Roodkapje? (één woord per klank);-;-;
 			178;Hoe vaak klopt Roodkapje?;niet genoemd,1,2,3,4,5,>5;0;
 		179;Trekt Roodkapje aan de bel?;ja,nee;nee;
@@ -192,7 +192,7 @@
 		191;Waar moet Roodkapje haar meegebrachte spulletjes neerzetten van de wolf?;-;-;
 		192;Vertelt Roodkapje aan de wolf over ontmoeting met de wolf in het bos?;ja,nee;nee;
 		193;Vraagt de wolf om een kus aan Roodkapje;ja,nee;nee;
-		194;Is de bekende formulaïsche passage van "wat heeft u grote ogen / oren etc." aanwezig?;ja,nee;nee;
+		194;Is de bekende formulaïsche passage van "wat heeft u grote ogen / oren etc." (gedeeltelijk) aanwezig?;ja,nee;nee;
 			195;Welke lichaamsdelen worden er in deze formulaïsche passage genoemd? (geef in volgorde van de tekst);-;-;
 			196;Rijmt deze formulaïsche passage?;ja,nee;niet van toepassing;
 	197;Vraagt de wolf aan Roodkapje bij hem in / op bed te stappen?;ja,nee;nee;
@@ -208,10 +208,10 @@
 		206;Zit de wolf Roodkapje achterna tijdens haar vluchtpoging?;ja,nee;nee;
 			207;Struikelt de wolf tijdens zijn achtervolging van Roodkapje?;ja,nee;nee;
 				208;Waarover struikelt de wolf tijdens de achtervolging?;-;-;
-	209;Wil de wolf Roodkapje opeten?;ja,nee;nee;
+	209;Wil de wolf Roodkapje opeten?;ja,nee,onbekend;nee;
 	210;Wordt Roodkapje opgegeten door de wolf?;ja,nee;nee;
 		211;Noem het werkwoord waarmee wordt beschreven dat de wolf Roodkapje opeet. Bijvoorbeeld opeten, verslinden, opslokken, etc.;-;-;
-		212;Maakt de verteller expliciet dat Grootmoeder na ze is opgegeten, toch nog in leven zou kunnen zijn?;ja,nee;niet van toepassing;
+		212;Maakt de verteller expliciet dat Roodkapje na ze is opgegeten, toch nog in leven zou kunnen zijn?;ja,nee;niet van toepassing;
 	213;Nuttigt de wolf de door Roodkapje meegebrachte spullen?;ja,nee;nee;
 		214;Nuttigt de wolf de spullen voor- of nadat hij Roodkapje opeet?;niet van toepassing,voordat,nadat;niet van toepassing;
 		215;Welke spullen nuttigt de wolf?;-;-;
@@ -278,13 +278,13 @@
 			276;Wat eet en of drinkt Grootmoeder?;-;-;
 			277;Wat eet en of drinkt de redder?;-;-;
 			278;Wat eet en of drinkt moeder?;-;-;
-279;Wordt er een episode besproken waarin Roodkapje na haar avontuur weer thuis is?;ja,nee;nee;
+279;Wordt er een episode besproken waarin Roodkapje na haar avontuur weer thuis is of naar huis gaat?;ja,nee;nee;
 	280;Wordt Roodkapje door iemand thuisgebracht, zo ja, door wie?;-;-;
-	281;Wordt bij thuiskomst de goede afloop gevierd?;ja,nee;nee;
-		282;Wordt er een feest gegeven in het dorp ter ere van de redder?;ja,nee;nee;
-		283;Wordt er een feest gegeven in het dorp omdat de wolf is gedood?;ja,nee;nee;
+	281;Wordt bij thuiskomst de goede afloop gevierd?;ja,niet genoemd;niet genoemd;
+		282;Wordt er een feest gegeven in het dorp ter ere van de redder?;ja,niet genoemd;niet genoemd;
+		283;Wordt er een feest gegeven in het dorp omdat de wolf is gedood?;ja,niet genoemd;niet genoemd;
 	284;Vertelt Roodkapje (aan haar moeder) wat er allemaal gebeurd is?;ja,nee;nee;
-	285;Wordt de moeder van Roodkapje boos op Roodkapje als ze weer thuis is?;ja,nee;nee;
+	285;Wordt de moeder van Roodkapje boos op Roodkapje als ze weer thuis is?;ja,niet genoemd;niet genoemd;
 	286;Is de moeder van Roodkapje te blij / opgelucht etc. om boos te worden op Roodkapje?;ja,niet genoemd;niet genoemd;
 287;Trekt Grootmoeder bij Roodkapje en haar moeder in?;ja,nee;nee;
 288;Trouwt Roodkapje met haar redder?;ja,nee;nee;
@@ -294,6 +294,6 @@
 	292;Staat de moraal op rijm?;ja,nee;nee;
 	293;Wordt er gezegd dat Roodkapje vanaf nu altijd gehoorzaam etc. is gebleven?;ja,nee;nee;
 	294;Wordt er gezegd dat Roodkapje zich voorneemt vanaf nu altijd gehoorzaam etc. te zullen zijn?;ja,nee;nee;
-	295;Beschrijft de tekst dat oma ook een les leert van alles wat is gebeurd?;ja,nee;nee;
+	295;Beschrijft de tekst of blijkt uit de tekst dat oma ook een les leert van alles wat is gebeurd?;ja,nee;nee;
 296;Bevat het verhaal een tweede episode, waarin Roodkapje opnieuw naar Grootmoeder gaat en weer een wolf tegenkomt?;ja,nee;nee;
 297;Heb je nog vragen of opmerkingen over de tekst of over het beantwoorden van de vragen?;-;-;
