@@ -119,6 +119,76 @@ Questionnaire.prototype.current = function() {
   return this.questions[this.currentQuestion];
 };
 
+function previous_question(questionnaire) {
+  if (questionnaire.questionPath.length === 0 || questionnaire.currentQuestion === 0) {
+    return false;
+  } else {
+    // get the last question on the path
+    question = questionnaire.pop();
+    // reset the skipped questions.
+    questionnaire.update(question, false);
+    // update the page
+    questionnaire.update_page(question);
+  }
+  return false;
+}
+
+function next_question(questionnaire) {
+  // get the current question
+  question = questionnaire.current();
+  // get the data from the form
+  var data = $('.pure-form').serializeArray()[0];
+  // check if some answer has been given
+  if (typeof(data) == 'undefined' || data.value == null || data.value == "") {
+    if (confirm("Weet je zeker dat je geen antwoord kunt geven?") == false) {
+      return false;
+    } else {
+      var data = {};
+      data.name = question.number;
+      data.value = "NO ANSWER PROVIDED";
+    }
+  }
+  questionnaire.questionPath.push(question.number);
+  questionnaire.answers['answers'][data.name] = data.value;
+
+  for (var qi = 0; qi < question.default.length; qi++) {
+    if (data.value === question.default[qi]) {
+      questionnaire.update(question, true);
+      break;
+    }
+  }
+  if (questionnaire.next()) {
+    questionnaire.update_page(questionnaire.current());
+    return false;
+  } else {
+    questionnaire.line.animate(1.0);
+    // first update the answers object with default answers
+    questionnaire.fill_blanks();
+    // add the possibly updated story contents
+    questionnaire.answers['story'] = $('textarea').val();
+    // perform the request
+    $.ajax({
+      contentType: 'application/json;charset=UTF-8',
+      url: questionnaire.storyname,
+      data: JSON.stringify(questionnaire.answers),
+      type: 'POST',
+      dataType: 'json',
+      success: function (r) {
+        console.log(r);
+        $("#questionaire").html("");
+        var button = document.createElement("button");
+        button.setAttribute("type", "submit");
+        button.setAttribute("class", "button-next pure-u-1 pure-button");
+        button.setAttribute("onclick", "window.location='/'");
+        button.innerHTML = "Volgende verhaal";
+        div = document.getElementById("questionaire");
+        div.appendChild(button);
+      }
+    });
+    return true;
+  }
+}
+
 $(document).ready(function() {
 
   var questionnaire = new Questionnaire(storyname, questions);
@@ -128,72 +198,22 @@ $(document).ready(function() {
   questionnaire.update_page(question);
 
   $("#previous").click(function() {
-      if (questionnaire.questionPath.length === 0 || questionnaire.currentQuestion === 0) {
-        return false;
-      } else {
-        // get the last question on the path
-        question = questionnaire.pop();
-        // reset the skipped questions.
-        questionnaire.update(question, false);
-        // update the page
-        questionnaire.update_page(question);
-      }
-    return false;
+    previous_question(questionnaire);
   });
 
-  $("#next").click(function() {
-    // get the current question
-    question = questionnaire.current();
-    // get the data from the form
-    var data = $('.pure-form').serializeArray()[0];
-    // check if some answer has been given
-    if (typeof(data) == 'undefined' || data.value == null || data.value == "") {
-      if (confirm("Weet je zeker dat je geen antwoord kunt geven?") == false) {
-        return false;
-      } else {
-        var data = {};
-        data.name = question.number;
-        data.value = "NO ANSWER PROVIDED";
-      }
-    }
-    questionnaire.questionPath.push(question.number);
-    questionnaire.answers['answers'][data.name] = data.value;
-
-    for (var qi = 0; qi < question.default.length; qi++) {
-      if (data.value === question.default[qi]) {
-        questionnaire.update(question, true);
-        break;
-      }
-    }
-    if (questionnaire.next()) {
-      questionnaire.update_page(questionnaire.current());
-      return false;
-    } else {
-      questionnaire.line.animate(1.0);
-      // first update the answers object with default answers
-      questionnaire.fill_blanks();
-      // add the possibly updated story contents
-      questionnaire.answers['story'] = $('textarea').val();
-      // perform the request
-      $.ajax({
-        contentType: 'application/json;charset=UTF-8',
-        url: questionnaire.storyname,
-        data: JSON.stringify(questionnaire.answers),
-        type: 'POST',
-        dataType: 'json',
-        success: function (r) {
-          console.log(r);
-          $("#questionaire").html("Dank voor je hulp!");
-          var button = document.createElement("button");
-          button.setAttribute("type", "submit");
-          button.setAttribute("class", "button-next pure-u-1 pure-button");
-          button.setAttribute("onclick", "window.location='/'");
-          button.innerHTML = "Volgende verhaal";
-          div = document.getElementById("questionaire");
-          div.appendChild(button);
-        }
-      });
-      return true;
-    }
+  $("#next").click(function () {
+    next_question(questionnaire);
   });
+
+  document.onkeydown = function(e) {
+    switch (e.keyCode) {
+        case 37:
+          previous_question(questionnaire);
+          break;
+        case 39:
+          next_question(questionnaire);
+          break;
+    }
+};
+
 });
