@@ -182,11 +182,11 @@
 			181;Is Roodkapje wantrouwig (bang, angstig, etc.) als ze de stem van de wolf daar hoort?;ja,niet genoemd;niet genoemd;
 			182;Vertelt de wolf aan Roodkapje hoe de deur open gaat?;ja,nee;nee;
 		183;Kijkt de wolf uit het raam of het Roodkapje is die voor de deur staat?;ja,niet genoemd;niet genoemd;
-	184;Is Roodkapje angstig bij het binnentreden van Grootmoeders huisje;ja,niet genoemd;niet genoemd;
+	184;Is Roodkapje angstig bij het binnentreden van Grootmoeders huisje?;ja,niet genoemd;niet genoemd;
 	185;Schrikt Roodkapje als bij de eerste aanblik van de wolf in Grootmoeders huisje?;ja,niet genoemd;niet genoemd;
 	186;Schrikt Roodkapje wanneer ze de stem van de wolf hoort in Grootmoeders huisje?;ja,nee,niet genoemd;niet genoemd;
 	187;Wordt de stem van de wolf omschreven als grof / zwaar etc.?;ja,nee;nee;
-		188;Schrijft Roodkapje de stemklank van de wolf toe aan Grootmoeders verkoudheid / ziekte?;ja,nee;niet van toepassing;
+	188;Schrijft Roodkapje de stemklank van de wolf toe aan Grootmoeders verkoudheid / ziekte?;ja,nee;niet van toepassing;
 	189;Herkent Roodkapje de wolf meteen als ze hem ziet of hoort in Grootmoeders huisje?;ja,nee,niet genoemd;niet van toepassing;
 	190;Vindt er een gesprek plaats tussen Roodkapje en de wolf als Roodkapje in Grootmoeders huisje is?;ja,nee;nee;197
 		191;Waar moet Roodkapje haar meegebrachte spulletjes neerzetten van de wolf?;-;-;
@@ -209,7 +209,7 @@
 			207;Struikelt de wolf tijdens zijn achtervolging van Roodkapje?;ja,nee;nee;
 				208;Waarover struikelt de wolf tijdens de achtervolging?;-;-;
 	209;Wil de wolf Roodkapje opeten?;ja,nee,onbekend;nee;
-	210;Wordt Roodkapje opgegeten door de wolf?;ja,nee;nee;
+	210;Wordt Roodkapje opgegeten door de wolf?;ja,nee;nee;216,217
 		211;Noem het werkwoord waarmee wordt beschreven dat de wolf Roodkapje opeet. Bijvoorbeeld opeten, verslinden, opslokken, etc.;-;-;
 		212;Maakt de verteller expliciet dat Roodkapje na ze is opgegeten, toch nog in leven zou kunnen zijn?;ja,nee;niet van toepassing;
 	213;Nuttigt de wolf de door Roodkapje meegebrachte spullen?;ja,nee;nee;
@@ -258,7 +258,7 @@
 				256;Wordt de buik van de wolf weer dichtgenaaid, zo ja door wie?;nee,niet genoemd,Roodkapje,Grootmoeder,redder,moeder,combinatie van personen,iemand anders;niet van toepassing;
 				257;Heeft de wolf bij het ontwaken buikpijn of is hij misselijk van het vele eten?;ja,niet genoemd;niet van toepassing;
 			258;Gaat de wolf dood?;ja,nee;nee;
-				259;Wordt de wolf vermoord door de redder (en of zijn hond)?;ja,nee;nee;
+				259;Wordt de wolf vermoord door de redder (en of zijn hond)?;ja,nee;nee;262,263,267,271
 					260;Waarmee wordt de wolf vermoord (geweer, bijl, knuppel, etc.);-;-;
 					261;Wordt de wolf vermoord vóór- of nadat Roodkapje en of Grootmoeder zijn gered?;voordat,nadat,niet van toepassing;niet van toepassing;
 				262;Valt de wolf dood neer door het gewicht van de stenen in zijn buik?;ja,nee;nee;
@@ -270,7 +270,7 @@
 				268;Wordt het vel van de wolf gestroopt?;ja,nee;nee;
 					269;Wat wordt er van het vel van de wolf gemaakt?;-;-;
 						270;Voor wie is de jas (of ander object) gemaakt van wolvenvel?;niet genoemd,Roodkapje,Grootmoeder,redder,moeder,iemand anders;niet genoemd;
-			271;Wordt de wolf gevangen genomen (en niet gedood)?;ja,nee;niet van toepassing;
+			271;Wordt de wolf gevangen genomen (en niet gedood)?;ja,nee;nee;
 		272;Komt de moeder van Roodkapje naar Grootmoeder?;ja,nee;niet van toepassing,nee;278
 		273;Nuttigen Roodkapje, Grootmoeder, moeder en of de redder de door Roodkapje meegebrachte spullen?;ja,nee;nee;
 			274;Wordt er gegeten en gedronken vóór- of nadat de wolf wordt gedood en of gestraft?;niet van toepassing,voordat,nadat;niet van toepassing;
