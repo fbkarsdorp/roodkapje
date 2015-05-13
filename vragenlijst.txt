@@ -73,6 +73,7 @@
 		72;Wordt Roodkapje voor vertrek expliciet gewaarschuwd voor dé wolf?;ja,nee;nee;
 			73;Gelooft Roodkapje erin dat de wolf zo slecht is als haar wordt verteld?;niet genoemd,ja,nee;niet genoemd;
 		74;Wordt Roodkapje voor vertrekt gewaarschuwd voor wolven / enge dieren in het algemeen?;ja,nee;nee;
+		300;Wordt Roodkapje voor vertrekt gewaarschuwd niet met vreemden te praten?;ja,nee;nee;
 		75;Wordt gezegd hoe lang Roodkapje bij Grootmoeder moet blijven? Zo ja, hoe lang?;niet genoemd,zelfde dag terug,een nachtje,meerdere dagen;niet genoemd;
 		76;Wordt Roodkapje gezegd niet van de (grote) weg af te gaan?;ja,nee;nee;
 		77;Wordt Roodkapje gezegd niet te spelen / treuzelen / blijven staan etc. onderweg?;ja,nee;nee;
@@ -186,7 +187,7 @@
 	185;Schrikt Roodkapje als bij de eerste aanblik van de wolf in Grootmoeders huisje?;ja,niet genoemd;niet genoemd;
 	186;Schrikt Roodkapje wanneer ze de stem van de wolf hoort in Grootmoeders huisje?;ja,nee,niet genoemd;niet genoemd;
 	187;Wordt de stem van de wolf omschreven als grof / zwaar etc.?;ja,nee;nee;
-	188;Schrijft Roodkapje de stemklank van de wolf toe aan Grootmoeders verkoudheid / ziekte?;ja,nee;niet van toepassing;
+	188;Schrijft Roodkapje de stemklank of de verschijning van de wolf toe aan Grootmoeders verkoudheid / ziekte?;ja,nee;niet van toepassing;
 	189;Herkent Roodkapje de wolf meteen als ze hem ziet of hoort in Grootmoeders huisje?;ja,nee,niet genoemd;niet van toepassing;
 	190;Vindt er een gesprek plaats tussen Roodkapje en de wolf als Roodkapje in Grootmoeders huisje is?;ja,nee;nee;197
 		191;Waar moet Roodkapje haar meegebrachte spulletjes neerzetten van de wolf?;-;-;
@@ -241,7 +242,7 @@
 					239;Vertelt Grootmoeder dat het zo donker was in de buik van de wolf?;ja,nee;nee;
 				240;Heeft Grootmoeder ademhalingsproblemen nadat ze uit de buik van de wolf is gehaald?;ja,nee,niet genoemd;niet genoemd;
 			241;Wordt Grootmoeder via de mond van de wolf bevrijd?;ja,nee;nee;
-			242;Is Grootmoeder na haar redding niet meer ziek?;ja,nee,niet genoemd;niet genoemd;
+			242;Is Grootmoeder na haar redding meteen niet meer ziek?;ja,nee,niet genoemd;niet genoemd;
 		243;Wordt Roodkapje gered van de wolf?;ja,nee;nee;
 			244;Wordt Roodkapje uit (de buik van) de wolf gehaald?;ja,nee;nee;
 				245;Vertelt Roodkapje iets over haar ervaringen in (de buik van) de wolf?;ja,nee;nee;
