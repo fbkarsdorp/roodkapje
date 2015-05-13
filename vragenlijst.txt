@@ -133,8 +133,8 @@
 132;Wordt besproken waar het huisje van Grootmoeder staat of waar ze woont?;ja,nee;nee;
 	133;Waar staat het huisje van Grootmoeder?;niet genoemd, in het (volgende) dorp,in het bos,andere locatie;niet genoemd;
 	134;Wordt de omgeving van Grootmoeders huisje besproken in de tekst?;ja,nee;nee;
-		135;Worden de drie eiken (of andere bomen) in het bos genoemd?;ja,nee;nee;
-		136;Staat het huisje van Grootmoeder bij de drie eiken (of andere bomen)?;ja,niet genoemd;niet genoemd;
+		135;Worden de (drie) eiken in het bos genoemd?;ja,nee;nee;
+		136;Staat het huisje van Grootmoeder bij de (drie) eiken?;ja,niet genoemd;niet genoemd;
 		137;Wordt de molen genoemd in de buurt van Grootmoeders huisje?;ja,nee;nee;
 	138;Wat is de kleur van Grootmoeders huisje?;-;-;
 	139;Wat is de kleur van het dak van Grootmoeders huisje?;-;-;
