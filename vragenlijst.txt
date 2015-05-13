@@ -168,7 +168,7 @@
 			167;Worden de kledingstukken die de wolf aantrekt met een bepaald lidwoord aangeduid?;ja,nee;nee;
 			168;Complimenteert de wolf zichzelf met zijn plan om Roodkapje voor de gek te houden?;ja,niet genoemd;niet genoemd;
 	169;Gaat de wolf in (Grootmoeders) bed liggen?;ja,nee,niet genoemd;nee,niet genoemd;
-		170;Kruipt de wolf "onder" de dekens?;ja,nee,niet genoemd;niet genoemd;
+		170;Kruipt de wolf onder de dekens?;ja,nee,niet genoemd;niet genoemd;
 	171;Trekt de wolf de gordijnen van de bedstee of van het huisje dicht voordat Roodkapje aankomt?;niet genoemd,bedstee,huisje;niet genoemd;
 	172;Wacht de wolf "geduldig" of "ongeduldig" op Roodkapje?;niet genoemd,geduldig,ongeduldig;niet genoemd;
 	173;Wordt Roodkapje door iemand vergezeld tot aan Grootmoeders huisje?;ja,nee,niet genoemd;nee;
@@ -284,7 +284,7 @@
 	281;Wordt bij thuiskomst de goede afloop gevierd?;ja,niet genoemd;niet genoemd;
 		282;Wordt er een feest gegeven in het dorp ter ere van de redder?;ja,niet genoemd;niet genoemd;
 		283;Wordt er een feest gegeven in het dorp omdat de wolf is gedood?;ja,niet genoemd;niet genoemd;
-	284;Vertelt Roodkapje (aan haar moeder) wat er allemaal gebeurd is?;ja,nee;nee;
+	284;Vertelt Roodkapje (aan haar moeder) wat er allemaal gebeurd is?;ja,nee,niet genoemd;nee;
 	285;Wordt de moeder van Roodkapje boos op Roodkapje als ze weer thuis is?;ja,niet genoemd;niet genoemd;
 	286;Is de moeder van Roodkapje te blij / opgelucht etc. om boos te worden op Roodkapje?;ja,niet genoemd;niet genoemd;
 287;Trekt Grootmoeder bij Roodkapje en haar moeder in?;ja,nee;nee;
