@@ -151,7 +151,7 @@
 			148;Klopt (tikt, bonst, etc.) de wolf op de deur van Grootmoeders huisje?;ja,nee;nee;
 				149;Hoe klinkt het kloppen van de wolf? (één woord per klank);-;-;
 				150;Hoe vaak klopt de wolf?;niet genoemd,1,2,3,4,5,>5;0;
-			301;Trekt de wolf aan de bel?;ja,nee;nee;				
+			301;Trekt de wolf aan de bel?;ja,nee;nee;
 			151;Vertelt Grootmoeder aan de wolf hoe de deur open gaat?;ja,nee;nee;
 		153;Doet Grootmoeder zelf de deur open voor de wolf?;ja,nee,niet genoemd;nee;
 		154;Kijkt Grootmoeder door het raampje om te zien of Roodkapje voor de deur staat?;ja,nee,niet genoemd;niet genoemd;
