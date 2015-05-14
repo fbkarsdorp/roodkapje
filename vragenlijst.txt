@@ -275,7 +275,7 @@
 			271;Wordt de wolf gevangen genomen (en niet gedood)?;ja,nee;nee;
 		272;Komt de moeder van Roodkapje naar Grootmoeder?;ja,nee;niet van toepassing,nee;278
 		273;Nuttigen Roodkapje, Grootmoeder, moeder en of de redder de door Roodkapje meegebrachte spullen?;ja,nee;nee;
-			274;Wordt er gegeten en gedronken vóór- of nadat de wolf wordt gedood en of gestraft?;niet van toepassing,voordat,nadat;niet van toepassing;
+			274;Wordt er gegeten en gedronken vóór- of nadat de wolf wordt gedood, gestraft of verjaagd?;niet van toepassing,voordat,nadat;niet van toepassing;
 			275;Wat eet en of drinkt Roodkapje?;-;-;
 			276;Wat eet en of drinkt Grootmoeder?;-;-;
 			277;Wat eet en of drinkt de redder?;-;-;
