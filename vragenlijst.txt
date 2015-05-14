@@ -66,7 +66,6 @@
 		65;Hoe weet Roodkapje (en haar moeder) dat Grootmoeder ziek of jarig is?;niet genoemd,gerucht,boodschap van Grootmoeder,boodschap van de jager,boodschap van dierenvriendjes,anders;niet genoemd;
 	66;Wie stuurt Roodkapje naar Grootmoeder?;niet genoemd,Roodkapjes moeder,Roodkapjes vader,Grootmoeder,Roodkapje,de redder,dierenvriendjes,iemand anders;niet genoemd;
 	67;Wordt de reden gegeven waarom Roodkapje naar Grootmoeder moet gaan en niet haar moeder zelf?;ja,nee;nee;
-	68;Is Roodkapje al eerder alléén naar Grootmoeder gegaan?;ja,nee,niet genoemd;niet genoemd;
 	69;Krijgt Roodkapje aanwijzingen en / of waarschuwing voor onderweg en / of bij Grootmoeder?;ja,nee;nee;
 		70;Wie geeft Roodkapje deze waarschuwingen / aanwijzingen?;-;-;
 		71;Krijgt Roodkapje instructies hoe ze zich moet gedragen bij Grootmoeder?;ja,niet genoemd;niet genoemd;
@@ -85,6 +84,7 @@
 	83;Wordt er een vooruitwijzing gegeven naar een mogelijk slechte afloop?;ja,nee;nee;
 84;Speelt een deel van het verhaal zich af onderweg naar Grootmoeder?;ja,nee;nee;
 	85;In welk deel van de dag vertrekt Roodkapje naar Grootmoeder?;niet genoemd,ochtend,middag,avond;niet van toepassing;
+	68;Is Roodkapje al eerder alléén naar Grootmoeder gegaan?;ja,nee,niet genoemd;niet genoemd;
 	86;Neemt Roodkapje spullen mee voor Grootmoeder?;ja,nee,niet genoemd;niet genoemd;
 		87;Wat neemt Roodkapje mee voor Grootmoeder?;-;-;
 		88;Hoe draagt Roodkapje de spullen voor Grootmoeder?;niet genoemd,in een mandje,onder haar schortje,andere manier;niet genoemd;
@@ -93,7 +93,7 @@
 		91;Plukt Roodkapje bloempjes?;ja,nee;nee;
 		92;Zoekt Roodkapje nootjes?;ja,nee;nee;
 		93;Jaagt Roodkapje op vlinders?;ja,nee;nee;
-	94;Verlaat Roodkapje het pad dat ze neemt naar Grootmoeder?;ja,nee,niet genoemd;niet genoemd;
+	94;Verlaat Roodkapje het pad dat ze neemt naar Grootmoeder?;ja,nee,niet genoemd;niet genoemd,nee;
 		95;Verlaat Roodkapje het voor vóór- of nadat ze de wolf heeft ontmoet?;ze ontmoet geen wolf,ervoor,erna;ze ontmoet geen wolf;
 	96;Ontmoet Roodkapje de / een wolf onderweg naar Grootmoeder?;ja,nee;nee;
 		97;Waar ontmoet Roodkapje de wolf?;niet genoemd,van het pad af,op het pad;niet van toepassing;
