@@ -151,6 +151,7 @@
 			148;Klopt (tikt, bonst, etc.) de wolf op de deur van Grootmoeders huisje?;ja,nee;nee;
 				149;Hoe klinkt het kloppen van de wolf? (één woord per klank);-;-;
 				150;Hoe vaak klopt de wolf?;niet genoemd,1,2,3,4,5,>5;0;
+			301;Trekt de wolf aan de bel?;ja,nee;nee;				
 			151;Vertelt Grootmoeder aan de wolf hoe de deur open gaat?;ja,nee;nee;
 		153;Doet Grootmoeder zelf de deur open voor de wolf?;ja,nee,niet genoemd;nee;
 		154;Kijkt Grootmoeder door het raampje om te zien of Roodkapje voor de deur staat?;ja,nee,niet genoemd;niet genoemd;
@@ -258,7 +259,7 @@
 				255;Wordt de buik van de wolf gevuld vóór of na de dood van de wolf?;niet van toepassing,vóór,na;niet van toepassing;
 				299;Wie vult of wie vullen de buik van de wolf?;niet genoemd,Roodkapje,Grootmoeder,redder,moeder,combinatie van personen,iemand anders;niet van toepassing;
 				256;Wordt de buik van de wolf weer dichtgenaaid, zo ja door wie?;nee,niet genoemd,Roodkapje,Grootmoeder,redder,moeder,combinatie van personen,iemand anders;niet van toepassing;
-				257;Heeft de wolf bij het ontwaken buikpijn of is hij misselijk van het vele eten?;ja,niet genoemd;niet van toepassing;
+				257;Heeft de wolf bij het ontwaken buikpijn of is hij misselijk van het vele eten?;ja,niet genoemd,niet van toepassing;niet van toepassing;
 			258;Gaat de wolf dood?;ja,nee;nee;
 				259;Wordt de wolf vermoord door de redder (en of zijn hond)?;ja,nee;nee;
 					260;Waarmee wordt de wolf vermoord (geweer, bijl, knuppel, etc.);-;-;
