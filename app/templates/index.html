@@ -32,6 +32,13 @@ line.animate((427 - todo) / 427);
          daar tikfouten of andere onregelmatigheden in de tekst aanwezig zijn. Als je zo'n fout
          ziet, zou het fijn zijn als je die verbetert.</p>
 
-     <a class="button-next pure-button" href="{{ url_for('annotate', storyname=story.storyname) }}">Annoteer het volgende verhaal!</a>
+    <div class="pure-g-1">
+      <a class="button-next pure-input-1-2 pure-button" href="{{ url_for('annotate', storyname=story.storyname) }}">
+        Annoteer
+        <i class="fa fa-pencil"></i></a>
+      <a class="button-next pure-input-1-2 pure-button" href="{{ url_for('administration') }}">
+         Annotatieoverzicht
+         <i class="fa fa-table"></i></a>
+    </div>
 </div>
 {% endblock %}

@@ -242,7 +242,7 @@
 					239;Vertelt Grootmoeder dat het zo donker was in de buik van de wolf?;ja,nee;nee;
 				240;Heeft Grootmoeder ademhalingsproblemen nadat ze uit de buik van de wolf is gehaald?;ja,nee,niet genoemd;niet genoemd;
 			241;Wordt Grootmoeder via de mond van de wolf bevrijd?;ja,nee;nee;
-			242;Is Grootmoeder na haar redding meteen niet meer ziek?;ja,nee,niet genoemd;niet genoemd;
+			242;Is Grootmoeder direct na haar redding niet meer ziek?;ja,nee,niet genoemd;niet genoemd;
 		243;Wordt Roodkapje gered van de wolf?;ja,nee;nee;
 			244;Wordt Roodkapje uit (de buik van) de wolf gehaald?;ja,nee;nee;
 				245;Vertelt Roodkapje iets over haar ervaringen in (de buik van) de wolf?;ja,nee;nee;
