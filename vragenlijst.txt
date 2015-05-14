@@ -188,9 +188,9 @@
 	186;Schrikt Roodkapje wanneer ze de stem van de wolf hoort in Grootmoeders huisje?;ja,nee,niet genoemd;niet genoemd;
 	187;Wordt de stem van de wolf omschreven als grof / zwaar etc.?;ja,nee;nee;
 	188;Schrijft Roodkapje de stemklank of de verschijning van de wolf toe aan Grootmoeders verkoudheid / ziekte?;ja,nee;niet van toepassing;
+	191;Waar zet Roodkapje haar meegebrachte spulletjes neer in Grootmoeders huisje?;-;-;
 	189;Herkent Roodkapje de wolf meteen als ze hem ziet of hoort in Grootmoeders huisje?;ja,nee,niet genoemd;niet van toepassing;
 	190;Vindt er een gesprek plaats tussen Roodkapje en de wolf als Roodkapje in Grootmoeders huisje is?;ja,nee;nee;197
-		191;Waar moet Roodkapje haar meegebrachte spulletjes neerzetten van de wolf?;-;-;
 		192;Vertelt Roodkapje aan de wolf over ontmoeting met de wolf in het bos?;ja,nee;nee;
 		193;Vraagt de wolf om een kus aan Roodkapje;ja,nee;nee;
 		194;Is de bekende formulaïsche passage van "wat heeft u grote ogen / oren etc." (gedeeltelijk) aanwezig?;ja,nee;nee;
