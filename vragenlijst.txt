@@ -143,6 +143,7 @@
 141;Speelt een deel van het verhaal zich af in of bij Grootmoeders huisje?;ja,nee;nee;
 	142;Wordt de tocht van de wolf naar Grootmoeders huisje beschreven?;ja,nee;nee;
 		143;Gaat de wolf nog ergens anders heen voordat hij naar Grootmoeders huisje gaat?;ja,nee,niet genoemd;niet genoemd;
+	152;Wordt beschreven hoe de deur van Grootmoeders huisje kan worden geopend, zo ja, hoe? (bv. touwtje, klink, etc.)?;-;-;
 	144;Is Grootmoeder thuis als de wolf bij Grootmoeders huisje aankomt?;ja,nee,niet genoemd;niet genoemd,nee;
 		145;Vindt er een gesprek plaats tussen Grootmoeder en de wolf wanneer de wolf voor Grootmoeders huisje staat?;ja,nee;nee;
 			146;Is Grootmoeder wantrouwig als ze de stem van de wolf hoort?;ja,niet genoemd;niet genoemd;
@@ -151,7 +152,6 @@
 				149;Hoe klinkt het kloppen van de wolf? (één woord per klank);-;-;
 				150;Hoe vaak klopt de wolf?;niet genoemd,1,2,3,4,5,>5;0;
 			151;Vertelt Grootmoeder aan de wolf hoe de deur open gaat?;ja,nee;nee;
-				152;Waarmee kan de deur worden opengemaakt (touwtje, klink, etc.)?;-;-;
 		153;Doet Grootmoeder zelf de deur open voor de wolf?;ja,nee,niet genoemd;nee;
 		154;Kijkt Grootmoeder door het raampje om te zien of Roodkapje voor de deur staat?;ja,nee,niet genoemd;niet genoemd;
 		155;Komt de wolf zonder aanwijzingen of hulp van Grootmoeder het huisje van Grootmoeder binnen?;ja,nee,niet genoemd;nee;
