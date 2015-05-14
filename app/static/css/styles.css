@@ -49,6 +49,12 @@ html, button, input, select, textarea,
   margin: 0 auto;
 }
 
+.index-buttons {
+  width: 32%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .storyinfo {
   width: 60%;
   margin: 0 auto;
