@@ -72,7 +72,7 @@
 		71;Krijgt Roodkapje instructies hoe ze zich moet gedragen bij Grootmoeder?;ja,niet genoemd;niet genoemd;
 		72;Wordt Roodkapje voor vertrek expliciet gewaarschuwd voor dé wolf?;ja,nee;nee;
 			73;Gelooft Roodkapje erin dat de wolf zo slecht is als haar wordt verteld?;niet genoemd,ja,nee;niet genoemd;
-		74;Wordt Roodkapje voor vertrekt gewaarschuwd voor wolven / enge dieren in het algemeen?;ja,nee;nee;
+		74;Wordt Roodkapje voor vertrek gewaarschuwd voor wolven / enge dieren in het algemeen?;ja,nee;nee;
 		300;Wordt Roodkapje voor vertrek gewaarschuwd niet met vreemden te praten?;ja,nee;nee;
 		75;Wordt gezegd hoe lang Roodkapje bij Grootmoeder moet blijven? Zo ja, hoe lang?;niet genoemd,zelfde dag terug,een nachtje,meerdere dagen;niet genoemd;
 		76;Wordt Roodkapje gezegd niet van de (grote) weg af te gaan?;ja,nee;nee;
