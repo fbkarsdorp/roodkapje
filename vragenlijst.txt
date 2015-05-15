@@ -202,7 +202,7 @@
 		198;Geeft de wolf een reden waarom Roodkapje bij hem in bed moet stappen?;ja,nee;niet van toepassing;
 	199;Stapt Roodkapje bij de wolf in / op bed?;ja,nee,niet genoemd;nee,niet genoemd;
 		200;Kruipt Roodkapje bij de wolf onder de dekens?;ja,nee,niet genoemd;nee;
-	201;Kleedt Roodkapje zich uit?;ja,nee,niet genoemd;nee;
+	201;Kleedt Roodkapje zich uit?;ja,nee,niet genoemd;nee,niet genoemd;
 		202;Welke kleding trekt Roodkapje uit?;-;-;
 	203;Probeert Roodkapje te vluchten voor de wolf?;ja,nee;nee;
 		204;Slaagt Roodkapje erin te vluchten voor de wolf?;ja,nee;nee;
@@ -260,7 +260,7 @@
 				299;Wie vult of wie vullen de buik van de wolf?;niet genoemd,Roodkapje,Grootmoeder,redder,moeder,combinatie van personen,iemand anders;niet van toepassing;
 				256;Wordt de buik van de wolf weer dichtgenaaid, zo ja door wie?;nee,niet genoemd,Roodkapje,Grootmoeder,redder,moeder,combinatie van personen,iemand anders;niet van toepassing;
 				257;Heeft de wolf bij het ontwaken buikpijn of is hij misselijk van het vele eten?;ja,niet genoemd,niet van toepassing;niet van toepassing;
-			258;Gaat de wolf dood?;ja,nee;nee;
+			258;Gaat de wolf dood?;ja,nee,niet genoemd (ook niet impliciet);nee;
 				259;Wordt de wolf vermoord door de redder (en of zijn hond)?;ja,nee;nee;
 					260;Waarmee wordt de wolf vermoord (geweer, bijl, knuppel, etc.);-;-;
 					261;Wordt de wolf vermoord vóór- of nadat Roodkapje en of Grootmoeder zijn gered?;voordat,nadat,niet van toepassing;niet van toepassing;
@@ -275,7 +275,7 @@
 						270;Voor wie is de jas (of ander object) gemaakt van wolvenvel?;niet genoemd,Roodkapje,Grootmoeder,redder,moeder,iemand anders;niet genoemd;
 			271;Wordt de wolf gevangen genomen (en niet gedood)?;ja,nee;nee;
 		272;Komt de moeder van Roodkapje naar Grootmoeder?;ja,nee;niet van toepassing,nee;278
-		273;Nuttigen Roodkapje, Grootmoeder, moeder en of de redder de door Roodkapje meegebrachte spullen?;ja,nee;nee;
+		273;Nuttigen Roodkapje, Grootmoeder, moeder en of de redder de door Roodkapje meegebrachte spullen?;ja,nee,niet genoemd;nee,niet genoemd;
 			274;Wordt er gegeten en gedronken vóór- of nadat de wolf wordt gedood, gestraft of verjaagd?;niet van toepassing,voordat,nadat;niet van toepassing;
 			275;Wat eet en of drinkt Roodkapje?;-;-;
 			276;Wat eet en of drinkt Grootmoeder?;-;-;
