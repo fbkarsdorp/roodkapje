@@ -202,7 +202,7 @@
 		198;Geeft de wolf een reden waarom Roodkapje bij hem in bed moet stappen?;ja,nee;niet van toepassing;
 	199;Stapt Roodkapje bij de wolf in / op bed?;ja,nee,niet genoemd;nee,niet genoemd;
 		200;Kruipt Roodkapje bij de wolf onder de dekens?;ja,nee,niet genoemd;nee;
-	201;Kleedt Roodkapje zich uit?;ja,nee;nee;
+	201;Kleedt Roodkapje zich uit?;ja,nee,niet genoemd;nee;
 		202;Welke kleding trekt Roodkapje uit?;-;-;
 	203;Probeert Roodkapje te vluchten voor de wolf?;ja,nee;nee;
 		204;Slaagt Roodkapje erin te vluchten voor de wolf?;ja,nee;nee;
