@@ -107,8 +107,8 @@
 			105;Praten Roodkapje en de wolf over de spullen die Roodkapje naar Grootmoeder brengt?;ja,nee;nee;
 				106;Vraagt de wolf aan Roodkapje wat ze meeneemt voor Grootmoeder?;ja,nee;nee;
 				107;Wordt duidelijk wat de intenties zijn van de wolf ten aanzien van de spullen voor Grootmoeder?;ja,nee;nee;
+			109;Blijkt uit het gesprek dat de wolf weet waar Grootmoeder woont?;ja,nee;nee;
 			108;Praten Roodkapje en de wolf over waar Grootmoeder woont?;ja,nee;nee;
-				109;Blijkt uit het gesprek dat de wolf weet waar Grootmoeder woont?;ja,nee;nee;
 				110;Probeert de wolf erachter te komen waar Grootmoeder woont?;ja,nee;nee;
 				111;Zegt Roodkapje zoiets als: "Maar je weet toch waar Grootmoeder woont"?;ja,nee;nee;
 				112;Verklapt Roodkapje aan de wolf hoe de deur van Grootmoeders huis open gaat?;ja,nee;nee;
