@@ -171,7 +171,7 @@
 			168;Complimenteert de wolf zichzelf met zijn plan om Roodkapje voor de gek te houden?;ja,niet genoemd;niet genoemd;
 	169;Gaat de wolf in (Grootmoeders) bed liggen?;ja,nee,niet genoemd;nee,niet genoemd;
 		170;Kruipt de wolf onder de dekens?;ja,nee,niet genoemd;niet genoemd;
-	171;Trekt de wolf de gordijnen van de bedstee of van het huisje dicht voordat Roodkapje aankomt?;niet genoemd,bedstee,huisje;niet genoemd;
+	171;Trekt de wolf de gordijnen van de bedstee of van het huisje dicht voordat Roodkapje aankomt?;niet genoemd,bedstee,huisje,onbepaald;niet genoemd;
 	172;Wacht de wolf "geduldig" of "ongeduldig" op Roodkapje?;niet genoemd,geduldig,ongeduldig;niet genoemd;
 	173;Wordt Roodkapje door iemand vergezeld tot aan Grootmoeders huisje?;ja,nee,niet genoemd;nee;
 	174;Is het voor de lezer bij de aankomst van Roodkapje bij Grootmoeder duidelijk dat het de wolf is die in bed ligt (of in het huisje van Grootmoeder aanwezig is)?;ja,nee;nee;
