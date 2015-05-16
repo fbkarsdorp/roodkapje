@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block content %}
+
+
+<script src="{{url_for('.static', filename='js/questionnaire.js')}}" type="text/javascript"></script>
+<script>
+var questions = {{ questions|tojson|safe }};
+var storyname = "{{ story.storyname }}";
+var answers = {{ answers|tojson|safe }};
+</script>
+
+<div id="fastmodebox">
+  <label for="fastmode"><input id="fastmode" type="checkbox"> 
+  <span>fast mode</span>
+  </label>
+  
+</div>
+
+<div class="pure-g">
+    <div class="pure-u-17-24">
+        <textarea>{{ story.story }}</textarea>
+    </div>
+    <div id="questionaire" class="pure-u-7-24">
+        <div id="description" class="aside"></div>
+        <div id="question-form"></div>
+        <div class="pagination pure-g">
+            <button class="button-question pure-u-5-24" id="previous"><i class="fa fa-angle-left"></i></button>
+            <div id="questioncount" class="aside pure-u-10-24"></div>
+            <button class="button-question pure-u-5-24" id="next"><i class="fa fa-angle-right"></i></button>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
