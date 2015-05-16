@@ -130,7 +130,7 @@
 		128;Ontmoet Roodkapje diegene(n) voor, na, of voor én nadat ze de wolf ontmoet?;voordat,nadat, voor- en nadat;niet van toepassing;
 	129;Worden er nog andere personen of dieren genoemd in het bos die Roodkapje niet ontmoet?;ja,nee;nee;
 	130;Staat in de tekst dat Roodkapje onderweg (een liedje) zingt?;ja,nee;nee;
-		131;Wordt er naar het bekende liedje van Roodkapje gerefereed? ("Zeg Roodkapje waar ga je...");ja,nee;nee;
+		131;Wordt er naar het bekende liedje van Roodkapje gerefereerd? ("Zeg Roodkapje waar ga je...");ja,nee;nee;
 132;Wordt besproken waar het huisje van Grootmoeder staat of waar ze woont?;ja,nee;nee;
 	133;Waar staat het huisje van Grootmoeder?;niet genoemd, in het (volgende) dorp,in het bos,andere locatie;niet genoemd;
 	134;Wordt de omgeving van Grootmoeders huisje besproken in de tekst?;ja,nee;nee;
