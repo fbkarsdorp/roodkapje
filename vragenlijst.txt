@@ -185,8 +185,8 @@
 			182;Vertelt de wolf aan Roodkapje hoe de deur open gaat?;ja,nee;nee;
 		183;Kijkt de wolf uit het raam of het Roodkapje is die voor de deur staat?;ja,niet genoemd;niet genoemd;
 	184;Is Roodkapje angstig bij het binnentreden van Grootmoeders huisje?;ja,niet genoemd;niet genoemd;
-	185;Schrikt Roodkapje als bij de eerste aanblik van de wolf in Grootmoeders huisje?;ja,niet genoemd;niet genoemd;
-	186;Schrikt Roodkapje wanneer ze de stem van de wolf hoort in Grootmoeders huisje?;ja,nee,niet genoemd;niet genoemd;
+	185;IS Roodkapje angstig of schrikt ze bij de eerste aanblik van de wolf in Grootmoeders huisje?;ja,niet genoemd;niet genoemd;
+	186;Is Roodkapje angstig of schrikt ze wanneer ze de stem van de wolf hoort in Grootmoeders huisje?;ja,nee,niet genoemd;niet genoemd;
 	187;Wordt de stem van de wolf omschreven als grof / zwaar etc.?;ja,nee;nee;
 	188;Schrijft Roodkapje de stemklank of de verschijning van de wolf toe aan Grootmoeders verkoudheid / ziekte?;ja,nee;niet van toepassing;
 	191;Waar zet Roodkapje haar meegebrachte spulletjes neer in Grootmoeders huisje?;-;-;
