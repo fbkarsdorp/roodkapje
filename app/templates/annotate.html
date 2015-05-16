@@ -8,6 +8,13 @@ var questions = {{ questions|tojson|safe }};
 var storyname = "{{ story.storyname }}";
 </script>
 
+<div id="fastmodebox">
+  <label for="fastmode"><input id="fastmode" type="checkbox"> 
+  <span>fast mode</span>
+  </label>
+  
+</div>
+
 <div class="pure-g">
     <div class="pure-u-17-24">
         <textarea>{{ story.story }}</textarea>

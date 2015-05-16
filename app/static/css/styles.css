@@ -130,6 +130,34 @@ footer {
   font-weight:100;
 }
 
+#fastmodebox label span {
+  -webkit-user-select: none; /* Chrome/Safari */        
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none;
+  margin-top: -40px;
+  float: right;
+  display: block;
+  font-size: 0.6em;
+  border-radius: 4px;
+  padding: 1px 3px;
+  color: #999;
+  cursor: hand; cursor: pointer;
+  font-weight: 100;
+}
+
+#fastmodebox input { display:none; } 
+
+#fastmodebox label input {
+    position:absolute;
+}
+
+#fastmodebox input:checked + span {
+  color: white;
+  border-radius: 4px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  background: rgb(202, 60, 60);
+}
+
 .aside {
   padding: 5px;
   font-weight:300%;

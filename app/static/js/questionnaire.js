@@ -192,6 +192,7 @@ function next_question(questionnaire) {
 $(document).ready(function() {
 
   var questionnaire = new Questionnaire(storyname, questions);
+  var fastmode = false;
 
   question = questionnaire.current()
   questionnaire.questionPath.push(question.number);
@@ -204,6 +205,17 @@ $(document).ready(function() {
   $("#next").click(function () {
     next_question(questionnaire);
   });
+
+  $("#fastmode").click(function () {
+    fastmode = fastmode === false;
+  })
+
+  $(document).on("click", 'input[type=radio]', function() {
+    if (fastmode) {
+      next_question(questionnaire);
+    }
+  });
+
 
   document.onkeydown = function(e) {
     if (document.activeElement.type !== "textarea" && document.activeElement.type !== "text") {
