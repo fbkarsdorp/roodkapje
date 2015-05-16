@@ -9,6 +9,7 @@
                 <th>Story ID</th>
                 <th>Klaar?</th>
                 <th>Annotator</th>
+                <th></th>
             </tr>
         </thead>
 
@@ -23,6 +24,11 @@
                     <td>{{ storyname }}</td>
                     <td>{{ done }}</td>
                     <td>{{ user }}</td>
+                    {% if done == 'ja' %}
+                      <td><a href="{{ url_for('review', storyname=storyname) }}"><i class="fa fa-pencil" style="color: rgb(202, 60, 60);"></i></a></td>
+                    {% else %}
+                      <td><i class="fa fa-pencil" style="color: #999;"></i></td>
+                    {% endif %}
                 </tr>
             {% endfor %}
         </tbody>

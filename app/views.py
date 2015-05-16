@@ -84,6 +84,28 @@ def administration():
                for i, s in enumerate(Story.query.all(), 1))
     return flask.render_template("administration.html", stories=stories)
 
+@app.route('/review/<storyname>', methods=['GET', 'POST'])
+@login_required
+def review(storyname):
+    story = Story.query.filter_by(storyname=storyname, done=1).first()
+    if flask.request.method == 'POST':
+        answers = flask.request.json
+        story.story = answers[story]
+        db.session.commit()
+        with codecs.open(os.path.join(app.config['ANNOTATION_DIR'], story.storyname + '.ann'), 'w', 'utf-8') as outfile:
+            for qnumber, answer in sorted(answers['answers'].iteritems(), key=lambda i: int(i[0])):
+                outfile.write("%s;%s\n" % (qnumber, answer))
+        return json.dumps({'annotation stored':'OK'})
+    with codecs.open(os.path.join(app.config["ROOT_DIR"], 'questions.json'), encoding='utf-8') as inf:
+        questions = json.load(inf)
+    with codecs.open(os.path.join(app.config['ANNOTATION_DIR'], story.storyname + '.ann'), encoding='utf-8') as inf:
+        answers = {}
+        for line in inf:
+            qnumber, answer = line.strip().split(';', 1)
+            answers[qnumber] = answer
+    return flask.render_template('review.html', questions=questions, story=story, answers=answers)
+
+
 @app.errorhandler(404)
 def not_found_error(error):
     return flask.render_template('404.html'), 404

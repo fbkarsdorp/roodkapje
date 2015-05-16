@@ -41,11 +41,11 @@ function toForm(question, selected) {
   return form;
 }
 
-function Questionnaire(storyname, questions) {
+function Questionnaire(storyname, questions, answers) {
   this.storyname = storyname;
   this.questions = questions;
   this.answers = {};
-  this.answers['answers'] = {};
+  this.answers['answers'] = answers || {};
   this.skip = {};
   this.lookup = {};
   this.questionPath = [];
@@ -191,7 +191,7 @@ function next_question(questionnaire) {
 
 $(document).ready(function() {
 
-  var questionnaire = new Questionnaire(storyname, questions);
+  var questionnaire = new Questionnaire(storyname, questions, answers);
   var fastmode = false;
 
   question = questionnaire.current()
