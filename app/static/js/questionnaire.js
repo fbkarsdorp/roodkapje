@@ -206,14 +206,16 @@ $(document).ready(function() {
   });
 
   document.onkeydown = function(e) {
-    switch (e.keyCode) {
-        case 37:
-          previous_question(questionnaire);
-          break;
-        case 39:
-          next_question(questionnaire);
-          break;
+    if (document.activeElement.type !== "textarea" && document.activeElement.type !== "text") {
+      switch (e.keyCode) {
+          case 37:
+            previous_question(questionnaire);
+            break;
+          case 39:
+            next_question(questionnaire);
+            break;
+      }
     }
-};
+  };
 
 });
