@@ -156,7 +156,7 @@
 		153;Doet Grootmoeder zelf de deur open voor de wolf?;ja,nee,niet genoemd;nee;
 		154;Kijkt Grootmoeder door het raampje om te zien of Roodkapje voor de deur staat?;ja,nee,niet genoemd;niet genoemd;
 		155;Komt de wolf zonder aanwijzingen of hulp van Grootmoeder het huisje van Grootmoeder binnen?;ja,nee,niet genoemd;nee;
-		156;Wordt Grootmoeder opgegeten door de wolf?;ja,nee;nee;161
+		156;Wordt Grootmoeder opgegeten door de wolf?;ja,nee;nee;
 			157;Noem het werkwoord waarmee wordt beschreven dat de wolf Grootmoeder opeet. Bijvoorbeeld: opeten, verslinden, opslokken etc.;-;-;
 			158;Maakt de verteller expliciet dat Grootmoeder nadat ze is opgegeten, toch nog in leven zou kunnen zijn?;ja,nee;niet van toepassing;
 			159;Verliest Grootmoeder haar kleren tijdens de belaging van de wolf?;ja,nee,niet genoemd;niet van toepassing;
