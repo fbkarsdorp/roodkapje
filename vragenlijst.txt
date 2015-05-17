@@ -157,7 +157,7 @@
 		154;Kijkt Grootmoeder door het raampje om te zien of Roodkapje voor de deur staat?;ja,nee,niet genoemd;niet genoemd;
 		155;Komt de wolf zonder aanwijzingen of hulp van Grootmoeder het huisje van Grootmoeder binnen?;ja,nee,niet genoemd;nee;
 		156;Wordt Grootmoeder opgegeten door de wolf?;ja,nee;nee;
-			157;Noem het werkwoord waarmee wordt beschreven dat de wolf Grootmoeder opeet. Bijvoorbeeld: opeten, verslinden, opslokken etc.;-;-;
+			157;Geef de infinitief van het werkwoord waarmee wordt beschreven dat de wolf Grootmoeder opeet. Bijvoorbeeld: opeten, verslinden, opslokken etc.;-;-;
 			158;Maakt de verteller expliciet dat Grootmoeder nadat ze is opgegeten, toch nog in leven zou kunnen zijn?;ja,nee;niet van toepassing;
 			159;Verliest Grootmoeder haar kleren tijdens de belaging van de wolf?;ja,nee,niet genoemd;niet van toepassing;
 		160;Vlucht Grootmoeder voor de wolf, zo ja waarheen?;nee,kast,kelder,naar buiten,andere locatie;niet van toepassing;
@@ -189,7 +189,7 @@
 	186;Is Roodkapje angstig of schrikt ze wanneer ze de stem van de wolf hoort in Grootmoeders huisje?;ja,nee,niet genoemd;niet genoemd;
 	187;Wordt de stem van de wolf omschreven als grof / zwaar / vreemd etc.?;ja,nee;nee;
 	188;Schrijft Roodkapje de stemklank of de verschijning van de wolf toe aan Grootmoeders verkoudheid / ziekte?;ja,nee;niet van toepassing;
-	191;Waar zet Roodkapje haar meegebrachte spulletjes neer in Grootmoeders huisje?;-;-;
+	191;Waar zet Roodkapje haar meegebrachte spulletjes neer (of moet ze die neerzetten) in Grootmoeders huisje?;-;-;
 	189;Herkent Roodkapje de wolf meteen als ze hem ziet of hoort in Grootmoeders huisje?;ja,nee,niet genoemd;niet van toepassing;
 	190;Vindt er een gesprek plaats tussen Roodkapje en de wolf als Roodkapje in Grootmoeders huisje is?;ja,nee;nee;197
 		192;Vertelt Roodkapje aan de wolf over ontmoeting met de wolf in het bos?;ja,nee;nee;
@@ -212,7 +212,7 @@
 				208;Waarover struikelt de wolf tijdens de achtervolging?;-;-;
 	209;Wil de wolf Roodkapje opeten?;ja,nee,onbekend;nee;
 	210;Wordt Roodkapje opgegeten door de wolf?;ja,nee;nee;216,217
-		211;Noem het werkwoord waarmee wordt beschreven dat de wolf Roodkapje opeet. Bijvoorbeeld opeten, verslinden, opslokken, etc.;-;-;
+		211;Geef de infinitief van het werkwoord waarmee wordt beschreven dat de wolf Roodkapje opeet. Bijvoorbeeld opeten, verslinden, opslokken, etc.;-;-;
 		212;Maakt de verteller expliciet dat Roodkapje na ze is opgegeten, toch nog in leven zou kunnen zijn?;ja,nee;niet van toepassing;
 	213;Nuttigt de wolf de door Roodkapje meegebrachte spullen?;ja,nee;nee;
 		214;Nuttigt de wolf de spullen voor- of nadat hij Roodkapje opeet?;niet van toepassing,voordat,nadat;niet van toepassing;
