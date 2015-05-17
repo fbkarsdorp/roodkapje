@@ -187,7 +187,7 @@
 	184;Is Roodkapje angstig bij het binnentreden van Grootmoeders huisje?;ja,niet genoemd;niet genoemd;
 	185;IS Roodkapje angstig of schrikt ze bij de eerste aanblik van de wolf in Grootmoeders huisje?;ja,niet genoemd;niet genoemd;
 	186;Is Roodkapje angstig of schrikt ze wanneer ze de stem van de wolf hoort in Grootmoeders huisje?;ja,nee,niet genoemd;niet genoemd;
-	187;Wordt de stem van de wolf omschreven als grof / zwaar etc.?;ja,nee;nee;
+	187;Wordt de stem van de wolf omschreven als grof / zwaar / vreemd etc.?;ja,nee;nee;
 	188;Schrijft Roodkapje de stemklank of de verschijning van de wolf toe aan Grootmoeders verkoudheid / ziekte?;ja,nee;niet van toepassing;
 	191;Waar zet Roodkapje haar meegebrachte spulletjes neer in Grootmoeders huisje?;-;-;
 	189;Herkent Roodkapje de wolf meteen als ze hem ziet of hoort in Grootmoeders huisje?;ja,nee,niet genoemd;niet van toepassing;
@@ -265,7 +265,7 @@
 					260;Waarmee wordt de wolf vermoord (geweer, bijl, knuppel, etc.);-;-;
 					261;Wordt de wolf vermoord vóór- of nadat Roodkapje en of Grootmoeder zijn gered?;voordat,nadat,niet van toepassing;niet van toepassing;
 				262;Valt de wolf dood neer door het gewicht van de stenen in zijn buik?;ja,nee;nee;
-				263;Verdrinkt de wolf?;ja,nee;nee;
+				263;Verdrinkt de wolf of wordt zijn lijf in een water gegooid??;ja,nee;nee;
 					264;Waarin verdrinkt de wolf?;-;-;
 					265;Hoe komt de wolf in de put (of ander water)?;niet genoemd,hij wordt erin gegooid,de stenen in zijn buik,hij springt erin,anders;niet van toepassing;
 				266;Wordt expliciet gezegd dat de wolf dood is?;ja,nee;niet van toepassing,ja;267
@@ -274,6 +274,7 @@
 					269;Wat wordt er van het vel van de wolf gemaakt?;-;-;
 						270;Voor wie is de jas (of ander object) gemaakt van wolvenvel?;niet genoemd,Roodkapje,Grootmoeder,redder,moeder,iemand anders;niet genoemd;
 			271;Wordt de wolf gevangen genomen (en niet gedood)?;ja,nee;nee;
+			302;Wordt de wolf verjaagd?;ja,nee;nee
 		272;Komt de moeder van Roodkapje naar Grootmoeder?;ja,nee;niet van toepassing,nee;278
 		273;Nuttigen Roodkapje, Grootmoeder, moeder en of de redder de door Roodkapje meegebrachte spullen?;ja,nee,niet genoemd;nee,niet genoemd;
 			274;Wordt er gegeten en gedronken vóór- of nadat de wolf wordt gedood, gestraft of verjaagd?;niet van toepassing,voordat,nadat;niet van toepassing;
