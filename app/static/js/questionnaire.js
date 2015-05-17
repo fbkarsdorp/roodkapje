@@ -34,6 +34,8 @@ function toForm(question, selected) {
     field.setAttribute("class", "pure-input-1");
     if (typeof selected !== 'undefined') {
       field.setAttribute("value", selected);
+    } else {
+      field.setAttribute("value", "-");
     }
     form.appendChild(field);
     form.setAttribute("onkeypress", "return event.keyCode != 13;");
