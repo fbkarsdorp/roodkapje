@@ -90,7 +90,7 @@ def review(storyname):
     story = Story.query.filter_by(storyname=storyname, done=1).first()
     if flask.request.method == 'POST':
         answers = flask.request.json
-        story.story = answers[story]
+        story.story = answers['story']
         db.session.commit()
         with codecs.open(os.path.join(app.config['ANNOTATION_DIR'], story.storyname + '.ann'), 'w', 'utf-8') as outfile:
             for qnumber, answer in sorted(answers['answers'].iteritems(), key=lambda i: int(i[0])):
