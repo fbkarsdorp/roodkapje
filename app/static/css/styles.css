@@ -130,6 +130,40 @@ footer {
   font-weight:100;
 }
 
+
+.chart-div {
+  width: 100%;
+}
+
+.chart-questions {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+}
+
+.chart-pie {
+  height: 360px;
+  position: relative;
+  width: 360px;
+  margin: 0 auto;
+}
+
+.tooltip {
+  background: #eee;
+  box-shadow: 0 0 5px #999999;
+  color: #333;
+  display: none;
+  font-size: 12px;
+  left: 130px;
+  padding: 10px;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  width: 80px;
+  z-index: 10;
+}
+
 #fastmodebox label span {
   -webkit-user-select: none; /* Chrome/Safari */        
   -moz-user-select: none; /* Firefox */
@@ -211,6 +245,10 @@ input[type=text], input[type=password] {
 
 .pure-form input[type=text]:focus, .pure-form input[type=password]:focus{
     border: 1px solid rgb(202, 60, 60);
+}
+
+#qform {
+  border: 1px solid rgb(202, 60, 60);
 }
 
 textarea {

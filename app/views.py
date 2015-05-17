@@ -1,6 +1,9 @@
 import codecs
+import glob
 import os
 import json
+
+from collections import Counter
 
 import flask
 from flask.ext.login import login_user, current_user, login_required
@@ -88,6 +91,8 @@ def administration():
 @login_required
 def review(storyname):
     story = Story.query.filter_by(storyname=storyname, done=1).first()
+    if story is None:
+        return flask.render_template('404.html'), 404
     if flask.request.method == 'POST':
         answers = flask.request.json
         story.story = answers['story']
@@ -105,6 +110,23 @@ def review(storyname):
             answers[qnumber] = answer
     return flask.render_template('review.html', questions=questions, story=story, answers=answers)
 
+@app.route('/graphs', methods=['GET'])
+@login_required
+def graphs():
+    questions = {}
+    for story in glob.glob(os.path.join(app.config['ANNOTATION_DIR'], '*.ann')):
+        for line in codecs.open(story, encoding='utf-8'):
+            qnumber, answers = line.strip().split(';', 1)
+            answers = [answer.strip() for answer in answers.split(',')]
+            if qnumber not in questions:
+                questions[qnumber] = Counter()
+            for answer in answers:
+                questions[qnumber][answer] += 1
+    for question, counts in questions.items():
+        questions[question] = [{'label': answer, 'count': count} for answer, count in counts.items()]
+    with codecs.open(os.path.join(app.config["ROOT_DIR"], 'questions.json'), encoding='utf-8') as inf:
+        qnumbers = [(q['number'], q['question']) for q in json.load(inf)]
+    return flask.render_template("graphs.html", questions=questions, numbers = qnumbers)
 
 @app.errorhandler(404)
 def not_found_error(error):
