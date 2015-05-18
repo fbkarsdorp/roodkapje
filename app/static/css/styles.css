@@ -112,10 +112,10 @@ header {
 
 header a:link {
   text-decoration: none;
-  color: #999;
 }
 
 header h1 {
+  color: #999;
   margin: 0.2em 0 1em;
   font-size: 2.5em;
   font-weight:100;
