@@ -103,7 +103,7 @@
 		101;Ziet Roodkapje de wolf aan voor een (grote) hond?;ja,nee,niet genoemd;niet van toepassing;
 		102;Praten Roodkapje en de wolf met elkaar?;ja,nee;nee;
 			103;Wie spreekt wie aan onderweg naar Grootmoeder: de wolf Roodkapje, of Roodkapje de wolf?;niet genoemd,de wolf spreekt Roodkapje aan, Roodkapje spreekt de wolf aan;niet genoemd;
-			104;Spreekt de wolf Roodkapje aan met haar naam?;ja,nee;nee;
+				104;Spreekt de wolf Roodkapje aan met haar naam?;ja,nee;niet genoemd;
 			105;Praten Roodkapje en de wolf over de spullen die Roodkapje naar Grootmoeder brengt?;ja,nee;nee;
 				106;Vraagt de wolf aan Roodkapje wat ze meeneemt voor Grootmoeder?;ja,nee;nee;
 				107;Wordt duidelijk wat de intenties zijn van de wolf ten aanzien van de spullen voor Grootmoeder?;ja,nee;nee;
@@ -149,7 +149,7 @@
 		150;Hoe vaak klopt de wolf?;niet genoemd,1,2,3,4,5,>5;0;
 	301;Trekt de wolf aan de bel?;ja,nee;nee;
 	144;Is Grootmoeder thuis als de wolf bij Grootmoeders huisje aankomt?;ja,nee,niet genoemd;niet genoemd,nee;
-		145;Vindt er een gesprek plaats tussen Grootmoeder en de wolf wanneer de wolf voor Grootmoeders huisje staat?;ja,nee;nee;
+		145;Vindt er een gesprek plaats tussen Grootmoeder en de wolf wanneer de wolf voor Grootmoeders huisje staat?;ja,nee,niet genoemd;nee;
 			146;Is Grootmoeder wantrouwig als ze de stem van de wolf hoort?;ja,niet genoemd;niet genoemd;
 			147;Hoe klinkt de stem van de wolf als hij voor Grootmoeders huisje staat?;-;-;
 			151;Vertelt Grootmoeder aan de wolf hoe de deur open gaat?;ja,nee;nee;
@@ -254,7 +254,7 @@
 			250;Waarmee wordt (de buik van) de wolf opengemaakt?;-;-;
 		251;Wordt de wolf gestraft en of gedood voor zijn daden?;ja,nee;nee;
 			252;Wie initieert het plan de wolf te straffen en of te doden?;niet genoemd,Roodkapje,Grootmoeder,redder,moeder,dierenvriendjes,combinatie van personen,iemand anders;niet genoemd;
-			253;Wordt er iets in de buik van de wolf gestopt?;ja,nee;nee;
+			253;Wordt er iets in de buik van de wolf gestopt?;ja,nee;nee;262
 				254;Wat wordt er in de buik van de wolf gestopt?;-;-;
 				255;Wordt de buik van de wolf gevuld vóór of na de dood van de wolf?;niet van toepassing,vóór,na;niet van toepassing;
 				299;Wie vult of wie vullen de buik van de wolf?;niet genoemd,Roodkapje,Grootmoeder,redder,moeder,combinatie van personen,iemand anders;niet van toepassing;
