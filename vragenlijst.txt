@@ -205,7 +205,7 @@
 	201;Kleedt Roodkapje zich uit?;ja,nee,niet genoemd;nee,niet genoemd;
 		202;Welke kleding trekt Roodkapje uit?;-;-;
 	203;Probeert Roodkapje te vluchten voor de wolf?;ja,nee;nee;
-		204;Slaagt Roodkapje erin te vluchten voor de wolf?;ja,nee;nee;
+		204;Slaagt Roodkapje erin te vluchten voor de wolf?;ja,nee,niet genoemd;niet genoemd,nee;
 			205;Waar vlucht Roodkapje naartoe?;-;-;
 		206;Zit de wolf Roodkapje achterna tijdens haar vluchtpoging?;ja,nee,niet genoemd;nee;
 			207;Struikelt de wolf tijdens zijn achtervolging van Roodkapje?;ja,nee;nee;
