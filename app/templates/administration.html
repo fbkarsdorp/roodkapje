@@ -1,6 +1,29 @@
 {% extends "base.html" %}
 {% block content %}
 
+<script>
+function unlock() {
+    var stories_to_unlock = [];
+    var checkboxes = document.getElementsByClassName("unlock");
+    for (var i = 0; i < checkboxes.length; i++) {
+        if (checkboxes[i].checked === true) {
+            stories_to_unlock.push(checkboxes[i].name);
+        }
+    }
+    $.ajax({
+      contentType: 'application/json;charset=UTF-8',
+      url: "unlock",
+      data: JSON.stringify(stories_to_unlock),
+      type: 'POST',
+      dataType: 'json',
+      success: function (data) {
+          console.log(data);
+          window.location = data.url;
+      }
+  });
+}
+</script>
+
 <div class="storyinfo">
     <table class="pure-table">
         <thead>
@@ -10,28 +33,35 @@
                 <th>Klaar?</th>
                 <th>Annotator</th>
                 <th></th>
+                {% if user.username == "admin" %}
+                  <th>Unlock</th>
+                {% endif %}
             </tr>
         </thead>
 
         <tbody>
-            {% for (i, storyname, done, user) in stories %}
+            {% for (i, storyname, done, username) in stories %}
                 {% if i % 2 != 0 %}
                     <tr class="pure-table-odd">
                 {% else %}
                     <tr>
                 {% endif %}
-                    <td>{{ i }}</td>
-                    <td>{{ storyname }}</td>
-                    <td>{{ done }}</td>
-                    <td>{{ user }}</td>
-                    {% if done == 'ja' %}
-                      <td><a href="{{ url_for('review', storyname=storyname) }}"><i class="fa fa-pencil" style="color: rgb(202, 60, 60);"></i></a></td>
-                    {% else %}
-                      <td><i class="fa fa-pencil" style="color: #999;"></i></td>
-                    {% endif %}
+                <td>{{ i }}</td>
+                <td>{{ storyname }}</td>
+                <td>{{ done }}</td>
+                <td>{{ username }}</td>
+                {% if done == 'ja' %}
+                  <td><a href="{{ url_for('review', storyname=storyname) }}"><i class="fa fa-pencil" style="color: rgb(202, 60, 60);"></i></a></td>
+                {% else %}
+                  <td><i class="fa fa-pencil" style="color: #999;"></i></td>
+                {% endif %}
+                {% if user.username == "admin" %}
+                  <td><input type="checkbox" value="1" class="unlock" name="{{storyname}}"></td>
+                {% endif %}
                 </tr>
             {% endfor %}
         </tbody>
     </table>
+    <button class="button-next pure-button" onclick="unlock();">Unlock</button>
 </div>
 {% endblock %}

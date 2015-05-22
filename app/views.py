@@ -54,12 +54,14 @@ def register():
 @login_required
 def index():
     user = flask.g.user
+    n_to_do = len(Story.query.filter_by(done=0).all())
+    if n_to_do == 0:
+        return flask.render_template('rainbows.html')
     story = Story.query.filter_by(user_id=user.id, done=0).first()
     if story is None:
         story = Story.query.filter_by(user_id=None, done=0).first()
         story.user_id = user.id
         db.session.commit()
-    n_to_do = len(Story.query.filter_by(done=0).all())
     return flask.render_template('index.html', user=user, story=story, to_do=n_to_do)
 
 @app.route('/annotate/<storyname>', methods=['GET', 'POST'])
@@ -79,13 +81,24 @@ def annotate(storyname):
         questions = json.load(inf)
     return flask.render_template('annotate.html', questions=questions, story=story)
 
-@app.route('/administration', methods=['GET'])
+@app.route('/administration', methods=['GET', 'POST'])
 @login_required
 def administration():
     active_users = {u.id: u.firstname + ' ' + u.surname for u in User.query.all()}
-    stories = ((i, s.storyname, 'ja' if s.done else 'nee', active_users[s.user_id] if s.user_id != None else 'Not Assigned') 
+    stories = ((i, s.storyname, 'ja' if s.done else 'nee', active_users[s.user_id] if s.user_id != None else 'Not Assigned')
                for i, s in enumerate(Story.query.all(), 1))
-    return flask.render_template("administration.html", stories=stories)
+    return flask.render_template("administration.html", stories=stories, user=flask.g.user)
+
+@app.route('/unlock', methods=['GET', 'POST'])
+@login_required
+def unlock():
+    if flask.request.method == 'POST':
+        stories_to_unlock = flask.request.json
+        for story in stories_to_unlock:
+            story = Story.query.filter_by(storyname=story).first()
+            story.user_id = None
+        db.session.commit()
+    return json.dumps({"url": flask.url_for("administration")})
 
 @app.route('/review/<storyname>', methods=['GET', 'POST'])
 @login_required
