@@ -33,9 +33,11 @@ line.animate((427 - todo) / 427);
          ziet, zou het fijn zijn als je die verbetert.</p>
 
     <div class="index-buttons">
+      {% if story is not None %}
       <a class="button-next pure-input-1 pure-button" href="{{ url_for('annotate', storyname=story.storyname) }}">
         Annoteer
         <i class="fa fa-pencil"></i></a>
+      {% endif %}
       <a class="button-next pure-input-1 pure-button" href="{{ url_for('administration') }}">
         Overzicht
          <i class="fa fa-table"></i></a>

@@ -60,6 +60,8 @@ def index():
     story = Story.query.filter_by(user_id=user.id, done=0).first()
     if story is None:
         story = Story.query.filter_by(user_id=None, done=0).first()
+        if story is None:
+            return flask.render_template('index.html', user=user, story=None, to_do=n_to_do)
         story.user_id = user.id
         db.session.commit()
     return flask.render_template('index.html', user=user, story=story, to_do=n_to_do)

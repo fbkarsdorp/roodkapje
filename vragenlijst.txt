@@ -15,7 +15,7 @@
 	14;Wordt het rode kapje (petje, mutsje, etc.) van Roodkapje expliciet besproken?;ja,nee;nee;
 	15;Wordt het manteltje (capeje, jasje, etc.) van Roodkapje expliciet besproken?;ja,nee;nee;
 	16;Van wie krijgt Roodkapje het rode kledingstuk?;niet genoemd,moeder,grootmoeder,roodkapje,grootmoeder en moeder,anders;niet genoemd;
-		17;Waarom krijgt Roodkapje haar rode kledingstuk?;niet genoemd,voor haar verjaardag,omdat Oma zoveel van haar houdt,anders;niet genoemd;
+	17;Waarom krijgt Roodkapje haar rode kledingstuk?;niet genoemd,voor haar verjaardag,omdat Oma zoveel van haar houdt,anders;niet genoemd;
 	18;Op welke leeftijd krijgt Roodkapje haar rode kledingstuk?;niet genoemd,bepaald (bv. 10 jaar),onbepaald (bv. toen ze klein was);niet genoemd;
 	19;Wie heeft het rode kledingstuk gemaakt?;niet genoemd,moeder,grootmoeder,roodkapje,iemand anders;niet genoemd;
 	20;Van welk materiaal is het rode kledingstuk gemaakt?;-;-;
@@ -63,8 +63,8 @@
 	62;Welke andere personages komen er nog voor in het verhaal?;-;-;
 63;Beschrijft de tekst een scène van vóór het vertrek van Roodkapje?;ja,nee;nee;
 	64;Wat is de reden dat Roodkapje naar Grootmoeder moet?;niet genoemd,Grootmoeder is ziek,Grootmoeder is jarig,andere reden;niet genoemd,andere reden;
-		65;Hoe weet Roodkapje (en haar moeder) dat Grootmoeder ziek of jarig is?;niet genoemd,gerucht,boodschap van Grootmoeder,boodschap van de jager,boodschap van dierenvriendjes,anders;niet genoemd;
-	66;Wie stuurt Roodkapje naar Grootmoeder?;niet genoemd,Roodkapjes moeder,Roodkapjes vader,Grootmoeder,Roodkapje,de redder,dierenvriendjes,iemand anders;niet genoemd;
+		65;Hoe weet Roodkapje (en haar moeder) dat Grootmoeder ziek of jarig is?;niet genoemd,gerucht,boodschap van Grootmoeder,boodschap van de redder,boodschap van dierenvriendjes,anders;niet genoemd;
+	66;Van wie is het plan om naar Grootmoeder te gaan?;niet genoemd,Roodkapjes moeder,Roodkapjes vader,Grootmoeder,Roodkapje,de redder,dierenvriendjes,iemand anders;niet genoemd;
 	67;Wordt de reden gegeven waarom Roodkapje naar Grootmoeder moet gaan en niet haar moeder zelf?;ja,nee;nee;
 	69;Krijgt Roodkapje aanwijzingen en / of waarschuwing voor onderweg en / of bij Grootmoeder?;ja,nee;nee;
 		70;Wie geeft Roodkapje deze waarschuwingen / aanwijzingen?;-;-;
@@ -73,7 +73,7 @@
 			73;Gelooft Roodkapje erin dat de wolf zo slecht is als haar wordt verteld?;niet genoemd,ja,nee;niet genoemd;
 		74;Wordt Roodkapje voor vertrek gewaarschuwd voor wolven / enge dieren in het algemeen?;ja,nee;nee;
 		300;Wordt Roodkapje voor vertrek gewaarschuwd niet met vreemden te praten?;ja,nee;nee;
-		75;Wordt gezegd hoe lang Roodkapje bij Grootmoeder moet blijven? Zo ja, hoe lang?;niet genoemd,zelfde dag terug,een nachtje,meerdere dagen;niet genoemd;
+		75;Wordt gezegd hoe lang Roodkapje bij Grootmoeder moet blijven? Zo ja, hoe lang?;niet genoemd,zelfde dag terug,een nachtje,meerdere dagen,anders;niet genoemd;
 		76;Wordt Roodkapje gezegd niet van de (grote) weg af te gaan?;ja,nee;nee;
 		77;Wordt Roodkapje gezegd niet te spelen / treuzelen / blijven staan etc. onderweg?;ja,nee;nee;
 		78;Wordt Roodkapje gezegd geen bloemen te plukken?;ja,nee;nee;
@@ -85,7 +85,7 @@
 84;Speelt een deel van het verhaal zich af onderweg naar Grootmoeder?;ja,nee;nee;
 	85;In welk deel van de dag vertrekt Roodkapje naar Grootmoeder?;niet genoemd,ochtend,middag,avond;niet van toepassing;
 	68;Is Roodkapje al eerder alléén naar Grootmoeder gegaan?;ja,nee,niet genoemd;niet genoemd;
-	86;Neemt Roodkapje spullen mee voor Grootmoeder?;ja,nee,niet genoemd;niet genoemd;
+	86;Neemt Roodkapje spullen mee voor Grootmoeder?;ja,nee,niet genoemd;niet genoemd,nee;
 		87;Wat neemt Roodkapje mee voor Grootmoeder?;-;-;
 		88;Hoe draagt Roodkapje de spullen voor Grootmoeder?;niet genoemd,in een mandje,onder haar schortje,andere manier;niet genoemd;
 	89;Plukt Roodkapje bloempjes of zoekt ze andere dingen in het bos waardoor haar tocht naar Grootmoeder wordt vertraagd?;ja,nee,niet genoemd;niet genoemd,nee;
@@ -127,7 +127,7 @@
 	125;Ontmoet Roodkapje nog iemand anders behalve de wolf onderweg naar Grootmoeder?;ja,nee;nee;
 		126;Wie ontmoet Roodkapje nog meer in het bos?;-;-;
 		127;Waarschuwt (een van) diegene(n) Roodkapje voor naderend onheil?;ja,nee;nee;
-		128;Ontmoet Roodkapje diegene(n) voor, na, of voor én nadat ze de wolf ontmoet?;voordat,nadat, voor- en nadat;niet van toepassing;
+		128;Ontmoet Roodkapje diegene(n) voor, na, of voor én nadat ze de wolf ontmoet?;voordat,nadat,voor- en nadat,ze ontmoet geen wolf;niet van toepassing;
 	129;Worden er nog andere personen of dieren genoemd in het bos die Roodkapje niet ontmoet?;ja,nee;nee;
 	130;Staat in de tekst dat Roodkapje onderweg (een liedje) zingt?;ja,nee;nee;
 		131;Wordt er naar het bekende liedje van Roodkapje gerefereerd? ("Zeg Roodkapje waar ga je...");ja,nee;nee;
@@ -188,11 +188,11 @@
 	185;IS Roodkapje angstig of schrikt ze bij de eerste aanblik van de wolf in Grootmoeders huisje?;ja,niet genoemd;niet genoemd;
 	186;Is Roodkapje angstig of schrikt ze wanneer ze de stem van de wolf hoort in Grootmoeders huisje?;ja,nee,niet genoemd;niet genoemd;
 	187;Wordt de stem van de wolf omschreven als grof / zwaar / vreemd etc.?;ja,nee;nee;
-	188;Schrijft Roodkapje de stemklank of de verschijning van de wolf toe aan Grootmoeders verkoudheid / ziekte?;ja,nee;niet van toepassing;
+	188;Wordt de stemklank of de verschijning van de wolf toegeschreven aan Grootmoeders verkoudheid / ziekte?;ja,nee;niet van toepassing;
 	191;Waar zet Roodkapje haar meegebrachte spulletjes neer (of moet ze die neerzetten) in Grootmoeders huisje?;-;-;
 	189;Herkent Roodkapje de wolf meteen als ze hem ziet of hoort in Grootmoeders huisje?;ja,nee,niet genoemd;niet van toepassing;
 	190;Vindt er een gesprek plaats tussen Roodkapje en de wolf als Roodkapje in Grootmoeders huisje is?;ja,nee;nee;197
-		192;Vertelt Roodkapje aan de wolf over ontmoeting met de wolf in het bos?;ja,nee;nee;
+		192;Vertelt Roodkapje aan de wolf over de ontmoeting met de wolf in het bos?;ja,nee;nee;
 		193;Vraagt de wolf om een kus aan Roodkapje;ja,nee;nee;
 		194;Is de bekende formulaïsche passage van "wat heeft u grote ogen / oren etc." (gedeeltelijk) aanwezig?;ja,nee;nee;
 			195;Welke lichaamsdelen worden er in deze formulaïsche passage genoemd? (geef in volgorde van de tekst);-;-;
