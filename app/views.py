@@ -56,7 +56,7 @@ def index():
     user = flask.g.user
     n_to_do = len(Story.query.filter_by(done=0).all())
     if n_to_do == 0:
-        return flask.render_template('rainbows.html')
+        return flask.render_template('index.html', user=user, story="GEEN VERHALEN MEER", to_do=n_to_do)
     story = Story.query.filter_by(user_id=user.id, done=0).first()
     if story is None:
         story = Story.query.filter_by(user_id=None, done=0).first()
