@@ -93,7 +93,7 @@
 92;nee
 93;nee
 94;niet genoemd
-95;ze ontmoet geen wolf
+95;niet van toepassing
 96;ja
 97;niet genoemd
 98;niet genoemd
@@ -111,7 +111,7 @@
 110;ja
 111;nee
 112;nee
-113;ja
+113;nee
 114;niet genoemd
 115;niet genoemd
 116;nee
@@ -120,7 +120,7 @@
 119;door het bos
 120;verteller
 121;niet genoemd
-122;niet genoemd
+122;onbepaalde tijd
 123;niet genoemd
 124;nee
 125;nee
@@ -131,7 +131,7 @@
 130;ja
 131;nee
 132;ja
-133;andere locatie
+133;in het bos
 134;ja
 135;nee
 136;niet genoemd
@@ -147,7 +147,7 @@
 146;niet genoemd
 147;hoog
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;nee
 152;-
@@ -175,7 +175,7 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -233,7 +233,7 @@
 232;-
 233;niet genoemd
 234;niet genoemd
-235;niet van toepassing
+235;nee
 236;ja
 237;nee
 238;nee

@@ -143,7 +143,7 @@
 142;nee
 143;niet genoemd
 144;ja
-145;nee
+145;niet genoemd
 146;niet genoemd
 147;-
 148;nee
@@ -183,7 +183,7 @@
 182;nee
 183;niet genoemd
 184;niet genoemd
-185;ja
+185;niet genoemd
 186;niet genoemd
 187;nee
 188;nee
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -217,7 +217,7 @@
 216;ja
 217;ja
 218;-
-219;niet genoemd
+219;ja
 220;ja
 221;jager
 222;nee
@@ -227,7 +227,7 @@
 226;nee
 227;nee
 228;-
-229;nee
+229;niet van toepassing
 230;binnenkomen
 231;niet genoemd
 232;-
@@ -254,7 +254,7 @@
 253;ja
 254;stenen
 255;vóór
-256;niet genoemd
+256;nee
 257;niet genoemd
 258;ja
 259;nee

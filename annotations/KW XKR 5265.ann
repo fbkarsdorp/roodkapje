@@ -4,7 +4,7 @@
 3;-
 4;nee
 5;-
-6;niet genoemd
+6;nee
 7;-
 8;nee
 9;-
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude dame
 38;nee
 39;nee
 40;niet genoemd
@@ -96,8 +96,8 @@
 95;niet van toepassing
 96;ja
 97;niet genoemd
-98;nee
-99;nee
+98;niet genoemd
+99;niet genoemd
 100;ja
 101;niet genoemd
 102;ja
@@ -118,7 +118,7 @@
 117;nee
 118;-
 119;-
-120;verteller
+120;wordt niet gedaan
 121;niet genoemd
 122;niet genoemd
 123;niet genoemd
@@ -127,11 +127,11 @@
 126;-
 127;nee
 128;niet van toepassing
-129;ja
+129;nee
 130;nee
 131;nee
-132;nee
-133;niet genoemd
+132;ja
+133;in het bos
 134;nee
 135;nee
 136;niet genoemd
@@ -140,24 +140,24 @@
 139;-
 140;nee
 141;ja
-142;nee
-143;niet genoemd
+142;ja
+143;nee
 144;ja
 145;ja
 146;niet genoemd
-147;piept met een hoog stemmetje
+147;piepend, hoog
 148;ja
 149;klop
 150;3
-151;ja
+151;nee
 152;-
-153;niet genoemd
+153;nee
 154;niet genoemd
-155;nee
+155;ja
 156;ja
 157;opslokken
 158;nee
-159;ja
+159;niet genoemd
 160;nee
 161;nee
 162;ja
@@ -165,13 +165,13 @@
 164;ja
 165;ja
 166;ja
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
 171;niet genoemd
 172;niet genoemd
-173;niet genoemd
+173;nee
 174;ja
 175;nee
 176;ja
@@ -180,14 +180,14 @@
 179;nee
 180;ja
 181;niet genoemd
-182;ja
+182;nee
 183;niet genoemd
 184;niet genoemd
 185;niet genoemd
 186;niet genoemd
 187;nee
 188;nee
-189;niet genoemd
+189;nee
 190;ja
 191;-
 192;nee
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -233,7 +233,7 @@
 232;-
 233;niet genoemd
 234;niet genoemd
-235;niet van toepassing
+235;nee
 236;ja
 237;ja
 238;nee

@@ -3,7 +3,7 @@
 2;"Er/daar was eens..."
 3;-
 4;ja
-5;-
+5;mensen
 6;niet genoemd
 7;-
 8;nee
@@ -19,12 +19,12 @@
 18;niet genoemd
 19;grootmoeder
 20;-
-21;nee
-22;-
+21;ja
+22;lief
 23;-
 24;niet genoemd
 25;ja
-26;nee
+26;ja
 27;nee
 28;nee
 29;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, Oma, oude dame
 38;ja
 39;nee
 40;moeder
@@ -63,7 +63,7 @@
 62;houthakker
 63;ja
 64;Grootmoeder is ziek
-65;NO ANSWER PROVIDED
+65;boodschap van de jager
 66;Roodkapjes moeder
 67;nee
 68;niet genoemd
@@ -81,7 +81,7 @@
 80;nee
 81;niet genoemd
 82;nee
-83;ja
+83;nee
 84;ja
 85;ochtend
 86;ja
@@ -99,7 +99,7 @@
 98;nee
 99;niet genoemd
 100;nee
-101;niet genoemd
+101;nee
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;nee
@@ -118,15 +118,15 @@
 117;nee
 118;-
 119;-
-120;verteller
-121;niet genoemd
+120;de wolf
+121;andere reden
 122;niet genoemd
-123;ja
+123;niet genoemd
 124;nee
-125;nee
-126;-
+125;ja
+126;houthakker
 127;nee
-128;niet van toepassing
+128;nadat
 129;nee
 130;nee
 131;nee
@@ -143,8 +143,8 @@
 142;ja
 143;nee
 144;ja
-145;nee
-146;niet genoemd
+145;ja
+146;ja
 147;-
 148;ja
 149;-
@@ -158,19 +158,19 @@
 157;-
 158;niet van toepassing
 159;niet van toepassing
-160;NO ANSWER PROVIDED
+160;nee
 161;ja
 162;ja
 163;ja
 164;niet genoemd
 165;niet genoemd
 166;ja
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
 171;niet genoemd
-172;niet genoemd
+172;geduldig
 173;nee
 174;ja
 175;niet genoemd
@@ -183,10 +183,10 @@
 182;nee
 183;niet genoemd
 184;niet genoemd
-185;ja
+185;niet genoemd
 186;niet genoemd
 187;nee
-188;nee
+188;ja
 189;nee
 190;ja
 191;-
@@ -197,14 +197,14 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;ja
 204;nee
 205;-
-206;niet genoemd
+206;ja
 207;nee
 208;-
 209;ja
@@ -227,11 +227,11 @@
 226;ja
 227;nee
 228;-
-229;niet van toepassing
+229;nee
 230;-
-231;ja
+231;niet genoemd
 232;wolf
-233;niet genoemd
+233;ja
 234;niet genoemd
 235;nee
 236;ja
@@ -249,8 +249,8 @@
 248;nee
 249;-
 250;-
-251;nee
-252;niet genoemd
+251;ja
+252;redder
 253;nee
 254;-
 255;niet van toepassing
@@ -270,7 +270,7 @@
 269;-
 270;niet genoemd
 271;nee
-272;niet van toepassing
+272;nee
 273;niet genoemd
 274;niet van toepassing
 275;-
@@ -292,12 +292,12 @@
 291;nee
 292;nee
 293;nee
-294;ja
+294;nee
 295;nee
 296;nee
-297;Er ontbreekt informatie. Wellicht stonden hier afbeeldingen bij? 122: twee antwoorden: de wolf en de verteller; 137 en 138: er staat één eik.
+297;-
 298;niet van toepassing
 299;niet van toepassing
 300;ja
 301;nee
-302;nee
+302;ja

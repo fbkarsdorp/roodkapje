@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -83,7 +83,7 @@
 82;nee
 83;nee
 84;ja
-85;niet genoemd
+85;ochtend
 86;ja
 87;lekkers
 88;in een mandje
@@ -93,7 +93,7 @@
 92;nee
 93;nee
 94;niet genoemd
-95;ze ontmoet geen wolf
+95;niet van toepassing
 96;ja
 97;niet genoemd
 98;nee
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -298,3 +298,6 @@
 297;-
 298;niet van toepassing
 299;niet van toepassing
+300;ja
+301;nee
+302;nee

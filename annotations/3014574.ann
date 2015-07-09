@@ -20,13 +20,13 @@
 19;niet genoemd
 20;-
 21;ja
-22;leuk
+22;leuk, vrolijk
 23;-
 24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
-28;nee
+28;ja
 29;nee
 30;nee
 31;-
@@ -35,13 +35,13 @@
 34;niet genoemd
 35;nee
 36;ja
-37;Oma
+37;Oma, omaatje
 38;nee
 39;nee
 40;niet genoemd
 41;ja
 42;ja
-43;moeder
+43;moeder, mama
 44;ja
 45;ja
 46;ja
@@ -70,9 +70,9 @@
 69;ja
 70;moeder
 71;niet genoemd
-72;ja
+72;nee
 73;niet genoemd
-74;nee
+74;ja
 75;niet genoemd
 76;ja
 77;nee
@@ -81,7 +81,7 @@
 80;nee
 81;niet genoemd
 82;nee
-83;nee
+83;ja
 84;ja
 85;niet genoemd
 86;ja
@@ -95,7 +95,7 @@
 94;ja
 95;ervoor
 96;ja
-97;van het pad af
+97;op het pad
 98;ja
 99;nee
 100;nee
@@ -152,10 +152,10 @@
 151;nee
 152;-
 153;nee
-154;nee
+154;niet genoemd
 155;ja
 156;ja
-157;opslokken
+157;naar binnen slokken
 158;nee
 159;niet genoemd
 160;nee
@@ -189,7 +189,7 @@
 188;nee
 189;nee
 190;ja
-191;-
+191;keuken
 192;nee
 193;nee
 194;ja
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -229,7 +229,7 @@
 228;-
 229;niet van toepassing
 230;binnenklimmen
-231;ja
+231;niet genoemd
 232;-
 233;nee
 234;nee
@@ -250,7 +250,7 @@
 249;boswachter
 250;mes
 251;ja
-252;redder
+252;Grootmoeder
 253;ja
 254;stenen
 255;vóór
@@ -260,7 +260,7 @@
 259;nee
 260;-
 261;niet van toepassing
-262;ja
+262;nee
 263;ja
 264;waterput
 265;hij wordt erin gegooid
@@ -278,7 +278,7 @@
 277;koffie, limonade, biscuitjes, chocola, pitjeskaas, gele vla, boterkoek, snoep, tomatensoep
 278;-
 279;ja
-280;oma
+280;grootmoeder
 281;niet genoemd
 282;niet genoemd
 283;niet genoemd

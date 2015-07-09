@@ -3,10 +3,10 @@
 2;"Lang lang geleden..."
 3;lente
 4;ja
-5;De buren
+5;buren
 6;ja
 7;Roosje
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -20,13 +20,13 @@
 19;grootmoeder
 20;-
 21;ja
-22;bijzonder lief, vrolijk, opgewekt, goed humeur, behulpzaam
-23;onbedachtzaam, half luisteren
+22;bijzonder lief, vrolijk, opgewekt, goed humeur, behulpzaam, lief
+23;onbedachtzaam, ongehoorzaam
 24;niet genoemd
 25;ja
 26;nee
 27;nee
-28;nee
+28;ja
 29;nee
 30;nee
 31;-
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;Grootje, grootmoeder, oude vrouw, 
+37;Grootje, grootmoeder, oude vrouw
 38;ja
 39;nee
 40;niet genoemd
@@ -52,7 +52,7 @@
 51;ja
 52;nee
 53;werkman
-54;nee
+54;ja
 55;ja
 56;ja
 57;Roodkapje
@@ -93,7 +93,7 @@
 92;nee
 93;nee
 94;niet genoemd
-95;ze ontmoet geen wolf
+95;niet van toepassing
 96;ja
 97;niet genoemd
 98;niet genoemd
@@ -116,8 +116,8 @@
 115;niet genoemd
 116;nee
 117;ja
-118;-
-119;-
+118;deze kant
+119;andere kant
 120;verteller
 121;er zijn mensen in de buurt
 122;niet genoemd
@@ -140,17 +140,17 @@
 139;-
 140;nee
 141;ja
-142;nee
-143;niet genoemd
+142;ja
+143;nee
 144;ja
 145;ja
 146;niet genoemd
-147;als Roodkapjes stem
+147;als Roodkapje
 148;ja
 149;-
-150;1
+150;niet genoemd
 151;ja
-152;klink
+152;licht de klink op
 153;nee
 154;nee
 155;nee
@@ -197,12 +197,12 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -222,18 +222,18 @@
 221;houthakkers
 222;ja
 223;nee
-224;houthakkers
+224;houthakker
 225;iemand vertelde hem wat er is gebeurd
 226;nee
 227;ja
-228;Azor, hond
+228;Azor
 229;ja
 230;binnensnellen
 231;niet genoemd
 232;-
 233;ja
 234;niet genoemd
-235;niet van toepassing
+235;nee
 236;nee
 237;nee
 238;nee
@@ -259,7 +259,7 @@
 258;ja
 259;ja
 260;-
-261;niet van toepassing
+261;voordat
 262;nee
 263;nee
 264;-
@@ -270,7 +270,7 @@
 269;-
 270;niet genoemd
 271;nee
-272;niet van toepassing
+272;nee
 273;niet genoemd
 274;niet van toepassing
 275;-
@@ -288,7 +288,7 @@
 287;nee
 288;nee
 289;ja
-290;ja
+290;nee
 291;nee
 292;nee
 293;nee
@@ -300,3 +300,4 @@
 299;niet van toepassing
 300;ja
 301;nee
+302;nee

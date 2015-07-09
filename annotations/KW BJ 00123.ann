@@ -6,7 +6,7 @@
 5;-
 6;ja
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;ja
 22;allerliefst
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -111,14 +111,14 @@
 110;ja
 111;nee
 112;nee
-113;ja
+113;nee
 114;niet genoemd
 115;niet genoemd
 116;nee
 117;ja
 118;dien
 119;dezen
-120;wordt niet gedaan
+120;verteller
 121;er zijn mensen in de buurt
 122;onbepaalde tijd
 123;niet genoemd
@@ -147,7 +147,7 @@
 146;niet genoemd
 147;verzachtend
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
 152;trek aan touwtje
@@ -233,7 +233,7 @@
 232;-
 233;niet genoemd
 234;niet genoemd
-235;niet genoemd
+235;nee
 236;nee
 237;nee
 238;nee
@@ -300,3 +300,4 @@
 299;niet van toepassing
 300;nee
 301;nee
+302;nee

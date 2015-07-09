@@ -101,8 +101,8 @@
 100;nee
 101;niet genoemd
 102;ja
-103;de wolf spreekt Roodkapje aan
-104;nee
+103;niet genoemd
+104;niet genoemd
 105;nee
 106;nee
 107;nee
@@ -122,15 +122,15 @@
 121;niet genoemd
 122;niet genoemd
 123;niet genoemd
-124;ja
+124;nee
 125;nee
 126;-
 127;nee
 128;niet van toepassing
-129;ja
+129;nee
 130;nee
 131;nee
-132;ja
+132;nee
 133;niet genoemd
 134;nee
 135;nee
@@ -140,8 +140,8 @@
 139;-
 140;nee
 141;ja
-142;nee
-143;niet genoemd
+142;ja
+143;nee
 144;ja
 145;niet genoemd
 146;niet genoemd
@@ -209,7 +209,7 @@
 208;-
 209;ja
 210;ja
-211;-
+211;komt in de buik terecht
 212;nee
 213;nee
 214;niet van toepassing
@@ -265,7 +265,7 @@
 264;-
 265;niet van toepassing
 266;nee
-267;ja
+267;nee
 268;nee
 269;-
 270;niet genoemd

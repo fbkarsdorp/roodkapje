@@ -16,7 +16,7 @@
 15;ja
 16;niet genoemd
 17;niet genoemd
-18;onbepaald (bv. toen ze klein was)
+18;niet genoemd
 19;niet genoemd
 20;-
 21;ja
@@ -26,7 +26,7 @@
 25;ja
 26;nee
 27;ja
-28;ja
+28;nee
 29;ja
 30;nee
 31;-
@@ -96,8 +96,8 @@
 95;niet van toepassing
 96;ja
 97;niet genoemd
-98;nee
-99;nee
+98;niet genoemd
+99;niet genoemd
 100;nee
 101;niet genoemd
 102;ja
@@ -118,20 +118,20 @@
 117;nee
 118;-
 119;-
-120;wordt niet gedaan
+120;verteller
 121;andere reden
-122;niet genoemd
+122;onbepaalde tijd
 123;niet genoemd
 124;nee
-125;nee
-126;-
+125;ja
+126;vogels
 127;nee
-128;niet van toepassing
+128;voordat
 129;nee
 130;nee
 131;nee
 132;ja
-133;andere locatie
+133;in het bos
 134;nee
 135;nee
 136;niet genoemd
@@ -140,8 +140,8 @@
 139;-
 140;nee
 141;ja
-142;nee
-143;niet genoemd
+142;ja
+143;nee
 144;ja
 145;ja
 146;niet genoemd
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -173,18 +173,18 @@
 172;niet genoemd
 173;nee
 174;ja
-175;nee
+175;niet genoemd
 176;ja
 177;-
 178;niet genoemd
 179;nee
 180;ja
 181;niet genoemd
-182;ja
+182;nee
 183;niet genoemd
 184;niet genoemd
 185;ja
-186;nee
+186;niet genoemd
 187;nee
 188;nee
 189;nee
@@ -229,12 +229,12 @@
 228;-
 229;niet van toepassing
 230;-
-231;ja
+231;niet genoemd
 232;-
 233;niet genoemd
 234;niet genoemd
-235;niet van toepassing
-236;niet van toepassing
+235;nee
+236;ja
 237;nee
 238;nee
 239;nee
@@ -259,7 +259,7 @@
 258;ja
 259;ja
 260;geweer
-261;niet van toepassing
+261;voordat
 262;nee
 263;nee
 264;-
@@ -288,7 +288,7 @@
 287;nee
 288;nee
 289;ja
-290;ja
+290;nee
 291;nee
 292;nee
 293;nee
@@ -298,6 +298,6 @@
 297;-
 298;niet van toepassing
 299;niet van toepassing
-300;ja
+300;nee
 301;nee
 302;nee

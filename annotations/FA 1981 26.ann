@@ -22,7 +22,7 @@
 21;nee
 22;-
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,13 +35,13 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder, oma
+37;grootmoeder, oma, grootmoe, oude vrouw
 38;nee
 39;nee
 40;niet genoemd
 41;ja
 42;ja
-43;moeder, mams
+43;moeder, mams, mama
 44;ja
 45;ja
 46;nee
@@ -87,7 +87,7 @@
 86;ja
 87;koekjes, taartje
 88;in een mandje
-89;nee
+89;niet genoemd
 90;niet van toepassing
 91;nee
 92;nee
@@ -118,7 +118,7 @@
 117;nee
 118;-
 119;-
-120;wordt niet gedaan
+120;verteller
 121;niet genoemd
 122;niet genoemd
 123;niet genoemd
@@ -150,12 +150,12 @@
 149;-
 150;niet genoemd
 151;ja
-152;klink
+152;doe de klink omhoog
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
-157;happen
+157;happen, slikken
 158;nee
 159;niet genoemd
 160;nee
@@ -173,7 +173,7 @@
 172;niet genoemd
 173;nee
 174;ja
-175;niet genoemd
+175;nee
 176;ja
 177;klop
 178;3
@@ -227,13 +227,13 @@
 226;nee
 227;nee
 228;-
-229;nee
+229;niet van toepassing
 230;-
-231;nee
+231;niet genoemd
 232;-
-233;nee
-234;ja
-235;niet van toepassing
+233;niet genoemd
+234;niet genoemd
+235;nee
 236;ja
 237;ja
 238;nee
@@ -256,21 +256,21 @@
 255;niet van toepassing
 256;niet van toepassing
 257;niet van toepassing
-258;ja
-259;ja
+258;niet genoemd (ook niet impliciet)
+259;nee
 260;-
-261;voordat
+261;niet van toepassing
 262;nee
 263;nee
 264;-
 265;niet van toepassing
-266;ja
-267;niet van toepassing
+266;nee
+267;nee
 268;nee
 269;-
 270;niet genoemd
 271;nee
-272;nee
+272;niet van toepassing
 273;ja
 274;nadat
 275;-

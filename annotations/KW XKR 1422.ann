@@ -26,7 +26,7 @@
 25;ja
 26;nee
 27;ja
-28;ja
+28;nee
 29;ja
 30;nee
 31;-
@@ -61,10 +61,10 @@
 60;nee
 61;niet van toepassing
 62;-
-63;nee
-64;niet genoemd
+63;ja
+64;Grootmoeder is ziek
 65;niet genoemd
-66;niet genoemd
+66;Roodkapjes moeder
 67;nee
 68;niet genoemd
 69;nee
@@ -79,13 +79,13 @@
 78;nee
 79;nee
 80;nee
-81;nee
+81;niet genoemd
 82;nee
 83;nee
 84;ja
 85;niet genoemd
 86;ja
-87;lekkernijen en voedsel
+87;lekkernijen, voedsel
 88;niet genoemd
 89;niet genoemd
 90;niet van toepassing
@@ -118,7 +118,7 @@
 117;nee
 118;-
 119;-
-120;verteller
+120;wordt niet gedaan
 121;niet genoemd
 122;niet genoemd
 123;niet genoemd
@@ -140,8 +140,8 @@
 139;-
 140;nee
 141;ja
-142;nee
-143;niet genoemd
+142;ja
+143;nee
 144;ja
 145;niet genoemd
 146;niet genoemd
@@ -165,20 +165,20 @@
 164;niet genoemd
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
 171;niet genoemd
 172;niet genoemd
-173;niet genoemd
+173;nee
 174;ja
 175;niet genoemd
 176;nee
 177;-
 178;0
 179;nee
-180;ja
+180;nee
 181;niet genoemd
 182;nee
 183;niet genoemd
@@ -197,13 +197,13 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;ja
 204;ja
-205;-
+205;weg
 206;niet genoemd
 207;nee
 208;-

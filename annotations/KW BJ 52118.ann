@@ -6,7 +6,7 @@
 5;ieder
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;Oma
+37;Oma, vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -107,7 +107,7 @@
 106;nee
 107;nee
 108;nee
-109;ja
+109;nee
 110;nee
 111;nee
 112;nee
@@ -147,12 +147,12 @@
 146;niet genoemd
 147;-
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;nee
 152;-
 153;nee
-154;nee
+154;niet genoemd
 155;ja
 156;ja
 157;opeten
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -175,7 +175,7 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -228,10 +228,10 @@
 227;nee
 228;-
 229;niet van toepassing
-230;rennen
+230;naar binnen rennen
 231;niet genoemd
 232;-
-233;nee
+233;niet genoemd
 234;ja
 235;ja
 236;ja
@@ -258,7 +258,7 @@
 257;niet van toepassing
 258;ja
 259;ja
-260;-
+260;schiettuig (impliciet)
 261;voordat
 262;nee
 263;nee

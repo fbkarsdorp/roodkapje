@@ -22,7 +22,7 @@
 21;nee
 22;-
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -83,7 +83,7 @@
 82;nee
 83;nee
 84;ja
-85;niet genoemd
+85;ochtend
 86;ja
 87;taart
 88;in een mandje
@@ -104,7 +104,7 @@
 103;de wolf spreekt Roodkapje aan
 104;nee
 105;ja
-106;ja
+106;nee
 107;nee
 108;ja
 109;nee
@@ -147,13 +147,13 @@
 146;niet genoemd
 147;verdraaid
 148;ja
-149;klop
+149;-
 150;niet genoemd
-151;ja
-152;deur is open
+151;nee
+152;-
 153;nee
-154;nee
-155;nee
+154;niet genoemd
+155;ja
 156;nee
 157;-
 158;niet van toepassing
@@ -175,12 +175,12 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
-181;ja
-182;ja
+181;niet genoemd
+182;nee
 183;niet genoemd
 184;niet genoemd
 185;niet genoemd

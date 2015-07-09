@@ -16,15 +16,15 @@
 15;nee
 16;grootmoeder
 17;niet genoemd
-18;onbepaald (bv. toen ze klein was)
-19;iemand anders
+18;niet genoemd
+19;niet genoemd
 20;-
 21;ja
 22;lief, aardig
-23;-
+23;onnozel
 24;onbepaald (bv. dreumes)
 25;ja
-26;nee
+26;ja
 27;nee
 28;nee
 29;nee
@@ -35,9 +35,9 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder, grootje
+37;grootmoeder, grootje, vrouw
 38;ja
-39;ja
+39;nee
 40;niet genoemd
 41;ja
 42;ja
@@ -63,7 +63,7 @@
 62;-
 63;ja
 64;Grootmoeder is ziek
-65;niet genoemd
+65;gerucht
 66;Roodkapjes moeder
 67;nee
 68;niet genoemd
@@ -103,7 +103,7 @@
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;nee
-105;nee
+105;ja
 106;nee
 107;nee
 108;ja
@@ -115,12 +115,12 @@
 114;niet genoemd
 115;niet genoemd
 116;nee
-117;nee
-118;-
-119;-
+117;ja
+118;langste
+119;kortste
 120;verteller
 121;er zijn mensen in de buurt
-122;niet genoemd
+122;onbepaalde tijd
 123;niet genoemd
 124;nee
 125;nee
@@ -145,14 +145,14 @@
 144;ja
 145;ja
 146;niet genoemd
-147;maakt stem van R. na
+147;als Roodkapje
 148;ja
 149;tik
-150;niet genoemd
+150;3
 151;ja
-152;trekken aan klink
+152;trek aan de klink
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;opeten
@@ -165,13 +165,13 @@
 164;niet genoemd
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
 171;niet genoemd
 172;niet genoemd
-173;niet genoemd
+173;nee
 174;ja
 175;nee
 176;ja
@@ -183,8 +183,8 @@
 182;ja
 183;niet genoemd
 184;niet genoemd
-185;ja
-186;ja
+185;niet genoemd
+186;niet genoemd
 187;ja
 188;ja
 189;nee
@@ -211,7 +211,7 @@
 210;ja
 211;opeten
 212;nee
-213;NO ANSWER PROVIDED
+213;nee
 214;niet van toepassing
 215;-
 216;niet genoemd
@@ -295,7 +295,7 @@
 294;nee
 295;nee
 296;nee
-297;Bevat geen redding van R. en/of grootmoeder.
+297;-
 298;anders
 299;niet van toepassing
 300;nee

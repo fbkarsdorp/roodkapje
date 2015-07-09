@@ -1,6 +1,6 @@
 0;verhaal
 1;alwetende verteller
-2;andere openingsformule
+2;niet aanwezig
 3;-
 4;ja
 5;-
@@ -60,7 +60,7 @@
 59;niet van toepassing
 60;ja
 61;ja
-62;mijnheer en mevrouw Eekhoorn, familie Haas
+62;mijnheer Eekhoorn, mevrouw Eekhoorn, familie Haas, houthakker
 63;ja
 64;Grootmoeder is ziek
 65;niet genoemd
@@ -123,10 +123,10 @@
 122;niet genoemd
 123;niet genoemd
 124;nee
-125;nee
-126;-
+125;ja
+126;mijnheer Eekhoorn, mevrouw Eekhoorn, familie Haas
 127;nee
-128;niet van toepassing
+128;voordat
 129;nee
 130;nee
 131;nee
@@ -145,7 +145,7 @@
 144;ja
 145;ja
 146;niet genoemd
-147;met verdraaide stem
+147;verdraaid
 148;ja
 149;-
 150;niet genoemd
@@ -173,12 +173,12 @@
 172;niet genoemd
 173;niet genoemd
 174;ja
-175;ja
-176;nee
+175;niet genoemd
+176;ja
 177;-
-178;0
+178;niet genoemd
 179;nee
-180;nee
+180;ja
 181;niet genoemd
 182;nee
 183;niet genoemd
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -219,22 +219,22 @@
 218;-
 219;niet van toepassing
 220;ja
-221;grootmoeder, houthakker
+221;houthakker
 222;nee
 223;nee
 224;houthakker
 225;iemand vertelde hem wat er is gebeurd
-226;nee
+226;ja
 227;ja
 228;grootmoeder
 229;niet van toepassing
-230;komen
+230;binnenkomen
 231;niet genoemd
 232;-
 233;ja
-234;niet van toepassing
-235;niet van toepassing
-236;niet van toepassing
+234;nee
+235;nee
+236;ja
 237;nee
 238;nee
 239;nee
@@ -249,8 +249,8 @@
 248;nee
 249;-
 250;-
-251;nee
-252;niet genoemd
+251;ja
+252;redder
 253;nee
 254;-
 255;niet van toepassing
@@ -300,4 +300,4 @@
 299;niet van toepassing
 300;nee
 301;nee
-302;nee
+302;ja

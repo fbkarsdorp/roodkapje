@@ -4,7 +4,7 @@
 3;-
 4;ja
 5;mensen
-6;nee
+6;niet genoemd
 7;-
 8;nee
 9;-
@@ -22,7 +22,7 @@
 21;ja
 22;lief
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude vrouw, vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -85,7 +85,7 @@
 84;ja
 85;niet genoemd
 86;ja
-87;wafels, wijn
+87;wafels, fles wijn
 88;in een mandje
 89;ja
 90;ervoor
@@ -150,9 +150,9 @@
 149;-
 150;niet genoemd
 151;ja
-152;touwtje
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;opslokken
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;ja
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -173,7 +173,7 @@
 172;niet genoemd
 173;nee
 174;ja
-175;niet genoemd
+175;nee
 176;ja
 177;-
 178;niet genoemd
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -255,12 +255,12 @@
 254;stenen
 255;vóór
 256;redder
-257;niet van toepassing
+257;niet genoemd
 258;ja
-259;ja
+259;nee
 260;-
-261;nadat
-262;ja
+261;niet van toepassing
+262;nee
 263;ja
 264;rivier
 265;hij wordt erin gegooid
@@ -283,11 +283,11 @@
 282;niet genoemd
 283;niet genoemd
 284;ja
-285;niet genoemd
+285;ja
 286;niet genoemd
 287;nee
 288;nee
-289;ja
+289;nee
 290;nee
 291;nee
 292;nee

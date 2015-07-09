@@ -22,7 +22,7 @@
 21;nee
 22;-
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;ja
@@ -102,7 +102,7 @@
 101;niet genoemd
 102;ja
 103;niet genoemd
-104;nee
+104;niet genoemd
 105;nee
 106;nee
 107;nee
@@ -143,11 +143,11 @@
 142;ja
 143;nee
 144;ja
-145;nee
+145;niet genoemd
 146;niet genoemd
 147;-
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;nee
 152;-
@@ -203,7 +203,7 @@
 202;-
 203;ja
 204;ja
-205;-
+205;weg
 206;niet genoemd
 207;nee
 208;-
@@ -219,21 +219,21 @@
 218;-
 219;niet van toepassing
 220;ja
-221;jager
+221;houthakker
 222;nee
 223;nee
 224;houthakker
 225;iemand vertelde hem wat er is gebeurd
 226;nee
-227;nee
-228;-
+227;ja
+228;Roodkapje
 229;niet van toepassing
 230;-
 231;niet genoemd
 232;-
 233;niet genoemd
 234;niet genoemd
-235;niet van toepassing
+235;nee
 236;ja
 237;nee
 238;nee

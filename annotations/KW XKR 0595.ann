@@ -111,7 +111,7 @@
 110;nee
 111;nee
 112;nee
-113;ja
+113;nee
 114;niet genoemd
 115;niet genoemd
 116;nee
@@ -147,12 +147,12 @@
 146;niet genoemd
 147;-
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;nee
 152;-
 153;nee
-154;nee
+154;niet genoemd
 155;ja
 156;ja
 157;opeten
@@ -165,7 +165,7 @@
 164;niet genoemd
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -173,13 +173,13 @@
 172;niet genoemd
 173;nee
 174;ja
-175;nee
+175;niet genoemd
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
-181;ja
+181;niet genoemd
 182;nee
 183;niet genoemd
 184;niet genoemd

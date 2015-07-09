@@ -22,9 +22,9 @@
 21;ja
 22;lief
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
-26;nee
+26;ja
 27;ja
 28;nee
 29;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;Grootmoeder
+37;Grootmoeder, oude vrouw
 38;ja
 39;ja
 40;niet genoemd
@@ -60,7 +60,7 @@
 59;niet van toepassing
 60;nee
 61;niet van toepassing
-62;jager
+62;jager, wolf 2
 63;ja
 64;Grootmoeder is ziek
 65;niet genoemd
@@ -85,7 +85,7 @@
 84;ja
 85;ochtend
 86;ja
-87;koek, wijn
+87;koek, fles wijn
 88;onder haar schortje
 89;ja
 90;erna
@@ -114,7 +114,7 @@
 113;ja
 114;ja
 115;ja
-116;ja
+116;nee
 117;nee
 118;-
 119;-
@@ -150,9 +150,9 @@
 149;-
 150;niet genoemd
 151;ja
-152;klink
+152;druk de klink naar beneden
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;opeten
@@ -163,9 +163,9 @@
 162;ja
 163;ja
 164;ja
-165;ja
+165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -227,13 +227,13 @@
 226;ja
 227;nee
 228;-
-229;niet van toepassing
-230;binnenkomen
+229;nee
+230;inkomen
 231;ja
 232;ouwe zondaar
 233;nee
 234;ja
-235;nee
+235;niet genoemd
 236;ja
 237;ja
 238;nee
@@ -248,13 +248,13 @@
 247;nee
 248;ja
 249;jager
-250;-
+250;schaar (impliciet)
 251;ja
 252;Roodkapje
 253;ja
 254;stenen
 255;vóór
-256;niet genoemd
+256;nee
 257;niet genoemd
 258;ja
 259;nee
@@ -270,7 +270,7 @@
 269;-
 270;niet genoemd
 271;nee
-272;niet van toepassing
+272;nee
 273;ja
 274;nadat
 275;-

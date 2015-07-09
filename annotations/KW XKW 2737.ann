@@ -19,15 +19,15 @@
 18;niet genoemd
 19;niet genoemd
 20;-
-21;nee
-22;-
+21;ja
+22;zorgzaam, lief, dapper
 23;-
 24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
 28;ja
-29;nee
+29;ja
 30;nee
 31;-
 32;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -64,7 +64,7 @@
 63;ja
 64;Grootmoeder is ziek
 65;niet genoemd
-66;Roodkapjes moeder
+66;Roodkapje
 67;nee
 68;nee
 69;ja
@@ -75,7 +75,7 @@
 74;nee
 75;niet genoemd
 76;ja
-77;nee
+77;ja
 78;nee
 79;nee
 80;nee
@@ -108,7 +108,7 @@
 107;nee
 108;ja
 109;nee
-110;ja
+110;nee
 111;nee
 112;nee
 113;ja
@@ -145,7 +145,7 @@
 144;ja
 145;ja
 146;niet genoemd
-147;zoet
+147;zoetste meisjesstem
 148;ja
 149;-
 150;niet genoemd
@@ -153,7 +153,7 @@
 152;-
 153;nee
 154;nee
-155;nee
+155;ja
 156;ja
 157;opslokken
 158;nee
@@ -165,27 +165,27 @@
 164;ja
 165;niet genoemd
 166;ja
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
 171;niet genoemd
 172;niet genoemd
-173;ja
+173;nee
 174;ja
-175;nee
-176;ja
+175;ja
+176;nee
 177;-
-178;niet genoemd
+178;0
 179;nee
-180;ja
+180;nee
 181;niet genoemd
 182;nee
 183;niet genoemd
 184;niet genoemd
 185;ja
 186;niet genoemd
-187;nee
+187;ja
 188;ja
 189;nee
 190;ja
@@ -217,7 +217,7 @@
 216;ja
 217;ja
 218;bed
-219;niet genoemd
+219;ja
 220;ja
 221;jager
 222;nee
@@ -228,9 +228,9 @@
 227;nee
 228;-
 229;niet van toepassing
-230;sluipen
+230;naar binnen sluipen
 231;ja
-232;-
+232;wolf
 233;nee
 234;ja
 235;ja
@@ -238,7 +238,7 @@
 237;ja
 238;nee
 239;nee
-240;nee
+240;niet genoemd
 241;nee
 242;nee
 243;ja
@@ -250,7 +250,7 @@
 249;jager
 250;schaar
 251;ja
-252;redder
+252;niet genoemd
 253;ja
 254;stenen
 255;vóór
@@ -295,7 +295,7 @@
 294;nee
 295;nee
 296;nee
-297;129Waarschuwt (een van) diegene(n) Roodkapje voor naderend onheil? waarschuwt niet voor "naderend onheil", maar voor de wolf  176 Wordt Roodkapje door iemand vergezeld tot aan Grootmoeders huisje? Roodkapje wordt een tijdje vergezeld door de jager in het bos, maar hij verlaat haar ook weer. Ik heb het dus nu op JA gezet  178 Staat de deur van Grootmoeders huisje al open wanneer Roodkapje aankomt? Heb NEE gedaan, want er wordt wel geklopt, en anders wordt die vraag overgeslagen
+297;Roodkapje klopt op een open deur... (dom kind)
 298;niet van toepassing
 299;Roodkapje
 300;ja

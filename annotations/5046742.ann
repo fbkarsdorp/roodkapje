@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oma, oude vrouw
 38;ja
 39;ja
 40;niet genoemd
@@ -69,7 +69,7 @@
 68;niet genoemd
 69;ja
 70;moeder
-71;ja
+71;niet genoemd
 72;nee
 73;niet genoemd
 74;nee
@@ -83,9 +83,9 @@
 82;ja
 83;nee
 84;ja
-85;niet genoemd
+85;ochtend
 86;ja
-87;taart, wijn
+87;taart, fles wijn
 88;in een mandje
 89;ja
 90;erna
@@ -99,7 +99,7 @@
 98;niet genoemd
 99;niet genoemd
 100;nee
-101;nee
+101;niet genoemd
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;ja
@@ -107,7 +107,7 @@
 106;nee
 107;nee
 108;nee
-109;ja
+109;nee
 110;nee
 111;nee
 112;nee
@@ -118,7 +118,7 @@
 117;nee
 118;-
 119;-
-120;de wolf
+120;verteller
 121;andere reden
 122;niet genoemd
 123;niet genoemd
@@ -152,7 +152,7 @@
 151;nee
 152;-
 153;nee
-154;nee
+154;niet genoemd
 155;ja
 156;nee
 157;-
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;ja
 204;ja
@@ -233,8 +233,8 @@
 232;-
 233;ja
 234;niet genoemd
-235;niet van toepassing
-236;niet van toepassing
+235;nee
+236;ja
 237;nee
 238;nee
 239;nee
@@ -264,8 +264,8 @@
 263;ja
 264;kookpot
 265;hij springt erin
-266;nee
-267;ja
+266;ja
+267;niet van toepassing
 268;nee
 269;-
 270;niet genoemd

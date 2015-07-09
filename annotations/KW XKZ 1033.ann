@@ -1,10 +1,10 @@
-0;toneel
-1;andere verteller
+0;verhaal
+1;alwetende verteller
 2;"Er/daar was eens..."
 3;-
 4;nee
 5;-
-6;niet genoemd
+6;nee
 7;-
 8;nee
 9;-
@@ -22,7 +22,7 @@
 21;nee
 22;-
 23;-
-24;onbepaald (bv. dreumes)
+24;niet genoemd
 25;ja
 26;ja
 27;nee
@@ -207,7 +207,7 @@
 206;nee
 207;nee
 208;-
-209;onbekend
+209;ja
 210;ja
 211;-
 212;nee
@@ -234,7 +234,7 @@
 233;niet genoemd
 234;niet genoemd
 235;niet genoemd
-236;ja
+236;niet van toepassing
 237;nee
 238;nee
 239;nee
@@ -242,11 +242,11 @@
 241;nee
 242;niet genoemd
 243;ja
-244;NO ANSWER PROVIDED
+244;ja
 245;nee
 246;nee
 247;nee
-248;NO ANSWER PROVIDED
+248;ja
 249;-
 250;-
 251;ja

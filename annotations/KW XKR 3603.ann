@@ -22,14 +22,14 @@
 21;ja
 22;lief, behulpzaam
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;ja
 27;ja
 28;nee
 29;nee
 30;nee
-31;Meneer Wolf
+31;-
 32;ja
 33;ja
 34;niet genoemd
@@ -83,7 +83,7 @@
 82;nee
 83;nee
 84;ja
-85;niet genoemd
+85;ochtend
 86;ja
 87;taart
 88;in een mandje
@@ -166,14 +166,14 @@
 165;ja
 166;niet genoemd
 167;nee
-168;niet genoemd
+168;ja
 169;ja
 170;ja
 171;niet genoemd
 172;niet genoemd
 173;nee
 174;ja
-175;niet genoemd
+175;nee
 176;nee
 177;-
 178;0
@@ -207,7 +207,7 @@
 206;ja
 207;ja
 208;-
-209;onbekend
+209;nee
 210;nee
 211;-
 212;niet van toepassing
@@ -227,9 +227,9 @@
 226;nee
 227;ja
 228;Roodkapje
-229;nee
+229;niet van toepassing
 230;-
-231;niet genoemd
+231;ja
 232;-
 233;nee
 234;niet genoemd
@@ -270,7 +270,7 @@
 269;-
 270;niet genoemd
 271;ja
-272;nee
+272;niet van toepassing
 273;ja
 274;nadat
 275;taart

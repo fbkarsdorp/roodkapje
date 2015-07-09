@@ -3,7 +3,7 @@
 2;"Er/daar was eens..."
 3;-
 4;ja
-5;de mensen
+5;mensen
 6;ja
 7;Wiesje
 8;ja
@@ -22,7 +22,7 @@
 21;ja
 22;lief, aardig
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, grootmoe, oude vrouw, oude vrouwtje, vrouwtje
 38;nee
 39;nee
 40;moeder
@@ -48,8 +48,8 @@
 47;ja
 48;ja
 49;vader
-50;ja
-51;ja
+50;nee
+51;nee
 52;nee
 53;boer
 54;nee
@@ -88,14 +88,14 @@
 87;frambozen, brood, wafels, boter
 88;in een mandje
 89;ja
-90;ervoor
+90;ervoor en erna
 91;ja
 92;nee
 93;nee
 94;ja
 95;ervoor
 96;ja
-97;niet genoemd
+97;van het pad af
 98;ja
 99;nee
 100;nee
@@ -120,7 +120,7 @@
 119;-
 120;de wolf
 121;er zijn mensen in de buurt
-122;niet genoemd
+122;onbepaalde tijd
 123;ja
 124;nee
 125;ja
@@ -150,7 +150,7 @@
 149;-
 150;niet genoemd
 151;ja
-152;touwtje
+152;trek aan het touwtje
 153;nee
 154;nee
 155;nee
@@ -222,7 +222,7 @@
 221;jager, molenaar
 222;ja
 223;nee
-224;jager
+224;jager, molenaar
 225;andere reden
 226;nee
 227;ja
@@ -233,7 +233,7 @@
 232;-
 233;ja
 234;ja
-235;niet van toepassing
+235;nee
 236;ja
 237;ja
 238;ja
@@ -295,7 +295,7 @@
 294;nee
 295;nee
 296;nee
-297;266 Wordt de wolf vermoord vóór- of nadat Roodkapje en of Grootmoeder zijn gered? probleem, nadat Roodkapje wordt gered, maar voordat oma wordt gered
+297;-
 298;niet van toepassing
 299;niet van toepassing
 300;nee

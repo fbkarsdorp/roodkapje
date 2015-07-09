@@ -1,6 +1,6 @@
 0;(rijmend) gedicht
 1;alwetende verteller
-2;niet aanwezig
+2;"Er/daar was eens..."
 3;lente
 4;ja
 5;mensen
@@ -22,7 +22,7 @@
 21;ja
 22;zacht, aardig, lief
 23;ongehoorzaam
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -41,7 +41,7 @@
 40;niet genoemd
 41;ja
 42;ja
-43;moeder
+43;moeder, moedertje
 44;ja
 45;ja
 46;ja
@@ -62,7 +62,7 @@
 61;niet van toepassing
 62;houthakkers
 63;ja
-64;Grootmoeder is ziek
+64;niet genoemd
 65;niet genoemd
 66;Roodkapjes moeder
 67;nee
@@ -107,7 +107,7 @@
 106;nee
 107;nee
 108;nee
-109;ja
+109;nee
 110;nee
 111;nee
 112;nee
@@ -155,7 +155,7 @@
 154;niet genoemd
 155;niet genoemd
 156;ja
-157;opslikken
+157;opslokken
 158;nee
 159;niet genoemd
 160;nee
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -173,9 +173,9 @@
 172;niet genoemd
 173;nee
 174;ja
-175;nee
+175;niet genoemd
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -283,13 +283,13 @@
 282;niet genoemd
 283;niet genoemd
 284;niet genoemd
-285;niet genoemd
+285;ja
 286;niet genoemd
 287;nee
 288;nee
 289;ja
 290;nee
-291;nee
+291;ja
 292;nee
 293;ja
 294;ja

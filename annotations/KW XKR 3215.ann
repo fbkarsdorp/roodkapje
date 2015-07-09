@@ -6,7 +6,7 @@
 5;-
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;nee
 22;-
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude dame
 38;nee
 39;nee
 40;niet genoemd
@@ -67,9 +67,9 @@
 66;Roodkapjes moeder
 67;nee
 68;niet genoemd
-69;nee
-70;-
-71;niet genoemd
+69;ja
+70;moeder
+71;ja
 72;nee
 73;niet genoemd
 74;nee
@@ -152,7 +152,7 @@
 151;ja
 152;trek aan het touw
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;opeten
@@ -165,7 +165,7 @@
 164;niet genoemd
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -209,7 +209,7 @@
 208;-
 209;ja
 210;ja
-211;slokken
+211;naar binnen slokken
 212;nee
 213;nee
 214;niet van toepassing

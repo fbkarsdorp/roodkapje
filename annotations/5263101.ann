@@ -41,7 +41,7 @@
 40;niet genoemd
 41;ja
 42;ja
-43;moeder
+43;moeder, mama
 44;ja
 45;ja
 46;ja
@@ -83,7 +83,7 @@
 82;nee
 83;nee
 84;ja
-85;niet genoemd
+85;ochtend
 86;ja
 87;stuk appeltaart, notenkoekjes, fles wijn
 88;in een mandje
@@ -121,7 +121,7 @@
 120;de wolf
 121;niet genoemd
 122;niet genoemd
-123;niet genoemd
+123;ja
 124;nee
 125;ja
 126;roodborstje
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -219,17 +219,17 @@
 218;bed
 219;niet genoemd
 220;ja
-221;houthakker, moeder
+221;houthakker
 222;ja
 223;ja
-224;houthakker, moeder
-225;iemand vertelde hem wat er is gebeurd
+224;houthakker
+225;andere reden
 226;ja
 227;ja
 228;moeder
-229;niet van toepassing
+229;nee
 230;stormen
-231;ja
+231;niet genoemd
 232;-
 233;nee
 234;ja
@@ -300,3 +300,4 @@
 299;niet genoemd
 300;nee
 301;nee
+302;nee

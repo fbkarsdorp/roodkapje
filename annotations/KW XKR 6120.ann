@@ -26,7 +26,7 @@
 25;ja
 26;nee
 27;nee
-28;nee
+28;ja
 29;nee
 30;nee
 31;-
@@ -83,7 +83,7 @@
 82;nee
 83;nee
 84;ja
-85;niet genoemd
+85;ochtend
 86;ja
 87;lekkernijen
 88;in een mandje
@@ -147,12 +147,12 @@
 146;niet genoemd
 147;piepstem
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;klink omhoog
+152;doe de klink omhoog
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;nee
 157;-
@@ -175,7 +175,7 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -234,7 +234,7 @@
 233;ja
 234;niet genoemd
 235;nee
-236;niet van toepassing
+236;ja
 237;nee
 238;nee
 239;nee
@@ -250,7 +250,7 @@
 249;-
 250;-
 251;ja
-252;niet genoemd
+252;redder
 253;nee
 254;-
 255;niet van toepassing

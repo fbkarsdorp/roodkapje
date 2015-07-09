@@ -92,10 +92,10 @@
 91;ja
 92;nee
 93;nee
-94;niet genoemd
-95;ze ontmoet geen wolf
+94;ja
+95;erna
 96;ja
-97;niet genoemd
+97;op het pad
 98;niet genoemd
 99;niet genoemd
 100;nee
@@ -192,9 +192,9 @@
 191;-
 192;nee
 193;nee
-194;ja
-195;haar
-196;nee
+194;nee
+195;-
+196;niet van toepassing
 197;nee
 198;niet van toepassing
 199;niet genoemd
@@ -227,8 +227,8 @@
 226;nee
 227;nee
 228;-
-229;niet van toepassing
-230;stampen
+229;nee
+230;naar binnen stampen
 231;niet genoemd
 232;vieze vuile schurk
 233;nee
@@ -249,7 +249,7 @@
 248;ja
 249;Turk
 250;-
-251;nee
+251;ja
 252;niet genoemd
 253;nee
 254;-
@@ -270,7 +270,7 @@
 269;-
 270;niet genoemd
 271;nee
-272;niet van toepassing
+272;nee
 273;nee
 274;niet van toepassing
 275;-
@@ -300,3 +300,4 @@
 299;niet van toepassing
 300;nee
 301;nee
+302;nee

@@ -15,12 +15,12 @@
 14;ja
 15;nee
 16;grootmoeder
-17;omdat Oma zoveel van haar houdt
-18;onbepaald (bv. toen ze klein was)
+17;niet genoemd
+18;niet genoemd
 19;grootmoeder
 20;-
 21;ja
-22;handig om te helpen
+22;handig, lief
 23;-
 24;onbepaald (bv. dreumes)
 25;ja
@@ -29,13 +29,13 @@
 28;nee
 29;nee
 30;nee
-31;Mijnheer Wolf
+31;-
 32;nee
 33;nee
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoedertje, grootmoeder
+37;grootmoedertje, grootmoeder, oude vrouw
 38;ja
 39;nee
 40;niet genoemd
@@ -53,14 +53,14 @@
 52;nee
 53;houthakker
 54;nee
-55;nee
+55;ja
 56;nee
 57;niet van toepassing
 58;-
 59;niet van toepassing
 60;nee
 61;niet van toepassing
-62;-
+62;houthakkers
 63;ja
 64;Grootmoeder is ziek
 65;niet genoemd
@@ -85,7 +85,7 @@
 84;ja
 85;niet genoemd
 86;ja
-87;wafeltjes, verse boter
+87;wafeltjes, potje verse boter
 88;in een mandje
 89;ja
 90;erna
@@ -96,8 +96,8 @@
 95;niet van toepassing
 96;ja
 97;niet genoemd
-98;nee
-99;nee
+98;niet genoemd
+99;niet genoemd
 100;nee
 101;niet genoemd
 102;ja
@@ -108,7 +108,7 @@
 107;nee
 108;ja
 109;nee
-110;nee
+110;ja
 111;nee
 112;nee
 113;nee
@@ -116,8 +116,8 @@
 115;niet genoemd
 116;nee
 117;ja
-118;-
-119;-
+118;de ene weg
+119;de andere weg
 120;verteller
 121;er zijn mensen in de buurt
 122;niet genoemd
@@ -131,7 +131,7 @@
 130;nee
 131;nee
 132;ja
-133;niet genoemd
+133; in het (volgende) dorp
 134;nee
 135;nee
 136;niet genoemd
@@ -140,8 +140,8 @@
 139;-
 140;nee
 141;ja
-142;nee
-143;niet genoemd
+142;ja
+143;nee
 144;ja
 145;ja
 146;niet genoemd
@@ -150,14 +150,14 @@
 149;klop
 150;2
 151;ja
-152;-
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;opeten
 158;nee
-159;ja
+159;niet genoemd
 160;nee
 161;nee
 162;ja
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -184,7 +184,7 @@
 183;niet genoemd
 184;niet genoemd
 185;niet genoemd
-186;ja
+186;niet genoemd
 187;ja
 188;ja
 189;nee
@@ -228,13 +228,13 @@
 227;nee
 228;-
 229;niet van toepassing
-230;-
+230;binnenkomen
 231;niet genoemd
 232;-
 233;niet genoemd
 234;niet genoemd
-235;niet van toepassing
-236;niet van toepassing
+235;nee
+236;nee
 237;nee
 238;nee
 239;nee
@@ -259,7 +259,7 @@
 258;ja
 259;ja
 260;bijl
-261;niet van toepassing
+261;voordat
 262;nee
 263;nee
 264;-
@@ -278,7 +278,7 @@
 277;-
 278;-
 279;ja
-280;de houthakkers
+280;houthakkers
 281;niet genoemd
 282;niet genoemd
 283;niet genoemd

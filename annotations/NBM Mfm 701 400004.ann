@@ -16,7 +16,7 @@
 15;nee
 16;grootmoeder
 17;omdat Oma zoveel van haar houdt
-18;onbepaald (bv. toen ze klein was)
+18;niet genoemd
 19;niet genoemd
 20;fluweel
 21;ja
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude vrouw
 38;ja
 39;nee
 40;niet genoemd
@@ -44,7 +44,7 @@
 43;moeder
 44;ja
 45;ja
-46;ja
+46;nee
 47;nee
 48;nee
 49;-
@@ -83,7 +83,7 @@
 82;ja
 83;nee
 84;ja
-85;niet genoemd
+85;ochtend
 86;ja
 87;koeken, fles wijn
 88;in een mandje
@@ -112,8 +112,8 @@
 111;nee
 112;nee
 113;ja
-114;niet genoemd
-115;ja
+114;ja
+115;niet genoemd
 116;ja
 117;nee
 118;-
@@ -140,8 +140,8 @@
 139;-
 140;nee
 141;ja
-142;nee
-143;niet genoemd
+142;ja
+143;nee
 144;ja
 145;ja
 146;niet genoemd
@@ -150,22 +150,22 @@
 149;-
 150;niet genoemd
 151;ja
-152;-
+152;druk op de klink
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;opvreten
 158;nee
-159;ja
+159;niet genoemd
 160;nee
 161;nee
 162;ja
 163;ja
 164;ja
-165;ja
+165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -197,12 +197,12 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -216,7 +216,7 @@
 215;-
 216;ja
 217;ja
-218;in bed
+218;bed
 219;ja
 220;ja
 221;jager
@@ -227,13 +227,13 @@
 226;ja
 227;nee
 228;-
-229;niet van toepassing
+229;nee
 230;binnenkomen
 231;ja
 232;Isegrim
-233;niet genoemd
+233;nee
 234;ja
-235;nee
+235;niet genoemd
 236;ja
 237;ja
 238;nee
@@ -250,7 +250,7 @@
 249;jager
 250;jachtmes
 251;ja
-252;niet genoemd
+252;Roodkapje
 253;ja
 254;stenen
 255;vóór
@@ -271,10 +271,10 @@
 270;niet genoemd
 271;nee
 272;nee
-273;nee
-274;niet van toepassing
+273;ja
+274;nadat
 275;-
-276;-
+276;wijn, koeken
 277;-
 278;-
 279;nee
@@ -288,7 +288,7 @@
 287;nee
 288;nee
 289;ja
-290;ja
+290;nee
 291;nee
 292;nee
 293;nee

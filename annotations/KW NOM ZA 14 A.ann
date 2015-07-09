@@ -21,10 +21,10 @@
 20;-
 21;ja
 22;aardig, aanminnig, gewillig
-23;lichtzinnig
+23;lichtzinnig, zonder nadenken
 24;onbepaald (bv. dreumes)
 25;ja
-26;nee
+26;ja
 27;ja
 28;nee
 29;ja
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, vrouw, grootje, grootmoe
 38;nee
 39;nee
 40;niet genoemd
@@ -69,7 +69,7 @@
 68;niet genoemd
 69;ja
 70;moeder
-71;niet genoemd
+71;ja
 72;ja
 73;niet genoemd
 74;nee
@@ -85,10 +85,10 @@
 84;ja
 85;niet genoemd
 86;ja
-87;wafelen, boter
+87;wafelen, potje boter
 88;andere manier
 89;ja
-90;ervoor
+90;ervoor en erna
 91;ja
 92;ja
 93;ja
@@ -99,7 +99,7 @@
 98;niet genoemd
 99;niet genoemd
 100;ja
-101;nee
+101;niet genoemd
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;nee
@@ -120,7 +120,7 @@
 119;kortste
 120;verteller
 121;er zijn mensen in de buurt
-122;niet genoemd
+122;onbepaalde tijd
 123;niet genoemd
 124;nee
 125;ja
@@ -141,18 +141,18 @@
 140;nee
 141;ja
 142;ja
-143;niet genoemd
+143;nee
 144;ja
 145;ja
 146;niet genoemd
-147;het meisje nabootsende
+147;als Roodkapje
 148;ja
 149;klop
 150;3
 151;ja
-152;klink
+152;trek aan de klink
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;opeten
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -173,7 +173,7 @@
 172;niet genoemd
 173;nee
 174;ja
-175;niet genoemd
+175;nee
 176;ja
 177;klop
 178;2
@@ -233,7 +233,7 @@
 232;-
 233;niet genoemd
 234;niet genoemd
-235;niet van toepassing
+235;nee
 236;nee
 237;nee
 238;nee

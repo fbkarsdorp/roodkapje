@@ -18,9 +18,9 @@
 17;niet genoemd
 18;niet genoemd
 19;niet genoemd
-20;-
+20;stof
 21;ja
-22;lief, houdt van iedereen
+22;lief
 23;-
 24;onbepaald (bv. dreumes)
 25;ja
@@ -35,8 +35,8 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
-38;ja
+37;grootmoeder, vrouw, oude vrouwtje, oudje
+38;nee
 39;nee
 40;niet genoemd
 41;ja
@@ -83,7 +83,7 @@
 82;ja
 83;nee
 84;ja
-85;niet genoemd
+85;ochtend
 86;ja
 87;koek, fles wijn
 88;in een mandje
@@ -99,7 +99,7 @@
 98;nee
 99;nee
 100;ja
-101;niet genoemd
+101;nee
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;ja
@@ -121,7 +121,7 @@
 120;de wolf
 121;Roodkapje is niet genoeg
 122;bepaalde tijd
-123;ja
+123;niet genoemd
 124;nee
 125;nee
 126;-
@@ -141,7 +141,7 @@
 140;nee
 141;ja
 142;ja
-143;niet genoemd
+143;nee
 144;ja
 145;ja
 146;niet genoemd
@@ -149,29 +149,29 @@
 148;ja
 149;-
 150;niet genoemd
-151;ja
-152;deur is open
+151;nee
+152;-
 153;nee
 154;niet genoemd
-155;nee
+155;ja
 156;ja
 157;verslinden
 158;nee
-159;ja
+159;niet genoemd
 160;nee
 161;nee
 162;ja
 163;ja
 164;ja
-165;ja
+165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
 171;niet genoemd
 172;niet genoemd
-173;niet genoemd
+173;nee
 174;ja
 175;ja
 176;nee
@@ -183,7 +183,7 @@
 182;nee
 183;niet genoemd
 184;ja
-185;ja
+185;niet genoemd
 186;niet genoemd
 187;nee
 188;nee
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -219,7 +219,7 @@
 218;bed
 219;ja
 220;ja
-221;de jager
+221;jager
 222;nee
 223;ja
 224;jager
@@ -230,8 +230,8 @@
 229;niet van toepassing
 230;-
 231;ja
-232;zondaar
-233;niet genoemd
+232;oude zondaar
+233;nee
 234;ja
 235;niet genoemd
 236;ja
@@ -240,14 +240,14 @@
 239;nee
 240;ja
 241;nee
-242;niet genoemd
+242;nee
 243;ja
 244;ja
 245;ja
 246;ja
 247;nee
 248;ja
-249;de jager
+249;jager
 250;mes
 251;ja
 252;Roodkapje
@@ -274,11 +274,11 @@
 273;ja
 274;nadat
 275;koek
-276;koek, glas wijn
+276;koek, wijn
 277;koek
 278;-
 279;ja
-280;de jager
+280;jager
 281;niet genoemd
 282;niet genoemd
 283;niet genoemd

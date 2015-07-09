@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -255,7 +255,7 @@
 254;stenen
 255;na
 256;redder
-257;niet genoemd
+257;niet van toepassing
 258;ja
 259;ja
 260;jachtmes
@@ -295,7 +295,9 @@
 294;nee
 295;nee
 296;nee
-297;Trekt de wolf aan de bel?: ja; Heeft de wolf bij het ontwaken buikpijn of is hij misselijk van het vele eten?: niet van toepassing
+297;-
 298;niet van toepassing
 299;redder
 300;nee
+301;ja
+302;nee

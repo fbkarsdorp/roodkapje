@@ -19,12 +19,12 @@
 18;niet genoemd
 19;niet genoemd
 20;fluweel
-21;nee
-22;-
+21;ja
+22;lief
 23;-
 24;onbepaald (bv. dreumes)
 25;ja
-26;ja
+26;nee
 27;nee
 28;nee
 29;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, grootje, grootmoe
 38;ja
 39;ja
 40;niet genoemd
@@ -60,7 +60,7 @@
 59;niet van toepassing
 60;nee
 61;niet van toepassing
-62;jager, mensen
+62;jager
 63;ja
 64;Grootmoeder is ziek
 65;niet genoemd
@@ -85,7 +85,7 @@
 84;ja
 85;ochtend
 86;ja
-87;koek, druivensap
+87;koek, fles druivensap
 88;in een mandje
 89;ja
 90;erna
@@ -95,9 +95,9 @@
 94;ja
 95;erna
 96;ja
-97;niet genoemd
+97;op het pad
 98;nee
-99;niet genoemd
+99;nee
 100;ja
 101;ja
 102;ja
@@ -140,7 +140,7 @@
 139;-
 140;ja
 141;ja
-142;ja
+142;nee
 143;niet genoemd
 144;ja
 145;ja
@@ -150,12 +150,12 @@
 149;-
 150;niet genoemd
 151;ja
-152;deurklink
+152;druk op deurklink
 153;nee
 154;nee
 155;ja
 156;ja
-157;hapte
+157;ophappen
 158;nee
 159;niet genoemd
 160;nee
@@ -169,7 +169,7 @@
 168;niet genoemd
 169;ja
 170;niet genoemd
-171;onbepaald
+171;bedstee
 172;niet genoemd
 173;nee
 174;ja
@@ -197,19 +197,19 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
 208;-
 209;ja
 210;ja
-211;ingeslikt
+211;inslikken
 212;nee
 213;nee
 214;niet van toepassing
@@ -227,8 +227,8 @@
 226;ja
 227;nee
 228;-
-229;nee
-230;kwam binnen
+229;niet van toepassing
+230;binnenkomen
 231;ja
 232;oude booswicht
 233;nee
@@ -236,7 +236,7 @@
 235;niet genoemd
 236;ja
 237;ja
-238;ja
+238;nee
 239;nee
 240;ja
 241;nee
@@ -250,7 +250,7 @@
 249;jager
 250;schaar
 251;ja
-252;redder
+252;Roodkapje
 253;ja
 254;stenen
 255;vóór
@@ -270,7 +270,7 @@
 269;-
 270;niet genoemd
 271;nee
-272;nee
+272;niet van toepassing
 273;ja
 274;nadat
 275;-
@@ -288,15 +288,16 @@
 287;nee
 288;nee
 289;ja
-290;ja
+290;nee
 291;nee
 292;nee
 293;nee
 294;ja
 295;nee
 296;nee
-297;grootmoeder wordt ook grootmoe genoemd
+297;-
 298;niet van toepassing
 299;combinatie van personen
 300;nee
 301;nee
+302;nee

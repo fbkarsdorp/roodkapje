@@ -20,8 +20,8 @@
 19;niet genoemd
 20;-
 21;ja
-22;lief, brave
-23;-
+22;lief, braaf
+23;onnozel
 24;niet genoemd
 25;ja
 26;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder, Grootje
+37;grootmoeder, grootje, oude vrouw, vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -86,12 +86,12 @@
 85;niet genoemd
 86;ja
 87;wafels
-88;niet genoemd
-89;niet genoemd
-90;niet van toepassing
+88;in een mandje
+89;ja
+90;erna
 91;nee
 92;nee
-93;nee
+93;ja
 94;niet genoemd
 95;niet van toepassing
 96;ja
@@ -103,7 +103,7 @@
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;nee
-105;nee
+105;ja
 106;nee
 107;nee
 108;ja
@@ -118,9 +118,9 @@
 117;nee
 118;-
 119;-
-120;verteller
+120;wordt niet gedaan
 121;niet genoemd
-122;niet genoemd
+122;onbepaalde tijd
 123;niet genoemd
 124;nee
 125;nee
@@ -140,8 +140,8 @@
 139;-
 140;nee
 141;ja
-142;nee
-143;niet genoemd
+142;ja
+143;nee
 144;ja
 145;ja
 146;niet genoemd
@@ -150,9 +150,9 @@
 149;-
 150;niet genoemd
 151;ja
-152;klink
-153;nee
-154;nee
+152;trek aan het klinkje
+153;niet genoemd
+154;niet genoemd
 155;nee
 156;ja
 157;vermoorden
@@ -171,9 +171,9 @@
 170;niet genoemd
 171;niet genoemd
 172;niet genoemd
-173;niet genoemd
+173;nee
 174;ja
-175;nee
+175;niet genoemd
 176;ja
 177;-
 178;niet genoemd
@@ -189,7 +189,7 @@
 188;nee
 189;nee
 190;ja
-191;-
+191;hier (bij de wolf)
 192;nee
 193;nee
 194;ja

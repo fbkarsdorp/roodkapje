@@ -6,7 +6,7 @@
 5;mensen
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;nee
 22;-
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;Grootmoe, Grootje, Grootmoeder
+37;Grootmoe, Grootje, Grootmoeder, oude vrouw
 38;ja
 39;nee
 40;niet genoemd
@@ -109,7 +109,7 @@
 108;ja
 109;nee
 110;ja
-111;nee
+111;ja
 112;nee
 113;ja
 114;niet genoemd
@@ -147,7 +147,7 @@
 146;niet genoemd
 147;fijn
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
 152;druk op klink
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -195,14 +195,14 @@
 194;ja
 195;oren, ogen, handen, tanden
 196;nee
-197;ja
-198;nee
+197;nee
+198;niet van toepassing
 199;nee
 200;nee
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -223,7 +223,7 @@
 222;nee
 223;ja
 224;jager
-225;andere reden
+225;hij hoort gesnurk
 226;ja
 227;nee
 228;-
@@ -296,7 +296,8 @@
 295;nee
 296;nee
 297;-
-298;anders
+298;niet van toepassing
 299;combinatie van personen
 300;nee
 301;nee
+302;nee

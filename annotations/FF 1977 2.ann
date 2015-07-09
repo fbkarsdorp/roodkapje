@@ -6,7 +6,7 @@
 5;-
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;nee
 22;-
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -87,12 +87,12 @@
 86;ja
 87;koekjes, taartjes
 88;in een mandje
-89;nee
+89;niet genoemd
 90;niet van toepassing
 91;nee
 92;nee
 93;nee
-94;nee
+94;niet genoemd
 95;niet van toepassing
 96;ja
 97;op het pad
@@ -147,10 +147,10 @@
 146;niet genoemd
 147;zacht
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;doe klink omhoog
+152;doe de klink omhoog
 153;nee
 154;nee
 155;nee
@@ -175,7 +175,7 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -203,7 +203,7 @@
 202;-
 203;ja
 204;ja
-205;deur uit
+205;buiten
 206;niet genoemd
 207;nee
 208;-
@@ -233,7 +233,7 @@
 232;-
 233;niet genoemd
 234;niet genoemd
-235;niet genoemd
+235;nee
 236;ja
 237;ja
 238;nee

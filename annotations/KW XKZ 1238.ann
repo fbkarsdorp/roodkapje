@@ -20,9 +20,9 @@
 19;grootmoeder
 20;fluweel
 21;ja
-22;vrolijk, nooit boos of knorrig
+22;vrolijk, nooit boos, nooit knorrig
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;ja
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -147,12 +147,12 @@
 146;niet genoemd
 147;fijn
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;druk op klink
+152;druk op de klink
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;inslikken
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -219,7 +219,7 @@
 218;-
 219;niet van toepassing
 220;ja
-221;hond, vader
+221;vader
 222;ja
 223;nee
 224;jager
@@ -232,7 +232,7 @@
 231;niet genoemd
 232;-
 233;nee
-234;ja
+234;niet genoemd
 235;nee
 236;ja
 237;ja
@@ -256,21 +256,21 @@
 255;niet van toepassing
 256;niet van toepassing
 257;niet van toepassing
-258;ja
-259;ja
-260;jachtmes
-261;voordat
+258;niet genoemd (ook niet impliciet)
+259;nee
+260;-
+261;niet van toepassing
 262;nee
 263;nee
 264;-
 265;niet van toepassing
 266;nee
-267;ja
+267;nee
 268;nee
 269;-
 270;niet genoemd
 271;nee
-272;nee
+272;niet van toepassing
 273;niet genoemd
 274;niet van toepassing
 275;-
@@ -295,7 +295,7 @@
 294;ja
 295;nee
 296;nee
-297;-
+297;Moeilijk te zeggen of de wolf nu dood is of niet...
 298;niet van toepassing
 299;niet van toepassing
 300;nee

@@ -93,7 +93,7 @@
 92;nee
 93;ja
 94;niet genoemd
-95;ze ontmoet geen wolf
+95;niet van toepassing
 96;ja
 97;niet genoemd
 98;niet genoemd
@@ -282,7 +282,7 @@
 281;niet genoemd
 282;niet genoemd
 283;niet genoemd
-284;nee
+284;niet genoemd
 285;niet genoemd
 286;ja
 287;nee
@@ -295,6 +295,9 @@
 294;nee
 295;nee
 296;nee
-297;Vertelt Roodkapje (aan haar moeder) wat er allemaal gebeurd is?: niet genoemd
+297;-
 298;niet van toepassing
 299;niet van toepassing
+300;ja
+301;nee
+302;nee

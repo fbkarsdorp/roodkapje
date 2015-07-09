@@ -22,7 +22,7 @@
 21;ja
 22;vrolijk, vriendelijk
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;oma
+37;oma, oude dame
 38;nee
 39;nee
 40;niet genoemd
@@ -116,8 +116,8 @@
 115;niet genoemd
 116;nee
 117;ja
-118;deze
-119;die
+118;deze weg
+119;die weg
 120;verteller
 121;er zijn mensen in de buurt
 122;niet genoemd
@@ -147,15 +147,15 @@
 146;niet genoemd
 147;fijn
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;trek aan touwtje
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
-157;schrokken
+157;naar binnen schrokken
 158;nee
 159;niet genoemd
 160;nee
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;ja
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -179,13 +179,13 @@
 178;3
 179;nee
 180;ja
-181;ja
+181;niet genoemd
 182;ja
 183;niet genoemd
 184;niet genoemd
 185;niet genoemd
 186;niet genoemd
-187;nee
+187;ja
 188;nee
 189;nee
 190;ja
@@ -204,7 +204,7 @@
 203;ja
 204;niet genoemd
 205;-
-206;niet genoemd
+206;ja
 207;nee
 208;-
 209;ja
@@ -227,12 +227,12 @@
 226;ja
 227;nee
 228;-
-229;nee
+229;niet van toepassing
 230;-
 231;niet genoemd
 232;-
 233;nee
-234;nee
+234;niet genoemd
 235;nee
 236;ja
 237;ja
@@ -270,7 +270,7 @@
 269;-
 270;niet genoemd
 271;nee
-272;nee
+272;niet van toepassing
 273;ja
 274;nadat
 275;koekjes, lekkers

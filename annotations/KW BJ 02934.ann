@@ -3,7 +3,7 @@
 2;"Er/daar was eens..."
 3;-
 4;ja
-5;iedereen
+5;iedereen, moeder, grootmoeder
 6;ja
 7;-
 8;nee
@@ -20,9 +20,9 @@
 19;niet genoemd
 20;fluweel
 21;ja
-22;aardig, lief
+22;aardig, lief, schat
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, vrouw, oude vrouw
 38;ja
 39;nee
 40;niet genoemd
@@ -99,7 +99,7 @@
 98;nee
 99;nee
 100;ja
-101;ja
+101;nee
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;ja
@@ -114,7 +114,7 @@
 113;ja
 114;ja
 115;niet genoemd
-116;nee
+116;ja
 117;nee
 118;-
 119;-
@@ -127,7 +127,7 @@
 126;bijen
 127;nee
 128;nadat
-129;ja
+129;nee
 130;nee
 131;nee
 132;ja
@@ -147,7 +147,7 @@
 146;ja
 147;schor
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
 152;druk op deurknop
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -233,7 +233,7 @@
 232;gemene schurk
 233;nee
 234;ja
-235;nee
+235;niet genoemd
 236;ja
 237;ja
 238;nee
@@ -288,7 +288,7 @@
 287;nee
 288;nee
 289;ja
-290;nee
+290;ja
 291;ja
 292;nee
 293;nee

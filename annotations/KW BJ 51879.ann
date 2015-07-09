@@ -1,7 +1,7 @@
 0;verhaal
 1;alwetende verteller
 2;"Er/daar was eens..."
-3;-
+3;lente
 4;ja
 5;mensen
 6;niet genoemd
@@ -22,7 +22,7 @@
 21;nee
 22;-
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;ja
@@ -41,7 +41,7 @@
 40;niet genoemd
 41;ja
 42;ja
-43;moeder
+43;moeder, vrouw
 44;ja
 45;ja
 46;ja
@@ -147,15 +147,15 @@
 146;niet genoemd
 147;-
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;trek aan touwtje
+152;trek aan touw
 153;nee
 154;nee
 155;nee
 156;ja
-157;inslikken
+157;doorslikken
 158;nee
 159;niet genoemd
 160;nee
@@ -174,11 +174,11 @@
 173;nee
 174;ja
 175;niet genoemd
-176;NO ANSWER PROVIDED
+176;ja
 177;-
 178;niet genoemd
 179;nee
-180;nee
+180;ja
 181;niet genoemd
 182;nee
 183;niet genoemd
@@ -202,7 +202,7 @@
 201;niet genoemd
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -300,3 +300,4 @@
 299;niet van toepassing
 300;nee
 301;nee
+302;nee

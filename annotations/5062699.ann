@@ -4,7 +4,7 @@
 3;lente
 4;ja
 5;mensen in het dorp
-6;niet genoemd
+6;ja
 7;-
 8;ja
 9;blauw
@@ -22,12 +22,12 @@
 21;ja
 22;lief
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
 28;nee
-29;nee
+29;ja
 30;nee
 31;-
 32;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder, oma, oude dame
+37;grootmoeder, oma, oude dame, oude vrouw
 38;ja
 39;nee
 40;niet genoemd
@@ -68,11 +68,11 @@
 67;nee
 68;niet genoemd
 69;ja
-70;moeder, dierenvriendjes
+70;moeder
 71;niet genoemd
 72;nee
 73;niet genoemd
-74;ja
+74;nee
 75;niet genoemd
 76;ja
 77;ja
@@ -145,17 +145,17 @@
 144;ja
 145;ja
 146;niet genoemd
-147;verdraaid piepstemmetje
+147;verdraaid, piepstemmetje
 148;ja
-149;klop
+149;-
 150;3
 151;ja
-152;trek aan touwtje
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
-157;binnenslokken
+157;naar binnen slokken
 158;nee
 159;niet genoemd
 160;nee
@@ -175,7 +175,7 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;3
 179;nee
 180;ja
@@ -209,7 +209,7 @@
 208;-
 209;ja
 210;ja
-211;binnenslokken
+211;naar binnen slokken
 212;nee
 213;nee
 214;niet van toepassing

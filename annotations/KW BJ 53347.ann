@@ -4,7 +4,7 @@
 3;-
 4;ja
 5;men
-6;nee
+6;niet genoemd
 7;-
 8;nee
 9;-
@@ -27,7 +27,7 @@
 26;nee
 27;ja
 28;nee
-29;nee
+29;ja
 30;nee
 31;-
 32;nee
@@ -35,8 +35,8 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
-38;nee
+37;grootmoeder, grootje, oude vrouwtje
+38;ja
 39;nee
 40;niet genoemd
 41;ja
@@ -145,12 +145,12 @@
 144;ja
 145;ja
 146;niet genoemd
-147;liefste stem
+147;liefste
 148;ja
 149;tok
 150;3
 151;ja
-152;touwtje
+152;trek aan het touwtje
 153;nee
 154;niet genoemd
 155;nee
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -227,13 +227,13 @@
 226;ja
 227;nee
 228;-
-229;nee
+229;niet van toepassing
 230;binnentreden
 231;ja
 232;oude boze wolf
 233;nee
 234;ja
-235;nee
+235;niet genoemd
 236;ja
 237;ja
 238;nee
@@ -270,7 +270,7 @@
 269;-
 270;niet genoemd
 271;nee
-272;nee
+272;niet van toepassing
 273;ja
 274;nadat
 275;suikertaart, wijn

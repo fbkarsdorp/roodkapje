@@ -35,13 +35,13 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, vrouw, grootmoe, grootje
 38;nee
 39;nee
 40;niet genoemd
 41;ja
 42;ja
-43;weduwe, moeder
+43;weduwe, moeder, vrouw
 44;ja
 45;ja
 46;ja
@@ -69,7 +69,7 @@
 68;nee
 69;ja
 70;moeder
-71;niet genoemd
+71;ja
 72;nee
 73;niet genoemd
 74;ja
@@ -83,7 +83,7 @@
 82;nee
 83;nee
 84;ja
-85;niet genoemd
+85;middag
 86;ja
 87;wafels, boter
 88;in een mandje
@@ -111,16 +111,16 @@
 110;ja
 111;nee
 112;ja
-113;ja
+113;nee
 114;niet genoemd
 115;niet genoemd
 116;nee
 117;ja
-118;dien
-119;dezen
+118;die
+119;deze
 120;verteller
 121;er zijn mensen in de buurt
-122;niet genoemd
+122;onbepaalde tijd
 123;ja
 124;nee
 125;ja
@@ -145,9 +145,9 @@
 144;ja
 145;ja
 146;niet genoemd
-147;-
+147;veranderd
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
 152;trek aan touwtje
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -186,7 +186,7 @@
 185;niet genoemd
 186;niet genoemd
 187;ja
-188;nee
+188;ja
 189;nee
 190;ja
 191;-

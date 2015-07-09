@@ -22,10 +22,10 @@
 21;nee
 22;-
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
-27;nee
+27;ja
 28;nee
 29;ja
 30;nee
@@ -127,9 +127,9 @@
 126;-
 127;nee
 128;niet van toepassing
-129;ja
+129;nee
 130;ja
-131;nee
+131;ja
 132;nee
 133;niet genoemd
 134;nee
@@ -150,9 +150,9 @@
 149;-
 150;niet genoemd
 151;ja
-152;trekken aan touwtje
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;verslinden
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -183,11 +183,11 @@
 182;ja
 183;niet genoemd
 184;niet genoemd
-185;ja
+185;niet genoemd
 186;niet genoemd
-187;ja
+187;nee
 188;nee
-189;niet genoemd
+189;nee
 190;ja
 191;-
 192;nee
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -211,15 +211,15 @@
 210;ja
 211;opvreten
 212;nee
-213;nee
-214;niet van toepassing
-215;-
+213;ja
+214;nadat
+215;koekjes, brood, fruit
 216;ja
 217;ja
 218;bed
 219;ja
 220;ja
-221;een jager
+221;jager
 222;nee
 223;nee
 224;jager
@@ -229,7 +229,7 @@
 228;-
 229;niet van toepassing
 230;-
-231;ja
+231;niet genoemd
 232;-
 233;niet genoemd
 234;ja
@@ -247,7 +247,7 @@
 246;nee
 247;nee
 248;ja
-249;de jager
+249;jager
 250;mes
 251;ja
 252;redder
@@ -255,12 +255,12 @@
 254;stenen
 255;vóór
 256;redder
-257;ja
+257;niet genoemd
 258;ja
 259;nee
 260;-
 261;niet van toepassing
-262;ja
+262;nee
 263;ja
 264;beek
 265;de stenen in zijn buik
@@ -277,12 +277,12 @@
 276;-
 277;-
 278;-
-279;nee
-280;-
+279;ja
+280;jager
 281;niet genoemd
 282;niet genoemd
 283;niet genoemd
-284;nee
+284;niet genoemd
 285;niet genoemd
 286;niet genoemd
 287;nee

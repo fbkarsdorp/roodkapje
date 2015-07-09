@@ -6,7 +6,7 @@
 5;iedereen
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;nee
 22;-
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder, grootmoe
+37;grootmoeder, grootmoe, oude vrouw
 38;ja
 39;nee
 40;niet genoemd
@@ -63,7 +63,7 @@
 62;jager
 63;ja
 64;Grootmoeder is ziek
-65;anders
+65;niet genoemd
 66;Roodkapjes moeder
 67;nee
 68;ja
@@ -107,7 +107,7 @@
 106;nee
 107;nee
 108;nee
-109;ja
+109;nee
 110;nee
 111;nee
 112;nee
@@ -119,7 +119,7 @@
 118;-
 119;-
 120;verteller
-121;niet genoemd
+121;andere reden
 122;niet genoemd
 123;niet genoemd
 124;nee
@@ -127,7 +127,7 @@
 126;-
 127;nee
 128;niet van toepassing
-129;nee
+129;ja
 130;nee
 131;nee
 132;nee
@@ -152,7 +152,7 @@
 151;nee
 152;-
 153;nee
-154;nee
+154;niet genoemd
 155;ja
 156;ja
 157;opeten
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -173,9 +173,9 @@
 172;geduldig
 173;nee
 174;ja
-175;nee
+175;niet genoemd
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -209,7 +209,7 @@
 208;-
 209;ja
 210;ja
-211;binnenslokken
+211;naar binnen slokken
 212;nee
 213;nee
 214;niet van toepassing

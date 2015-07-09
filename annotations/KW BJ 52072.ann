@@ -22,12 +22,12 @@
 21;ja
 22;aardig
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;ja
 27;ja
 28;nee
-29;nee
+29;ja
 30;nee
 31;-
 32;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, Grootmoedertje-lief
 38;ja
 39;ja
 40;niet genoemd
@@ -85,7 +85,7 @@
 84;ja
 85;ochtend
 86;ja
-87;koeken, bessensap
+87;koeken, fles bessensap
 88;in een mandje
 89;ja
 90;erna
@@ -114,7 +114,7 @@
 113;ja
 114;ja
 115;ja
-116;ja
+116;nee
 117;nee
 118;-
 119;-
@@ -127,7 +127,7 @@
 126;-
 127;nee
 128;niet van toepassing
-129;nee
+129;ja
 130;nee
 131;nee
 132;ja
@@ -150,9 +150,9 @@
 149;-
 150;niet genoemd
 151;ja
-152;touwtje
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;ophappen
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -185,7 +185,7 @@
 184;ja
 185;niet genoemd
 186;niet genoemd
-187;ja
+187;nee
 188;nee
 189;nee
 190;ja
@@ -230,10 +230,10 @@
 229;niet van toepassing
 230;inkomen
 231;ja
-232;ouden zondaar
+232;oude zondaar
 233;nee
 234;ja
-235;nee
+235;niet genoemd
 236;ja
 237;ja
 238;nee
@@ -254,7 +254,7 @@
 253;ja
 254;stenen
 255;vóór
-256;niet genoemd
+256;nee
 257;niet genoemd
 258;ja
 259;nee
@@ -267,7 +267,7 @@
 266;ja
 267;niet van toepassing
 268;ja
-269;voering voor een winterjas
+269;voering voor winterjas
 270;redder
 271;nee
 272;niet van toepassing
@@ -289,7 +289,7 @@
 288;nee
 289;ja
 290;nee
-291;nee
+291;ja
 292;nee
 293;nee
 294;ja

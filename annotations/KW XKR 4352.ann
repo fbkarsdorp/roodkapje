@@ -3,8 +3,8 @@
 2;"Er/daar was eens..."
 3;-
 4;ja
-5;alle mensen
-6;nee
+5;mensen
+6;niet genoemd
 7;-
 8;nee
 9;-
@@ -47,11 +47,11 @@
 46;nee
 47;ja
 48;ja
-49;vader
+49;vader, jagerman
 50;ja
-51;ja
+51;nee
 52;ja
-53;jagerman
+53;jager
 54;nee
 55;nee
 56;nee
@@ -150,12 +150,12 @@
 149;-
 150;niet genoemd
 151;ja
-152;klink
+152;druk op de klink
 153;nee
 154;nee
 155;nee
 156;ja
-157;eten
+157;opeten
 158;nee
 159;niet genoemd
 160;nee
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -222,7 +222,7 @@
 221;vader
 222;nee
 223;nee
-224;jagerman
+224;jager
 225;hij hoort gesnurk
 226;ja
 227;nee

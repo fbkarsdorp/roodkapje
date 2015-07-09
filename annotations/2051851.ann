@@ -6,7 +6,7 @@
 5;mensen
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;ja
 22;lief
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -147,10 +147,10 @@
 146;niet genoemd
 147;hoog
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;trek aan touwtje
+152;trek aan het touwtje
 153;nee
 154;nee
 155;nee
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -248,7 +248,7 @@
 247;nee
 248;ja
 249;houthakker
-250;-
+250;schaar (impliciet)
 251;ja
 252;redder
 253;ja

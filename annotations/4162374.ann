@@ -6,7 +6,7 @@
 5;iedereen
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;ja
 22;aardig, vrolijk
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude vrouw
 38;ja
 39;ja
 40;niet genoemd
@@ -147,7 +147,7 @@
 146;niet genoemd
 147;-
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
 152;druk op knop
@@ -202,14 +202,14 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
 208;-
 209;ja
 210;ja
-211;slokken
+211;naar binnen slokken
 212;nee
 213;nee
 214;niet van toepassing
@@ -228,7 +228,7 @@
 227;nee
 228;-
 229;niet van toepassing
-230;lopen
+230;inlopen
 231;ja
 232;lelijke boef
 233;nee
@@ -300,3 +300,4 @@
 299;Roodkapje
 300;nee
 301;nee
+302;nee

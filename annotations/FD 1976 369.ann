@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder, oma
+37;grootmoeder, oma, vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -131,7 +131,7 @@
 130;nee
 131;nee
 132;ja
-133;andere locatie
+133;in het bos
 134;ja
 135;ja
 136;ja
@@ -147,7 +147,7 @@
 146;niet genoemd
 147;hoog
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
 152;met de sleutel
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -300,3 +300,4 @@
 299;niet van toepassing
 300;nee
 301;nee
+302;nee

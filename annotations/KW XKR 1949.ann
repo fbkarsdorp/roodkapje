@@ -41,7 +41,7 @@
 40;niet genoemd
 41;ja
 42;ja
-43;moeke
+43;moeke, moeder
 44;nee
 45;nee
 46;nee
@@ -61,25 +61,25 @@
 60;nee
 61;niet van toepassing
 62;-
-63;nee
+63;ja
 64;niet genoemd
 65;niet genoemd
 66;niet genoemd
 67;nee
 68;niet genoemd
-69;nee
-70;-
+69;ja
+70;moeder
 71;niet genoemd
 72;nee
 73;niet genoemd
 74;nee
 75;niet genoemd
-76;nee
-77;nee
+76;ja
+77;ja
 78;nee
 79;nee
 80;nee
-81;nee
+81;niet genoemd
 82;nee
 83;nee
 84;ja
@@ -88,7 +88,7 @@
 87;eten
 88;niet genoemd
 89;ja
-90;ervoor en erna
+90;erna
 91;ja
 92;nee
 93;ja
@@ -106,7 +106,7 @@
 105;nee
 106;nee
 107;nee
-108;NO ANSWER PROVIDED
+108;nee
 109;ja
 110;nee
 111;nee
@@ -143,14 +143,14 @@
 142;ja
 143;niet genoemd
 144;ja
-145;nee
+145;ja
 146;niet genoemd
 147;-
 148;ja
 149;-
 150;3
-151;nee
-152;touwtje
+151;ja
+152;trek aan het touwtje
 153;nee
 154;nee
 155;nee
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -177,7 +177,7 @@
 176;nee
 177;-
 178;0
-179;ja
+179;nee
 180;ja
 181;niet genoemd
 182;nee
@@ -187,7 +187,7 @@
 186;niet genoemd
 187;nee
 188;nee
-189;niet genoemd
+189;nee
 190;ja
 191;-
 192;nee
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -295,9 +295,9 @@
 294;nee
 295;nee
 296;nee
-297;Vaak is het moeilijk onderscheid te maken tussen Nee en Niet genoemd.
+297;-
 298;niet van toepassing
 299;niet van toepassing
-300;nee
+300;ja
 301;nee
 302;nee

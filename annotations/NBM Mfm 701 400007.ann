@@ -22,7 +22,7 @@
 21;nee
 22;-
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -103,7 +103,7 @@
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;nee
-105;nee
+105;ja
 106;nee
 107;nee
 108;ja
@@ -118,7 +118,7 @@
 117;nee
 118;-
 119;-
-120;verteller
+120;wordt niet gedaan
 121;niet genoemd
 122;bepaalde tijd
 123;niet genoemd
@@ -140,8 +140,8 @@
 139;-
 140;nee
 141;ja
-142;nee
-143;niet genoemd
+142;ja
+143;nee
 144;ja
 145;niet genoemd
 146;niet genoemd
@@ -159,21 +159,21 @@
 158;nee
 159;niet genoemd
 160;nee
-161;ja
+161;nee
 162;ja
 163;ja
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
 171;niet genoemd
 172;niet genoemd
-173;niet genoemd
+173;nee
 174;ja
-175;niet genoemd
+175;nee
 176;ja
 177;klop
 178;3
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -230,7 +230,7 @@
 229;niet van toepassing
 230;-
 231;ja
-232;Gulzigaard
+232;gulzigaard
 233;niet genoemd
 234;niet genoemd
 235;niet genoemd
@@ -240,7 +240,7 @@
 239;nee
 240;niet genoemd
 241;nee
-242;niet genoemd
+242;nee
 243;ja
 244;ja
 245;nee
@@ -256,16 +256,16 @@
 255;niet van toepassing
 256;niet van toepassing
 257;niet van toepassing
-258;ja
-259;ja
-260;jachtgeweer
-261;voordat
+258;niet genoemd (ook niet impliciet)
+259;nee
+260;-
+261;niet van toepassing
 262;nee
 263;nee
 264;-
 265;niet van toepassing
-266;ja
-267;niet van toepassing
+266;nee
+267;nee
 268;nee
 269;-
 270;niet genoemd

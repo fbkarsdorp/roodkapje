@@ -18,11 +18,11 @@
 17;niet genoemd
 18;niet genoemd
 19;iemand anders
-20;fluweel
+20;fluweel, kant
 21;ja
-22;zachtzinnig, vriendelijk, aanvallig
+22;zachtzinnig, vriendelijk, aanvallig, lief
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;ja
 27;ja
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, vrouw, oude vrouw
 38;ja
 39;nee
 40;niet genoemd
@@ -60,7 +60,7 @@
 59;niet van toepassing
 60;nee
 61;niet van toepassing
-62;kinderen
+62;kinderen, Vos
 63;ja
 64;Grootmoeder is ziek
 65;gerucht
@@ -85,15 +85,15 @@
 84;ja
 85;niet genoemd
 86;ja
-87;tulband, boter
+87;tulband, potje boter
 88;andere manier
 89;ja
 90;erna
 91;ja
 92;ja
 93;nee
-94;ja
-95;erna
+94;niet genoemd
+95;niet van toepassing
 96;ja
 97;niet genoemd
 98;nee
@@ -115,12 +115,12 @@
 114;niet genoemd
 115;niet genoemd
 116;nee
-117;nee
-118;-
-119;-
+117;ja
+118;deze weg
+119;zijweg
 120;verteller
 121;er zijn mensen in de buurt
-122;niet genoemd
+122;onbepaalde tijd
 123;niet genoemd
 124;nee
 125;nee
@@ -145,12 +145,12 @@
 144;ja
 145;ja
 146;niet genoemd
-147;fijn
+147;fijn, veranderd
 148;ja
 149;-
 150;niet genoemd
 151;ja
-152;touwtje van de klink
+152;trek aan het touwtje van de klink
 153;nee
 154;nee
 155;nee
@@ -168,11 +168,11 @@
 167;nee
 168;niet genoemd
 169;ja
-170;niet genoemd
+170;ja
 171;niet genoemd
 172;niet genoemd
 173;nee
-174;nee
+174;ja
 175;nee
 176;ja
 177;-
@@ -184,12 +184,12 @@
 183;niet genoemd
 184;niet genoemd
 185;ja
-186;ja
+186;niet genoemd
 187;ja
 188;ja
 189;nee
 190;ja
-191;tafel of stoel
+191;tafel, stoel
 192;nee
 193;nee
 194;ja
@@ -197,12 +197,12 @@
 196;nee
 197;ja
 198;ja
-199;ja
-200;niet genoemd
+199;niet genoemd
+200;nee
 201;ja
-202;bovenkleederen
+202;bovenkleren
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee

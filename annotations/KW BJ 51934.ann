@@ -25,7 +25,7 @@
 24;niet genoemd
 25;ja
 26;nee
-27;ja
+27;nee
 28;nee
 29;ja
 30;nee
@@ -53,14 +53,14 @@
 52;nee
 53;-
 54;nee
-55;nee
+55;ja
 56;nee
 57;niet van toepassing
 58;-
 59;niet van toepassing
 60;nee
 61;niet van toepassing
-62;-
+62;jager
 63;ja
 64;Grootmoeder is ziek
 65;niet genoemd
@@ -99,15 +99,15 @@
 98;ja
 99;nee
 100;nee
-101;niet genoemd
+101;nee
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;ja
-105;nee
+105;ja
 106;nee
 107;nee
 108;nee
-109;ja
+109;nee
 110;nee
 111;nee
 112;nee
@@ -118,7 +118,7 @@
 117;nee
 118;-
 119;-
-120;verteller
+120;de wolf
 121;niet genoemd
 122;niet genoemd
 123;ja
@@ -130,8 +130,8 @@
 129;nee
 130;nee
 131;nee
-132;nee
-133;niet genoemd
+132;ja
+133;in het bos
 134;nee
 135;nee
 136;niet genoemd
@@ -140,17 +140,17 @@
 139;-
 140;nee
 141;ja
-142;nee
-143;niet genoemd
+142;ja
+143;nee
 144;ja
 145;ja
 146;niet genoemd
 147;-
 148;ja
-149;tikken
+149;tik
 150;niet genoemd
-151;ja
-152;deur zit niet op slot
+151;nee
+152;-
 153;nee
 154;niet genoemd
 155;nee
@@ -169,13 +169,13 @@
 168;niet genoemd
 169;ja
 170;niet genoemd
-171;onbepaald
+171;huisje
 172;niet genoemd
 173;nee
 174;ja
 175;nee
 176;ja
-177;kloppen
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -228,35 +228,35 @@
 227;nee
 228;-
 229;niet van toepassing
-230;openduwen
-231;nee
+230;-
+231;niet genoemd
 232;lelijke wolf
-233;niet genoemd
+233;nee
 234;ja
-235;nee
+235;niet genoemd
 236;ja
 237;ja
-238;ja
+238;nee
 239;nee
 240;niet genoemd
 241;nee
 242;niet genoemd
 243;ja
 244;ja
-245;ja
+245;nee
 246;nee
 247;nee
 248;ja
 249;jager
 250;mes
-251;nee
-252;niet genoemd
+251;ja
+252;redder
 253;nee
 254;-
 255;niet van toepassing
 256;niet van toepassing
 257;niet van toepassing
-258;nee
+258;niet genoemd (ook niet impliciet)
 259;nee
 260;-
 261;niet van toepassing
@@ -264,8 +264,8 @@
 263;nee
 264;-
 265;niet van toepassing
-266;niet van toepassing
-267;niet van toepassing
+266;nee
+267;nee
 268;nee
 269;-
 270;niet genoemd
@@ -287,12 +287,12 @@
 286;niet genoemd
 287;nee
 288;nee
-289;nee
+289;ja
 290;nee
 291;nee
 292;nee
 293;nee
-294;nee
+294;ja
 295;nee
 296;nee
 297;-

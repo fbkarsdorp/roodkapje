@@ -6,7 +6,7 @@
 5;iedereen
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;ja
 22;lief
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -99,7 +99,7 @@
 98;nee
 99;nee
 100;nee
-101;nee
+101;niet genoemd
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;ja
@@ -107,7 +107,7 @@
 106;nee
 107;nee
 108;nee
-109;ja
+109;nee
 110;nee
 111;nee
 112;nee
@@ -145,14 +145,14 @@
 144;ja
 145;ja
 146;niet genoemd
-147;lieve stem
+147;lief
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;trek aan touwtje
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;opeten
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -179,7 +179,7 @@
 178;0
 179;ja
 180;ja
-181;ja
+181;niet genoemd
 182;ja
 183;niet genoemd
 184;niet genoemd

@@ -102,7 +102,7 @@
 101;niet genoemd
 102;ja
 103;niet genoemd
-104;nee
+104;niet genoemd
 105;nee
 106;nee
 107;nee
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;ja
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -202,22 +202,22 @@
 201;niet genoemd
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
 208;-
 209;ja
-210;ja
+210;nee
 211;-
-212;nee
+212;niet van toepassing
 213;nee
 214;niet van toepassing
 215;-
-216;niet genoemd
-217;ja
+216;niet van toepassing
+217;niet genoemd
 218;-
-219;ja
+219;niet van toepassing
 220;ja
 221;jager
 222;nee
@@ -242,7 +242,7 @@
 241;nee
 242;niet genoemd
 243;ja
-244;ja
+244;nee
 245;nee
 246;nee
 247;nee
@@ -295,7 +295,7 @@
 294;nee
 295;nee
 296;nee
-297;lijkt alsof er een zin mist?
+297;-
 298;niet van toepassing
 299;niet van toepassing
 300;nee

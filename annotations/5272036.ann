@@ -27,7 +27,7 @@
 26;nee
 27;ja
 28;nee
-29;nee
+29;ja
 30;nee
 31;-
 32;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, vrouw, oude vrouwtje
 38;nee
 39;nee
 40;niet genoemd
@@ -85,7 +85,7 @@
 84;ja
 85;ochtend
 86;ja
-87;koek, wijn
+87;koek, fles wijn
 88;in een mandje
 89;ja
 90;erna
@@ -114,7 +114,7 @@
 113;ja
 114;ja
 115;niet genoemd
-116;ja
+116;nee
 117;nee
 118;-
 119;-
@@ -137,7 +137,7 @@
 136;ja
 137;nee
 138;-
-139;-
+139;rood
 140;nee
 141;ja
 142;nee
@@ -165,13 +165,13 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
 171;niet genoemd
 172;niet genoemd
-173;niet genoemd
+173;nee
 174;ja
 175;ja
 176;nee
@@ -230,7 +230,7 @@
 229;niet van toepassing
 230;-
 231;ja
-232;jij schurk
+232;schurk
 233;nee
 234;ja
 235;niet genoemd
@@ -250,7 +250,7 @@
 249;jager
 250;mes
 251;ja
-252;redder
+252;Roodkapje
 253;ja
 254;stenen
 255;vóór

@@ -21,8 +21,8 @@
 20;-
 21;ja
 22;allerliefst
-23;blijft lang weg
-24;niet genoemd
+23;blijft lang weg, gebrekkig
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;Grootmoeder
+37;Grootmoeder, oude vrouw, grootmoe
 38;nee
 39;nee
 40;niet genoemd
@@ -74,7 +74,7 @@
 73;niet genoemd
 74;nee
 75;niet genoemd
-76;nee
+76;ja
 77;ja
 78;nee
 79;nee
@@ -85,7 +85,7 @@
 84;ja
 85;niet genoemd
 86;ja
-87;gebakje, boter
+87;gebakje, potje boter
 88;in een mandje
 89;ja
 90;ervoor
@@ -101,14 +101,14 @@
 100;nee
 101;niet genoemd
 102;ja
-103;de wolf spreekt Roodkapje aan
-104;nee
+103;niet genoemd
+104;niet genoemd
 105;nee
 106;nee
 107;nee
-108;ja
+108;nee
 109;nee
-110;ja
+110;nee
 111;nee
 112;nee
 113;nee
@@ -150,9 +150,9 @@
 149;tok
 150;2
 151;ja
-152;touwtje
+152;trek aan het touwtje dan gaat de klink over
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;verslinden
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -173,7 +173,7 @@
 172;niet genoemd
 173;nee
 174;ja
-175;niet genoemd
+175;nee
 176;ja
 177;tok
 178;2
@@ -197,7 +197,7 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
 201;nee
 202;-
@@ -213,7 +213,7 @@
 212;nee
 213;ja
 214;nadat
-215;gebak, boter, mandje
+215;gebak, potje boter, mandje
 216;niet genoemd
 217;niet genoemd
 218;-

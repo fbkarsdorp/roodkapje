@@ -82,8 +82,8 @@
 81;niet genoemd
 82;nee
 83;nee
-84;nee
-85;niet van toepassing
+84;ja
+85;niet genoemd
 86;niet genoemd
 87;-
 88;niet genoemd
@@ -93,7 +93,7 @@
 92;nee
 93;nee
 94;niet genoemd
-95;ze ontmoet geen wolf
+95;niet van toepassing
 96;nee
 97;niet van toepassing
 98;niet van toepassing
@@ -102,7 +102,7 @@
 101;niet van toepassing
 102;nee
 103;niet genoemd
-104;nee
+104;niet genoemd
 105;nee
 106;nee
 107;nee
@@ -122,7 +122,7 @@
 121;niet genoemd
 122;niet genoemd
 123;niet genoemd
-124;nee
+124;ja
 125;nee
 126;-
 127;nee
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -227,7 +227,7 @@
 226;nee
 227;nee
 228;-
-229;niet van toepassing
+229;nee
 230;-
 231;niet genoemd
 232;-
@@ -299,3 +299,5 @@
 298;niet van toepassing
 299;niet van toepassing
 300;nee
+301;nee
+302;nee

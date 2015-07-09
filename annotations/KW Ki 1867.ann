@@ -6,7 +6,7 @@
 5;-
 6;ja
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;ja
 22;allerliefst
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;ja
@@ -111,7 +111,7 @@
 110;ja
 111;nee
 112;nee
-113;ja
+113;nee
 114;niet genoemd
 115;niet genoemd
 116;nee
@@ -147,7 +147,7 @@
 146;niet genoemd
 147;lief
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
 152;trek aan touwtje
@@ -197,12 +197,12 @@
 196;nee
 197;ja
 198;ja
-199;niet genoemd
-200;nee
+199;ja
+200;niet genoemd
 201;niet genoemd
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -221,7 +221,7 @@
 220;ja
 221;houthakkers
 222;ja
-223;ja
+223;nee
 224;houthakker
 225;andere reden
 226;nee
@@ -233,7 +233,7 @@
 232;-
 233;nee
 234;niet genoemd
-235;niet van toepassing
+235;nee
 236;nee
 237;nee
 238;nee

@@ -20,8 +20,8 @@
 19;niet genoemd
 20;-
 21;ja
-22;lief, doet alles wat moeder vraagt, vroeg opstaan
-23;dom
+22;lief, aardig
+23;-
 24;onbepaald (bv. dreumes)
 25;ja
 26;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;oma
+37;oma, vrouwtje, oude mevrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -60,7 +60,7 @@
 59;niet van toepassing
 60;ja
 61;nee
-62;boswachter
+62;boswachter, vogels, eekhoorntjes, konijntjes
 63;ja
 64;Grootmoeder is ziek
 65;niet genoemd
@@ -71,7 +71,7 @@
 70;moeder
 71;niet genoemd
 72;ja
-73;nee
+73;niet genoemd
 74;nee
 75;niet genoemd
 76;ja
@@ -83,7 +83,7 @@
 82;nee
 83;nee
 84;ja
-85;niet genoemd
+85;middag
 86;ja
 87;koeken, sinaasappels, fles bessensap
 88;in een mandje
@@ -99,13 +99,13 @@
 98;ja
 99;nee
 100;nee
-101;niet genoemd
+101;nee
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;nee
 105;ja
 106;nee
-107;nee
+107;ja
 108;ja
 109;nee
 110;ja
@@ -118,7 +118,7 @@
 117;nee
 118;-
 119;-
-120;de wolf
+120;dieren in het bos
 121;niet genoemd
 122;niet genoemd
 123;ja
@@ -131,7 +131,7 @@
 130;ja
 131;nee
 132;ja
-133;andere locatie
+133;in het bos
 134;nee
 135;nee
 136;niet genoemd
@@ -145,17 +145,17 @@
 144;ja
 145;ja
 146;niet genoemd
-147;hoog stemmetje
+147;hoog
 148;ja
 149;-
 150;niet genoemd
-151;ja
+151;nee
 152;-
-153;niet genoemd
+153;nee
 154;niet genoemd
-155;nee
+155;ja
 156;ja
-157;binnenslokken
+157;naar binnen slokken
 158;nee
 159;niet genoemd
 160;nee
@@ -165,13 +165,13 @@
 164;ja
 165;ja
 166;ja
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
 171;niet genoemd
 172;niet genoemd
-173;ja
+173;nee
 174;ja
 175;nee
 176;ja
@@ -184,7 +184,7 @@
 183;niet genoemd
 184;niet genoemd
 185;niet genoemd
-186;nee
+186;niet genoemd
 187;ja
 188;ja
 189;nee
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;ja
 204;nee
@@ -209,29 +209,29 @@
 208;-
 209;ja
 210;ja
-211;binnenslokken
+211;naar binnen slokken
 212;nee
 213;nee
 214;niet van toepassing
 215;-
 216;ja
 217;ja
-218;op de grond
+218;grond
 219;ja
 220;ja
-221;dieren, boswachter
-222;ja
+221;boswachter
+222;nee
 223;ja
 224;boswachter
-225;andere reden
+225;iemand vertelde hem wat er is gebeurd
 226;ja
 227;ja
 228;vogels, eekhoorns, konijnen
 229;niet van toepassing
 230;-
-231;ja
-232;grote, boze wolf
-233;niet genoemd
+231;niet genoemd
+232;-
+233;nee
 234;ja
 235;niet genoemd
 236;ja
@@ -287,9 +287,9 @@
 286;niet genoemd
 287;nee
 288;nee
-289;ja
+289;nee
 290;nee
-291;ja
+291;nee
 292;nee
 293;nee
 294;nee

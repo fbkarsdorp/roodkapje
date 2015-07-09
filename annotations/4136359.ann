@@ -22,7 +22,7 @@
 21;ja
 22;lief, aardig
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;ja
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;oma
+37;oma, vrouwtje, oude mevrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -65,7 +65,7 @@
 64;Grootmoeder is ziek
 65;niet genoemd
 66;Roodkapjes moeder
-67;nee
+67;ja
 68;niet genoemd
 69;ja
 70;moeder
@@ -83,7 +83,7 @@
 82;nee
 83;nee
 84;ja
-85;niet genoemd
+85;middag
 86;ja
 87;koeken, sinaasappels, fles bessensap
 88;in een mandje
@@ -147,15 +147,15 @@
 146;niet genoemd
 147;hoog
 148;ja
-149;klop
+149;-
 150;niet genoemd
-151;ja
-152;deur niet op slot
+151;nee
+152;-
 153;nee
 154;nee
-155;nee
+155;ja
 156;ja
-157;binnenslokken
+157;naar binnen slokken
 158;nee
 159;niet genoemd
 160;nee
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;ja
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -175,16 +175,16 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
 181;niet genoemd
-182;ja
+182;nee
 183;niet genoemd
 184;niet genoemd
 185;niet genoemd
-186;ja
+186;niet genoemd
 187;ja
 188;ja
 189;nee
@@ -209,7 +209,7 @@
 208;-
 209;ja
 210;ja
-211;binnenslokken
+211;naar binnen slokken
 212;nee
 213;nee
 214;niet van toepassing

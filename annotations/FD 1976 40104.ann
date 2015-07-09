@@ -60,7 +60,7 @@
 59;niet van toepassing
 60;nee
 61;niet van toepassing
-62;de jager
+62;jager
 63;ja
 64;Grootmoeder is ziek
 65;niet genoemd
@@ -101,13 +101,13 @@
 100;nee
 101;niet genoemd
 102;ja
-103;de wolf spreekt Roodkapje aan
-104;nee
+103;niet genoemd
+104;niet genoemd
 105;nee
 106;nee
 107;nee
 108;nee
-109;ja
+109;nee
 110;nee
 111;nee
 112;nee
@@ -127,7 +127,7 @@
 126;-
 127;nee
 128;niet van toepassing
-129;ja
+129;nee
 130;nee
 131;nee
 132;nee
@@ -140,8 +140,8 @@
 139;-
 140;nee
 141;ja
-142;nee
-143;niet genoemd
+142;ja
+143;nee
 144;ja
 145;niet genoemd
 146;niet genoemd
@@ -187,7 +187,7 @@
 186;niet genoemd
 187;nee
 188;nee
-189;niet genoemd
+189;nee
 190;ja
 191;-
 192;nee
@@ -224,7 +224,7 @@
 223;ja
 224;jager
 225;hij hoort gesnurk
-226;nee
+226;ja
 227;nee
 228;-
 229;niet van toepassing
@@ -265,7 +265,7 @@
 264;-
 265;niet van toepassing
 266;nee
-267;ja
+267;nee
 268;nee
 269;-
 270;niet genoemd
@@ -298,6 +298,6 @@
 297;-
 298;niet van toepassing
 299;niet van toepassing
-300;ja
+300;nee
 301;nee
 302;nee

@@ -16,7 +16,7 @@
 15;ja
 16;niet genoemd
 17;niet genoemd
-18;onbepaald (bv. toen ze klein was)
+18;niet genoemd
 19;niet genoemd
 20;-
 21;nee
@@ -27,7 +27,7 @@
 26;nee
 27;nee
 28;nee
-29;nee
+29;ja
 30;nee
 31;-
 32;nee
@@ -85,7 +85,7 @@
 84;ja
 85;niet genoemd
 86;ja
-87;koekjes en taartjes
+87;koekjes, taartjes
 88;in een mandje
 89;niet genoemd
 90;niet van toepassing
@@ -103,7 +103,7 @@
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;nee
-105;nee
+105;ja
 106;nee
 107;nee
 108;ja
@@ -132,7 +132,7 @@
 131;nee
 132;ja
 133;in het bos
-134;ja
+134;nee
 135;nee
 136;niet genoemd
 137;nee
@@ -150,8 +150,8 @@
 149;-
 150;niet genoemd
 151;ja
-152;klink
-153;niet genoemd
+152;doe de klink omhoog
+153;nee
 154;niet genoemd
 155;nee
 156;ja
@@ -171,7 +171,7 @@
 170;niet genoemd
 171;niet genoemd
 172;niet genoemd
-173;niet genoemd
+173;nee
 174;ja
 175;nee
 176;ja
@@ -185,9 +185,9 @@
 184;niet genoemd
 185;niet genoemd
 186;niet genoemd
-187;ja
+187;nee
 188;nee
-189;niet genoemd
+189;nee
 190;ja
 191;-
 192;nee
@@ -197,13 +197,13 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;ja
 204;ja
-205;naar buiten
+205; de deur uit
 206;ja
 207;nee
 208;-
@@ -232,22 +232,22 @@
 231;niet genoemd
 232;-
 233;niet genoemd
-234;ja
-235;niet van toepassing
+234;niet genoemd
+235;nee
 236;ja
 237;ja
 238;nee
 239;nee
 240;niet genoemd
 241;nee
-242;niet genoemd
+242;nee
 243;ja
 244;nee
 245;nee
 246;nee
 247;nee
 248;ja
-249;de houthakker
+249;houthakker
 250;-
 251;ja
 252;redder

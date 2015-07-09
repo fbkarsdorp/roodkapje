@@ -6,7 +6,7 @@
 5;moedertje
 6;ja
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;ja
 22;lief
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -131,7 +131,7 @@
 130;nee
 131;nee
 132;ja
-133;andere locatie
+133;in het bos
 134;nee
 135;nee
 136;niet genoemd
@@ -147,12 +147,12 @@
 146;niet genoemd
 147;piepend
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;licht klink op
+152;licht de klink op
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;opslokken
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -175,7 +175,7 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -227,11 +227,11 @@
 226;ja
 227;nee
 228;-
-229;niet van toepassing
-230;binnenstuiven
+229;nee
+230;naar binnen stuiven
 231;niet genoemd
 232;-
-233;nee
+233;niet genoemd
 234;niet genoemd
 235;nee
 236;ja
@@ -256,22 +256,22 @@
 255;niet van toepassing
 256;niet van toepassing
 257;niet van toepassing
-258;niet genoemd (ook niet impliciet)
-259;nee
-260;-
-261;niet van toepassing
+258;ja
+259;ja
+260;bijl
+261;voordat
 262;nee
 263;nee
 264;-
 265;niet van toepassing
 266;nee
-267;nee
+267;ja
 268;nee
 269;-
 270;niet genoemd
 271;nee
 272;nee
-273;nee
+273;niet genoemd
 274;niet van toepassing
 275;-
 276;-
@@ -279,10 +279,10 @@
 278;-
 279;ja
 280;vader
-281;ja
+281;niet genoemd
 282;niet genoemd
 283;niet genoemd
-284;nee
+284;niet genoemd
 285;ja
 286;niet genoemd
 287;nee

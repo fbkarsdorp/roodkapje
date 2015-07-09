@@ -1,12 +1,12 @@
 0;verhaal
 1;alwetende verteller
-2;niet aanwezig
+2;"Er/daar was eens..."
 3;-
 4;ja
 5;iedereen
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,9 +22,9 @@
 21;ja
 22;aardig, lief, best
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
-26;nee
+26;ja
 27;nee
 28;nee
 29;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;Grootmoeder, Grootmoedertjelief, Grootje 
+37;Grootmoeder, Grootmoedertjelief, Grootje
 38;ja
 39;ja
 40;niet genoemd
@@ -83,9 +83,9 @@
 82;ja
 83;nee
 84;ja
-85;niet genoemd
+85;ochtend
 86;ja
-87;wafels, bosbessensap
+87;wafels, fles bosbessensap
 88;in een mandje
 89;ja
 90;erna
@@ -147,12 +147,12 @@
 146;niet genoemd
 147;-
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;trek aan touwtje
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;ophappen
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -254,7 +254,7 @@
 253;ja
 254;stenen
 255;vóór
-256;niet genoemd
+256;nee
 257;niet genoemd
 258;ja
 259;nee
@@ -267,7 +267,7 @@
 266;ja
 267;niet van toepassing
 268;ja
-269;winterjas
+269;voering voor winterjas
 270;redder
 271;nee
 272;niet van toepassing

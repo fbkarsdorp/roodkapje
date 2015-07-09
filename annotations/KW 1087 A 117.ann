@@ -3,7 +3,7 @@
 2;"Er/daar was eens..."
 3;-
 4;ja
-5;alle mensen
+5;mensen
 6;ja
 7;Marietje
 8;nee
@@ -16,18 +16,18 @@
 15;nee
 16;grootmoeder
 17;omdat Oma zoveel van haar houdt
-18;onbepaald (bv. toen ze klein was)
+18;niet genoemd
 19;niet genoemd
 20;fluweel
 21;ja
-22;lief, vriendelijkheid, blije
+22;lief, vriendelijkheid, blij
 23;-
 24;onbepaald (bv. dreumes)
 25;ja
 26;ja
 27;ja
 28;nee
-29;nee
+29;ja
 30;nee
 31;-
 32;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;Grootmoe, grootmoeder
+37;Grootmoe, grootmoeder, oude vrouwtje, oude vrouw, vrouwtje
 38;ja
 39;ja
 40;niet genoemd
@@ -48,16 +48,16 @@
 47;ja
 48;nee
 49;vader
-50;nee
+50;ja
 51;nee
-52;nee
+52;ja
 53;-
 54;nee
 55;ja
-56;ja
-57;niet genoemd
+56;nee
+57;niet van toepassing
 58;-
-59;nee
+59;niet van toepassing
 60;nee
 61;niet van toepassing
 62;jager
@@ -127,7 +127,7 @@
 126;-
 127;nee
 128;niet van toepassing
-129;nee
+129;ja
 130;nee
 131;nee
 132;ja
@@ -138,7 +138,7 @@
 137;nee
 138;-
 139;-
-140;nee
+140;ja
 141;ja
 142;ja
 143;nee
@@ -150,12 +150,12 @@
 149;klop
 150;3
 151;ja
-152;trekken aan touwtje
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
-157;inslikken
+157;inslokken
 158;nee
 159;niet genoemd
 160;nee
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -182,12 +182,12 @@
 181;niet genoemd
 182;ja
 183;niet genoemd
-184;niet genoemd
+184;ja
 185;niet genoemd
 186;niet genoemd
 187;ja
 188;ja
-189;niet genoemd
+189;nee
 190;ja
 191;-
 192;nee
@@ -199,7 +199,7 @@
 198;niet van toepassing
 199;niet genoemd
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -209,7 +209,7 @@
 208;-
 209;ja
 210;ja
-211;inslikken
+211;inslokken
 212;nee
 213;nee
 214;niet van toepassing
@@ -219,7 +219,7 @@
 218;bed
 219;ja
 220;ja
-221;de jager
+221;jager
 222;nee
 223;ja
 224;jager
@@ -227,27 +227,27 @@
 226;ja
 227;nee
 228;-
-229;nee
+229;niet van toepassing
 230;-
 231;ja
 232;oude zondaar, ouwe deugniet
 233;nee
 234;ja
-235;nee
+235;niet genoemd
 236;ja
 237;ja
 238;nee
 239;nee
-240;ja
+240;niet genoemd
 241;nee
-242;niet genoemd
+242;nee
 243;ja
 244;ja
 245;ja
 246;ja
 247;nee
 248;ja
-249;de jager
+249;jager
 250;schaar
 251;ja
 252;redder
@@ -274,7 +274,7 @@
 273;ja
 274;nadat
 275;-
-276;glaasje wijn, taart
+276;wijn, taart
 277;-
 278;-
 279;ja
@@ -288,14 +288,14 @@
 287;nee
 288;nee
 289;ja
-290;ja
+290;nee
 291;nee
 292;nee
 293;nee
 294;ja
 295;nee
 296;nee
-297;waarschuwen voor een wolf; hazelnootstruiken; verderop in verhaal wel gesproken over boze wolf; R. voelt zich angstig als ze in de kamer van grootmoeder staat
+297;-
 298;niet van toepassing
 299;combinatie van personen
 300;nee

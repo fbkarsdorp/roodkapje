@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, grootje
 38;ja
 39;nee
 40;niet genoemd
@@ -86,7 +86,7 @@
 85;niet genoemd
 86;ja
 87;koeken, vruchten
-88;niet genoemd
+88;in een mandje
 89;niet genoemd
 90;niet van toepassing
 91;nee
@@ -95,7 +95,7 @@
 94;niet genoemd
 95;niet van toepassing
 96;ja
-97;op het pad
+97;niet genoemd
 98;niet genoemd
 99;niet genoemd
 100;nee
@@ -108,7 +108,7 @@
 107;nee
 108;ja
 109;nee
-110;ja
+110;nee
 111;nee
 112;nee
 113;ja
@@ -130,7 +130,7 @@
 129;nee
 130;nee
 131;nee
-132;nee
+132;ja
 133;niet genoemd
 134;nee
 135;nee
@@ -141,7 +141,7 @@
 140;nee
 141;ja
 142;ja
-143;niet genoemd
+143;nee
 144;nee
 145;nee
 146;niet genoemd
@@ -165,20 +165,20 @@
 164;niet genoemd
 165;ja
 166;ja
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
 171;niet genoemd
 172;niet genoemd
-173;niet genoemd
+173;nee
 174;ja
 175;nee
-176;nee
+176;ja
 177;-
-178;0
+178;niet genoemd
 179;nee
-180;nee
+180;ja
 181;niet genoemd
 182;nee
 183;niet genoemd
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;ja
 204;ja
@@ -232,8 +232,8 @@
 231;niet genoemd
 232;-
 233;niet genoemd
-234;niet van toepassing
-235;niet van toepassing
+234;niet genoemd
+235;nee
 236;niet van toepassing
 237;nee
 238;nee
@@ -295,7 +295,7 @@
 294;nee
 295;nee
 296;nee
-297;Wordt niet expliciet gezegd dat Roodkapje bloemen gaat plukken, staat misschien op bijgevoegd plaatje
+297;-
 298;niet van toepassing
 299;niet van toepassing
 300;nee

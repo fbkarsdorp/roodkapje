@@ -18,11 +18,11 @@
 17;niet genoemd
 18;niet genoemd
 19;niet genoemd
-20;fluweel, omzoomd met zwarte kant
+20;fluweel, kant
 21;ja
 22;lief, deugd
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoe, grootje
+37;grootmoe, grootje, mens, oude vrouw, vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -60,7 +60,7 @@
 59;niet van toepassing
 60;nee
 61;niet van toepassing
-62;twee mannen met bijl
+62;mannen
 63;ja
 64;Grootmoeder is ziek
 65;niet genoemd
@@ -85,7 +85,7 @@
 84;ja
 85;niet genoemd
 86;ja
-87;tulband, boter
+87;tulband, potje boter
 88;niet genoemd
 89;ja
 90;erna
@@ -96,8 +96,8 @@
 95;niet van toepassing
 96;ja
 97;niet genoemd
-98;nee
-99;nee
+98;niet genoemd
+99;niet genoemd
 100;nee
 101;niet genoemd
 102;ja
@@ -107,7 +107,7 @@
 106;nee
 107;nee
 108;nee
-109;ja
+109;nee
 110;nee
 111;nee
 112;nee
@@ -140,8 +140,8 @@
 139;-
 140;nee
 141;ja
-142;nee
-143;niet genoemd
+142;ja
+143;nee
 144;ja
 145;ja
 146;niet genoemd
@@ -150,10 +150,10 @@
 149;-
 150;niet genoemd
 151;nee
-152;-
+152;trek aan het touwtje
 153;nee
 154;niet genoemd
-155;nee
+155;ja
 156;ja
 157;verslinden
 158;nee
@@ -175,16 +175,16 @@
 174;ja
 175;nee
 176;ja
-177;NO ANSWER PROVIDED
+177;-
 178;niet genoemd
-179;ja
+179;nee
 180;ja
 181;niet genoemd
 182;ja
 183;niet genoemd
 184;niet genoemd
 185;niet genoemd
-186;nee
+186;niet genoemd
 187;nee
 188;nee
 189;nee
@@ -196,13 +196,13 @@
 195;tanden
 196;nee
 197;ja
-198;ja
-199;ja
-200;niet genoemd
+198;nee
+199;niet genoemd
+200;nee
 201;niet genoemd
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee

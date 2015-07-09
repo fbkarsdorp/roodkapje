@@ -22,7 +22,7 @@
 21;ja
 22;lief
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -69,7 +69,7 @@
 68;niet genoemd
 69;ja
 70;moeder
-71;niet genoemd
+71;ja
 72;nee
 73;niet genoemd
 74;nee
@@ -147,12 +147,12 @@
 146;niet genoemd
 147;mooi, fijn
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;trek aan touwtje
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;nee
 157;-
@@ -175,7 +175,7 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -227,7 +227,7 @@
 226;ja
 227;nee
 228;-
-229;niet van toepassing
+229;nee
 230;komen
 231;niet genoemd
 232;-
@@ -270,7 +270,7 @@
 269;-
 270;niet genoemd
 271;nee
-272;niet van toepassing
+272;nee
 273;ja
 274;nadat
 275;-

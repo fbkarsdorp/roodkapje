@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oma
 38;nee
 39;nee
 40;niet genoemd
@@ -141,7 +141,7 @@
 140;nee
 141;ja
 142;ja
-143;niet genoemd
+143;nee
 144;ja
 145;ja
 146;niet genoemd
@@ -152,8 +152,8 @@
 151;nee
 152;-
 153;nee
-154;nee
-155;nee
+154;niet genoemd
+155;ja
 156;ja
 157;opeten
 158;nee
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -232,8 +232,8 @@
 231;niet genoemd
 232;-
 233;nee
-234;niet genoemd
-235;niet genoemd
+234;nee
+235;nee
 236;ja
 237;ja
 238;nee
@@ -258,7 +258,7 @@
 257;niet van toepassing
 258;ja
 259;ja
-260;schietgerei
+260;schiettuig (impliciet)
 261;voordat
 262;nee
 263;nee
@@ -295,7 +295,7 @@
 294;nee
 295;nee
 296;nee
-297;265 er wordt geen apparaat gespecificeerd, maar er staat wel "pang, pang!", dus schietgerei geïnfereerd. Ook wordt er wel geconsumeerd aan het eind van het verhaal, maar niet van de dingen die Roodkapje bij zich had
+297;-
 298;niet van toepassing
 299;niet van toepassing
 300;nee

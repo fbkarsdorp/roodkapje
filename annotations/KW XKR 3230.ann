@@ -6,7 +6,7 @@
 5;-
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;ja
 22;lief, aardig
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder, oma
+37;grootmoeder, oma, oude dame
 38;ja
 39;nee
 40;niet genoemd
@@ -48,8 +48,8 @@
 47;ja
 48;ja
 49;vader
-50;ja
-51;ja
+50;nee
+51;nee
 52;nee
 53;houthakker
 54;nee
@@ -66,7 +66,7 @@
 65;niet genoemd
 66;Roodkapjes moeder
 67;nee
-68;ja
+68;niet genoemd
 69;ja
 70;moeder
 71;niet genoemd
@@ -85,7 +85,7 @@
 84;ja
 85;niet genoemd
 86;ja
-87;pannenkoeken, bessenwijn
+87;pannenkoeken, fles bessenwijn
 88;in een mandje
 89;ja
 90;ervoor
@@ -107,7 +107,7 @@
 106;nee
 107;nee
 108;nee
-109;ja
+109;nee
 110;nee
 111;nee
 112;nee
@@ -150,7 +150,7 @@
 149;tik
 150;3
 151;ja
-152;trek aan touwtje
+152;trek aan het touwtje
 153;nee
 154;nee
 155;nee
@@ -175,7 +175,7 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -254,7 +254,7 @@
 253;ja
 254;stenen
 255;na
-256;niet genoemd
+256;nee
 257;niet van toepassing
 258;ja
 259;ja
@@ -271,7 +271,7 @@
 270;niet genoemd
 271;nee
 272;niet van toepassing
-273;nee
+273;niet genoemd
 274;niet van toepassing
 275;-
 276;-

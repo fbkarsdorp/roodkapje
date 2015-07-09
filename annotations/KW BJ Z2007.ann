@@ -22,7 +22,7 @@
 21;ja
 22;allerliefst
 23;ongehoorzaam, wildebras
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;ja
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder, grootmoe
+37;grootmoeder, grootmoe, oude vrouw, oude vrouwtje
 38;nee
 39;nee
 40;niet genoemd
@@ -85,10 +85,10 @@
 84;ja
 85;niet genoemd
 86;ja
-87;wafels, wijn
+87;wafels, fles wijn
 88;in een mandje
 89;ja
-90;erna
+90;ervoor en erna
 91;ja
 92;nee
 93;nee
@@ -127,7 +127,7 @@
 126;-
 127;nee
 128;niet van toepassing
-129;nee
+129;ja
 130;nee
 131;nee
 132;ja
@@ -147,12 +147,12 @@
 146;niet genoemd
 147;-
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;trek aan touwtje
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;opslokken
@@ -186,7 +186,7 @@
 185;niet genoemd
 186;niet genoemd
 187;ja
-188;ja
+188;nee
 189;nee
 190;ja
 191;-

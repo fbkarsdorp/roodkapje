@@ -15,7 +15,7 @@
 14;ja
 15;nee
 16;grootmoeder
-17;anders
+17;niet genoemd
 18;niet genoemd
 19;grootmoeder
 20;-
@@ -36,12 +36,12 @@
 35;nee
 36;ja
 37;grootmoeder
-38;nee
+38;ja
 39;nee
 40;niet genoemd
 41;ja
 42;ja
-43;moeder
+43;moeder, moe
 44;ja
 45;ja
 46;nee
@@ -62,7 +62,7 @@
 61;niet van toepassing
 62;jager
 63;ja
-64;andere reden
+64;Grootmoeder is ziek
 65;niet genoemd
 66;Roodkapjes moeder
 67;nee
@@ -83,7 +83,7 @@
 82;ja
 83;nee
 84;ja
-85;niet genoemd
+85;ochtend
 86;ja
 87;wijn, wafels
 88;niet genoemd
@@ -93,7 +93,7 @@
 92;nee
 93;nee
 94;niet genoemd
-95;ze ontmoet geen wolf
+95;niet van toepassing
 96;ja
 97;niet genoemd
 98;niet genoemd
@@ -104,7 +104,7 @@
 103;de wolf spreekt Roodkapje aan
 104;ja
 105;ja
-106;ja
+106;nee
 107;nee
 108;ja
 109;nee
@@ -155,7 +155,7 @@
 154;niet genoemd
 155;nee
 156;ja
-157;verslond
+157;verslinden
 158;nee
 159;niet genoemd
 160;nee
@@ -169,7 +169,7 @@
 168;niet genoemd
 169;ja
 170;niet genoemd
-171;onbepaald
+171;bedstee
 172;niet genoemd
 173;nee
 174;ja
@@ -197,19 +197,19 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
 208;-
 209;ja
 210;ja
-211;verslond
+211;verslinden
 212;nee
 213;nee
 214;niet van toepassing
@@ -228,7 +228,7 @@
 227;nee
 228;-
 229;niet van toepassing
-230;binnentrad
+230;binnentreden
 231;niet genoemd
 232;-
 233;nee
@@ -257,9 +257,9 @@
 256;combinatie van personen
 257;niet genoemd
 258;ja
-259;nee
-260;-
-261;niet van toepassing
+259;ja
+260;jachtmes
+261;voordat
 262;nee
 263;ja
 264;put
@@ -288,7 +288,7 @@
 287;nee
 288;nee
 289;ja
-290;ja
+290;nee
 291;nee
 292;nee
 293;nee
@@ -300,3 +300,4 @@
 299;combinatie van personen
 300;nee
 301;nee
+302;nee

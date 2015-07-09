@@ -22,12 +22,12 @@
 21;nee
 22;-
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
-26;ja
+26;nee
 27;ja
-28;nee
-29;nee
+28;ja
+29;ja
 30;nee
 31;-
 32;nee
@@ -85,7 +85,7 @@
 84;ja
 85;niet genoemd
 86;ja
-87;soep, fruit
+87;pannetje soep, fruit
 88;in een mandje
 89;ja
 90;erna
@@ -95,7 +95,7 @@
 94;niet genoemd
 95;niet van toepassing
 96;ja
-97;niet genoemd
+97;op het pad
 98;nee
 99;nee
 100;nee
@@ -121,7 +121,7 @@
 120;wordt niet gedaan
 121;niet genoemd
 122;niet genoemd
-123;niet genoemd
+123;ja
 124;nee
 125;nee
 126;-
@@ -152,10 +152,10 @@
 151;nee
 152;-
 153;nee
-154;nee
+154;niet genoemd
 155;ja
 156;ja
-157;opslokken
+157;naar binnen slokken
 158;nee
 159;niet genoemd
 160;nee
@@ -173,7 +173,7 @@
 172;niet genoemd
 173;nee
 174;ja
-175;niet genoemd
+175;nee
 176;ja
 177;-
 178;niet genoemd
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -209,7 +209,7 @@
 208;-
 209;ja
 210;ja
-211;opslokken
+211;naar binnen slokken
 212;nee
 213;nee
 214;niet van toepassing
@@ -260,7 +260,7 @@
 259;nee
 260;-
 261;niet van toepassing
-262;ja
+262;nee
 263;ja
 264;beek
 265;de stenen in zijn buik

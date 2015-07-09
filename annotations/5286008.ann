@@ -4,7 +4,7 @@
 3;-
 4;nee
 5;-
-6;nee
+6;niet genoemd
 7;-
 8;ja
 9;-
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoe
+37;grootmoe, oma
 38;nee
 39;nee
 40;niet genoemd
@@ -61,32 +61,32 @@
 60;nee
 61;niet van toepassing
 62;jager
-63;nee
+63;ja
 64;niet genoemd
 65;niet genoemd
 66;niet genoemd
 67;nee
 68;niet genoemd
-69;nee
-70;-
+69;ja
+70;moeder
 71;niet genoemd
 72;nee
 73;niet genoemd
 74;nee
 75;niet genoemd
-76;nee
+76;ja
 77;nee
 78;nee
 79;nee
 80;nee
-81;nee
+81;niet genoemd
 82;nee
 83;nee
 84;ja
 85;niet genoemd
-86;niet genoemd
-87;-
-88;niet genoemd
+86;ja
+87;lekkers
+88;in een mandje
 89;ja
 90;ervoor en erna
 91;ja
@@ -100,21 +100,21 @@
 99;niet genoemd
 100;nee
 101;niet genoemd
-102;nee
-103;niet genoemd
+102;ja
+103;de wolf spreekt Roodkapje aan
 104;nee
 105;nee
 106;nee
 107;nee
 108;nee
-109;nee
+109;ja
 110;nee
 111;nee
 112;nee
-113;nee
+113;ja
 114;niet genoemd
 115;niet genoemd
-116;nee
+116;ja
 117;nee
 118;-
 119;-
@@ -122,7 +122,7 @@
 121;niet genoemd
 122;niet genoemd
 123;niet genoemd
-124;nee
+124;ja
 125;nee
 126;-
 127;nee
@@ -143,7 +143,7 @@
 142;ja
 143;nee
 144;ja
-145;nee
+145;niet genoemd
 146;niet genoemd
 147;-
 148;nee
@@ -151,9 +151,9 @@
 150;0
 151;nee
 152;-
-153;nee
-154;nee
-155;ja
+153;niet genoemd
+154;niet genoemd
+155;niet genoemd
 156;ja
 157;opeten
 158;nee
@@ -163,9 +163,9 @@
 162;ja
 163;ja
 164;niet genoemd
-165;ja
+165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -197,12 +197,12 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -250,17 +250,17 @@
 249;jager
 250;-
 251;ja
-252;redder
+252;combinatie van personen
 253;ja
 254;stenen
 255;vóór
-256;niet genoemd
+256;nee
 257;niet genoemd
 258;ja
 259;nee
 260;-
 261;niet van toepassing
-262;ja
+262;nee
 263;ja
 264;waterput
 265;de stenen in zijn buik
@@ -295,7 +295,7 @@
 294;nee
 295;nee
 296;nee
-297;probleem: geen episode voor het weggaan, maar wel in het onderweg zijn staat "en haar moeder had gezegd: Blijf netjes op het pad! "
+297;-
 298;niet van toepassing
 299;combinatie van personen
 300;nee

@@ -41,7 +41,7 @@
 40;niet genoemd
 41;ja
 42;ja
-43;moeder, maatje
+43;moeder, maatje, moes
 44;ja
 45;ja
 46;ja
@@ -69,7 +69,7 @@
 68;niet genoemd
 69;ja
 70;moeder
-71;niet genoemd
+71;ja
 72;nee
 73;niet genoemd
 74;nee
@@ -147,12 +147,12 @@
 146;niet genoemd
 147;-
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;trek aan touwtje
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;opeten
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -175,7 +175,7 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -183,7 +183,7 @@
 182;ja
 183;niet genoemd
 184;ja
-185;niet genoemd
+185;ja
 186;niet genoemd
 187;nee
 188;nee
@@ -209,7 +209,7 @@
 208;-
 209;ja
 210;ja
-211;-
+211;Roodkapje is op
 212;nee
 213;nee
 214;niet van toepassing
@@ -246,25 +246,25 @@
 245;nee
 246;nee
 247;nee
-248;nee
-249;-
+248;ja
+249;vader
 250;-
-251;nee
-252;niet genoemd
+251;ja
+252;redder
 253;nee
 254;-
 255;niet van toepassing
 256;niet van toepassing
 257;niet van toepassing
-258;nee
-259;nee
+258;ja
+259;ja
 260;-
-261;niet van toepassing
+261;voordat
 262;nee
 263;nee
 264;-
 265;niet van toepassing
-266;niet van toepassing
+266;ja
 267;niet van toepassing
 268;nee
 269;-
@@ -279,7 +279,7 @@
 278;-
 279;ja
 280;vader, grootmoeder
-281;ja
+281;niet genoemd
 282;niet genoemd
 283;niet genoemd
 284;niet genoemd

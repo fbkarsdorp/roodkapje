@@ -6,7 +6,7 @@
 5;mensen
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;ja
 22;lief, aardig
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;ja
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, vrouw, oma
 38;ja
 39;nee
 40;niet genoemd
@@ -63,7 +63,7 @@
 62;jager
 63;ja
 64;Grootmoeder is ziek
-65;gerucht
+65;anders
 66;Roodkapjes moeder
 67;nee
 68;niet genoemd
@@ -111,13 +111,13 @@
 110;ja
 111;nee
 112;nee
-113;ja
+113;nee
 114;niet genoemd
 115;niet genoemd
 116;nee
 117;ja
-118;weggetje
-119;pad
+118;langste weg
+119;kortste weg
 120;verteller
 121;er zijn mensen in de buurt
 122;onbepaalde tijd
@@ -145,12 +145,12 @@
 144;ja
 145;ja
 146;niet genoemd
-147;andere stem
+147;anders
 148;ja
 149;tik
 150;3
 151;ja
-152;trek aan touwtje
+152;trek aan het touwtje
 153;nee
 154;nee
 155;nee
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -195,8 +195,8 @@
 194;ja
 195;armen, benen, oren, tanden
 196;nee
-197;nee
-198;niet van toepassing
+197;ja
+198;nee
 199;ja
 200;niet genoemd
 201;ja
@@ -254,7 +254,7 @@
 253;ja
 254;stenen
 255;vóór
-256;niet genoemd
+256;nee
 257;niet genoemd
 258;ja
 259;nee
@@ -296,7 +296,7 @@
 295;nee
 296;nee
 297;-
-298;niet van toepassing
+298;anders
 299;redder
 300;nee
 301;nee

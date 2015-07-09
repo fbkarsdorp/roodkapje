@@ -29,7 +29,7 @@
 28;ja
 29;nee
 30;nee
-31;-
+31;Grote Wolf
 32;ja
 33;nee
 34;niet genoemd
@@ -93,7 +93,7 @@
 92;nee
 93;nee
 94;niet genoemd
-95;ze ontmoet geen wolf
+95;niet van toepassing
 96;ja
 97;niet genoemd
 98;nee
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -299,3 +299,5 @@
 298;niet van toepassing
 299;niet van toepassing
 300;nee
+301;nee
+302;nee

@@ -6,7 +6,7 @@
 5;mensen
 6;ja
 7;Roosje
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;ja
 22;lief, vriendelijk
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;ja
 27;ja
@@ -35,19 +35,19 @@
 34;niet genoemd
 35;nee
 36;ja
-37;Grootmoeder, Grootje
+37;Grootmoeder, Grootje, oudje
 38;nee
 39;nee
 40;niet genoemd
 41;ja
 42;ja
-43;Moeder
+43;Moeder, vrouw
 44;ja
 45;ja
 46;ja
 47;ja
 48;ja
-49;Vader
+49;Vader, houthakker
 50;ja
 51;nee
 52;ja
@@ -117,7 +117,7 @@
 116;nee
 117;ja
 118;-
-119;-
+119;kortste
 120;de wolf
 121;niet genoemd
 122;niet genoemd
@@ -150,9 +150,9 @@
 149;klop
 150;2
 151;ja
-152;trek aan touwtje
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;ophappen
@@ -198,7 +198,7 @@
 197;ja
 198;nee
 199;ja
-200;ja
+200;niet genoemd
 201;ja
 202;schoentjes
 203;nee

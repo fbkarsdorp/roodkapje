@@ -6,7 +6,7 @@
 5;ieder
 6;ja
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;ja
 22;lief
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, grootmoedertje, oude vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -103,9 +103,9 @@
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;ja
-105;ja
+105;nee
 106;nee
-107;ja
+107;nee
 108;nee
 109;ja
 110;nee
@@ -131,7 +131,7 @@
 130;nee
 131;nee
 132;ja
-133;andere locatie
+133;in het bos
 134;nee
 135;nee
 136;niet genoemd
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -175,7 +175,7 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -183,13 +183,13 @@
 182;ja
 183;niet genoemd
 184;niet genoemd
-185;ja
+185;niet genoemd
 186;ja
 187;ja
-188;ja
+188;nee
 189;nee
 190;ja
-191;-
+191;neer
 192;nee
 193;ja
 194;ja
@@ -232,8 +232,8 @@
 231;niet genoemd
 232;-
 233;nee
-234;niet van toepassing
-235;niet van toepassing
+234;nee
+235;nee
 236;ja
 237;nee
 238;nee

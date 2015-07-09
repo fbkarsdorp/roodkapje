@@ -6,7 +6,7 @@
 5;-
 6;nee
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;nee
 22;-
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;ja
@@ -97,7 +97,7 @@
 96;ja
 97;niet genoemd
 98;niet genoemd
-99;niet genoemd
+99;nee
 100;nee
 101;niet genoemd
 102;ja
@@ -147,10 +147,10 @@
 146;niet genoemd
 147;piepstem
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;trek aan haakje
+152;trek aan het haakje
 153;nee
 154;nee
 155;nee
@@ -215,9 +215,9 @@
 214;niet van toepassing
 215;-
 216;nee
-217;ja
-218;schuur
-219;niet genoemd
+217;nee
+218;-
+219;niet van toepassing
 220;ja
 221;eekhoorntjes, muizen
 222;ja
@@ -235,14 +235,14 @@
 234;ja
 235;ja
 236;ja
-237;nee
+237;ja
 238;nee
 239;nee
 240;niet genoemd
 241;ja
 242;niet genoemd
 243;ja
-244;nee
+244;ja
 245;nee
 246;nee
 247;ja

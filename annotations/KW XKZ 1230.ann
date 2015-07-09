@@ -22,7 +22,7 @@
 21;ja
 22;vriendelijk
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude dame
 38;nee
 39;nee
 40;niet genoemd
@@ -111,13 +111,13 @@
 110;ja
 111;nee
 112;nee
-113;ja
+113;nee
 114;niet genoemd
 115;niet genoemd
-116;ja
+116;nee
 117;ja
-118;deze
-119;andere
+118;langste
+119;kortste
 120;verteller
 121;er zijn mensen in de buurt
 122;niet genoemd
@@ -147,12 +147,12 @@
 146;niet genoemd
 147;fijn
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;trek aan ketting
+152;trek aan de ketting
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;nee
 157;-
@@ -175,7 +175,7 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -225,8 +225,8 @@
 224;jager
 225;andere reden
 226;nee
-227;ja
-228;Roodkapje
+227;nee
+228;-
 229;niet van toepassing
 230;-
 231;niet genoemd

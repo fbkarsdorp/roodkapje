@@ -6,7 +6,7 @@
 5;men
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,12 +22,12 @@
 21;ja
 22;aardig, vriendelijk, lief
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
 28;nee
-29;nee
+29;ja
 30;nee
 31;-
 32;nee
@@ -41,7 +41,7 @@
 40;niet genoemd
 41;ja
 42;ja
-43;moeder, Moeder
+43;moeder, Moeder, vrouw
 44;ja
 45;ja
 46;ja
@@ -107,7 +107,7 @@
 106;ja
 107;nee
 108;ja
-109;nee
+109;ja
 110;ja
 111;nee
 112;nee
@@ -147,12 +147,12 @@
 146;niet genoemd
 147;hoog, piepend
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;touwtje
+152;met het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;nee
 157;-
@@ -175,7 +175,7 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -201,10 +201,10 @@
 200;nee
 201;nee
 202;-
-203;ja
-204;NO ANSWER PROVIDED
+203;nee
+204;niet genoemd
 205;-
-206;niet genoemd
+206;nee
 207;nee
 208;-
 209;ja
@@ -227,13 +227,13 @@
 226;nee
 227;nee
 228;-
-229;nee
+229;niet van toepassing
 230;verschijnen
 231;niet genoemd
 232;-
 233;ja
 234;niet genoemd
-235;niet van toepassing
+235;nee
 236;ja
 237;nee
 238;nee
@@ -266,9 +266,9 @@
 265;niet van toepassing
 266;ja
 267;niet van toepassing
-268;nee
-269;-
-270;niet genoemd
+268;ja
+269;warm dek
+270;iemand anders
 271;nee
 272;nee
 273;ja
@@ -288,7 +288,7 @@
 287;nee
 288;nee
 289;ja
-290;nee
+290;ja
 291;nee
 292;nee
 293;ja

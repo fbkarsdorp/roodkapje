@@ -1,6 +1,6 @@
 0;(rijmend) gedicht
 1;alwetende verteller
-2;niet aanwezig
+2;"Er/daar was eens..."
 3;-
 4;nee
 5;-
@@ -18,16 +18,16 @@
 17;anders
 18;niet genoemd
 19;iemand anders
-20;-
+20;zijde
 21;ja
-22;aardig, zoet, dienstvaardig, vlijtig
-23;-
-24;niet genoemd
+22;aardig, zoet, dienstvaardig, vlijtig, hartelijk, beleefd
+23;dartel, onnozel
+24;onbepaald (bv. dreumes)
 25;ja
 26;ja
 27;nee
 28;nee
-29;nee
+29;ja
 30;nee
 31;-
 32;nee
@@ -35,13 +35,13 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoe, grootemoe, oudje, besje
+37;grootmoe, grootemoe, oudje, besje, grootmoeder, vrouwtje, vrouw
 38;nee
 39;nee
 40;niet genoemd
 41;ja
 42;ja
-43;moeder
+43;moeder, moederlief
 44;ja
 45;ja
 46;nee
@@ -79,13 +79,13 @@
 78;nee
 79;nee
 80;nee
-81;niet genoemd
+81;nee
 82;nee
 83;nee
 84;ja
 85;middag
 86;ja
-87;rijstekoek, boter
+87;rijstekoek, koek, boter, suiker
 88;andere manier
 89;ja
 90;erna
@@ -150,12 +150,12 @@
 149;klop
 150;3
 151;ja
-152;touwtje
+152;trek aan het touwtje dan zal de klink overgaan
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
-157;opeten
+157;opeten, scheuren
 158;nee
 159;niet genoemd
 160;nee
@@ -164,16 +164,16 @@
 163;ja
 164;ja
 165;ja
-166;ja
-167;nee
-168;ja
+166;niet genoemd
+167;ja
+168;niet genoemd
 169;ja
 170;ja
-171;niet genoemd
+171;bedstee
 172;niet genoemd
 173;nee
 174;ja
-175;niet genoemd
+175;nee
 176;ja
 177;-
 178;niet genoemd
@@ -189,7 +189,7 @@
 188;ja
 189;nee
 190;ja
-191;-
+191;neer
 192;nee
 193;nee
 194;ja

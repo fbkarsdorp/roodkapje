@@ -20,8 +20,8 @@
 19;grootmoeder
 20;wol
 21;ja
-22;lief, vrolijk, blij
-23;achteloos
+22;lief, vrolijk, blij, aanvallig
+23;achteloosheid
 24;onbepaald (bv. dreumes)
 25;ja
 26;ja
@@ -35,13 +35,13 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoe, grootmoeder
+37;grootmoe, grootmoeder, oude vrouw
 38;nee
 39;nee
 40;niet genoemd
 41;ja
 42;ja
-43;moeder
+43;moeder, Moeder
 44;ja
 45;ja
 46;nee
@@ -74,7 +74,7 @@
 73;niet genoemd
 74;nee
 75;zelfde dag terug
-76;nee
+76;ja
 77;nee
 78;nee
 79;nee
@@ -85,7 +85,7 @@
 84;ja
 85;niet genoemd
 86;ja
-87;room, eieren
+87;kruikje room, verse eieren
 88;in een mandje
 89;ja
 90;ervoor
@@ -93,7 +93,7 @@
 92;nee
 93;nee
 94;niet genoemd
-95;ze ontmoet geen wolf
+95;niet van toepassing
 96;ja
 97;niet genoemd
 98;ja
@@ -141,7 +141,7 @@
 140;nee
 141;ja
 142;ja
-143;niet genoemd
+143;nee
 144;ja
 145;ja
 146;niet genoemd
@@ -150,12 +150,12 @@
 149;-
 150;niet genoemd
 151;ja
-152;touwtje
+152;trek aan het touwtje
 153;nee
 154;nee
 155;nee
 156;ja
-157;verslond
+157;verslinden
 158;nee
 159;niet genoemd
 160;nee
@@ -173,7 +173,7 @@
 172;niet genoemd
 173;nee
 174;ja
-175;nee
+175;niet genoemd
 176;ja
 177;-
 178;niet genoemd
@@ -189,7 +189,7 @@
 188;nee
 189;nee
 190;ja
-191;-
+191;op een bord
 192;nee
 193;nee
 194;ja
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -219,16 +219,16 @@
 218;-
 219;niet van toepassing
 220;ja
-221;houthakkers, Fik
+221;houthakkers
 222;ja
-223;ja
+223;nee
 224;houthakker
 225;niet genoemd
 226;nee
 227;ja
-228;Fik
+228;-
 229;ja
-230;renden
+230;rennen
 231;niet genoemd
 232;-
 233;nee
@@ -291,7 +291,7 @@
 290;ja
 291;nee
 292;nee
-293;nee
+293;ja
 294;nee
 295;nee
 296;nee
@@ -300,3 +300,4 @@
 299;niet van toepassing
 300;ja
 301;nee
+302;nee

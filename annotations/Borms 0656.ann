@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;Grootje, Grootmoeder
+37;Grootje, Grootmoeder, oude vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -93,7 +93,7 @@
 92;nee
 93;ja
 94;niet genoemd
-95;ze ontmoet geen wolf
+95;niet van toepassing
 96;ja
 97;niet genoemd
 98;niet genoemd
@@ -147,7 +147,7 @@
 146;niet genoemd
 147;-
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
 152;trek aan klinkje
@@ -155,7 +155,7 @@
 154;niet genoemd
 155;nee
 156;ja
-157;vermoord
+157;vermoorden
 158;nee
 159;niet genoemd
 160;nee
@@ -175,7 +175,7 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -300,3 +300,4 @@
 299;niet van toepassing
 300;nee
 301;nee
+302;nee

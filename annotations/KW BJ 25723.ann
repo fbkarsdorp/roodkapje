@@ -22,7 +22,7 @@
 21;ja
 22;allerliefst
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;ja
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude vrouw
 38;ja
 39;ja
 40;niet genoemd
@@ -81,7 +81,7 @@
 80;nee
 81;niet genoemd
 82;ja
-83;ja
+83;nee
 84;ja
 85;niet genoemd
 86;ja
@@ -95,7 +95,7 @@
 94;ja
 95;erna
 96;ja
-97;niet genoemd
+97;op het pad
 98;nee
 99;nee
 100;ja
@@ -118,10 +118,10 @@
 117;nee
 118;-
 119;-
-120;NO ANSWER PROVIDED
+120;de wolf
 121;andere reden
 122;bepaalde tijd
-123;ja
+123;niet genoemd
 124;nee
 125;nee
 126;-
@@ -138,7 +138,7 @@
 137;nee
 138;-
 139;-
-140;nee
+140;ja
 141;ja
 142;ja
 143;nee
@@ -150,7 +150,7 @@
 149;-
 150;niet genoemd
 151;ja
-152;klink
+152;druk op de klink
 153;nee
 154;nee
 155;nee
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -254,7 +254,7 @@
 253;ja
 254;stenen
 255;vóór
-256;niet genoemd
+256;nee
 257;niet genoemd
 258;ja
 259;nee
@@ -266,7 +266,7 @@
 265;niet van toepassing
 266;ja
 267;niet van toepassing
-268;nee
+268;ja
 269;-
 270;niet genoemd
 271;nee
@@ -288,7 +288,7 @@
 287;nee
 288;nee
 289;ja
-290;ja
+290;nee
 291;nee
 292;nee
 293;nee

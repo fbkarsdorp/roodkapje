@@ -6,7 +6,7 @@
 5;iedereen
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;ja
 22;lief
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;ja
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -83,7 +83,7 @@
 82;ja
 83;nee
 84;ja
-85;niet genoemd
+85;ochtend
 86;ja
 87;fles wijn, koeken
 88;in een mandje
@@ -127,7 +127,7 @@
 126;-
 127;nee
 128;niet van toepassing
-129;nee
+129;ja
 130;nee
 131;nee
 132;ja
@@ -147,7 +147,7 @@
 146;niet genoemd
 147;verdraaid
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
 152;til deurklink op
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -254,7 +254,7 @@
 253;ja
 254;stenen
 255;vóór
-256;Roodkapje
+256;combinatie van personen
 257;niet genoemd
 258;ja
 259;nee
@@ -297,7 +297,7 @@
 296;nee
 297;-
 298;niet van toepassing
-299;Roodkapje
+299;combinatie van personen
 300;nee
 301;nee
 302;nee

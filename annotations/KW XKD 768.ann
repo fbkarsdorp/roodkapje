@@ -98,7 +98,7 @@
 97;niet genoemd
 98;niet genoemd
 99;niet genoemd
-100;ja
+100;nee
 101;niet genoemd
 102;ja
 103;de wolf spreekt Roodkapje aan
@@ -107,7 +107,7 @@
 106;nee
 107;nee
 108;nee
-109;ja
+109;nee
 110;nee
 111;nee
 112;nee
@@ -165,10 +165,10 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
-170;ja
+170;niet genoemd
 171;niet genoemd
 172;niet genoemd
 173;nee
@@ -258,7 +258,7 @@
 257;niet van toepassing
 258;ja
 259;ja
-260;-
+260;schiettuig (impliciet)
 261;voordat
 262;nee
 263;nee

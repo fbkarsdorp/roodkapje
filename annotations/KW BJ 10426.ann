@@ -1,10 +1,10 @@
 0;verhaal
 1;alwetende verteller
-2;andere openingsformule
+2;niet aanwezig
 3;lente
 4;nee
 5;-
-6;nee
+6;niet genoemd
 7;-
 8;nee
 9;-
@@ -19,10 +19,10 @@
 18;niet genoemd
 19;niet genoemd
 20;-
-21;nee
-22;-
+21;ja
+22;flink
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;ja
@@ -39,9 +39,9 @@
 38;nee
 39;nee
 40;niet genoemd
-41;nee
-42;nee
-43;-
+41;ja
+42;ja
+43;moeke
 44;nee
 45;nee
 46;nee
@@ -96,10 +96,10 @@
 95;niet van toepassing
 96;ja
 97;niet genoemd
-98;nee
+98;niet genoemd
 99;niet genoemd
 100;nee
-101;nee
+101;niet genoemd
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;nee
@@ -153,7 +153,7 @@
 152;-
 153;niet genoemd
 154;niet genoemd
-155;ja
+155;niet genoemd
 156;nee
 157;-
 158;niet van toepassing
@@ -165,15 +165,15 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
-170;nee
+170;niet genoemd
 171;niet genoemd
 172;niet genoemd
 173;nee
 174;ja
-175;nee
+175;niet genoemd
 176;ja
 177;tok
 178;2
@@ -199,12 +199,12 @@
 198;niet van toepassing
 199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
-203;ja
+203;nee
 204;niet genoemd
 205;-
-206;niet genoemd
+206;nee
 207;nee
 208;-
 209;ja
@@ -229,12 +229,12 @@
 228;-
 229;niet van toepassing
 230;-
-231;ja
+231;niet genoemd
 232;wreed dier
 233;niet genoemd
 234;niet genoemd
 235;nee
-236;nee
+236;ja
 237;nee
 238;nee
 239;nee
@@ -258,8 +258,8 @@
 257;niet van toepassing
 258;ja
 259;ja
-260;vuurwapen
-261;NO ANSWER PROVIDED
+260;schiettuig (impliciet)
+261;voordat
 262;nee
 263;nee
 264;-
@@ -295,7 +295,7 @@
 294;nee
 295;nee
 296;nee
-297;Is die een beeldverhaal voor kinderen? 110. Impliciet wel / 173. Kruipt in bed. / 208. Niet duidelijk / 266. Het doodschieten _is_ de redding.
+297;-
 298;niet van toepassing
 299;niet van toepassing
 300;nee

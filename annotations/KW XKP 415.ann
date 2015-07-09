@@ -101,8 +101,8 @@
 100;nee
 101;niet genoemd
 102;ja
-103;de wolf spreekt Roodkapje aan
-104;NO ANSWER PROVIDED
+103;niet genoemd
+104;niet genoemd
 105;nee
 106;nee
 107;nee
@@ -131,7 +131,7 @@
 130;nee
 131;nee
 132;ja
-133; in het (volgende) dorp
+133;in het bos
 134;nee
 135;nee
 136;niet genoemd
@@ -155,7 +155,7 @@
 154;nee
 155;ja
 156;ja
-157;opslokken
+157;naar binnen slokken
 158;nee
 159;niet genoemd
 160;nee
@@ -165,7 +165,7 @@
 164;niet genoemd
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -178,7 +178,7 @@
 177;-
 178;0
 179;nee
-180;ja
+180;nee
 181;niet genoemd
 182;nee
 183;niet genoemd
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -249,14 +249,14 @@
 248;ja
 249;jager
 250;mes
-251;nee
-252;niet genoemd
+251;ja
+252;redder
 253;nee
 254;-
 255;niet van toepassing
 256;niet van toepassing
 257;niet van toepassing
-258;nee
+258;niet genoemd (ook niet impliciet)
 259;nee
 260;-
 261;niet van toepassing
@@ -264,8 +264,8 @@
 263;nee
 264;-
 265;niet van toepassing
-266;niet van toepassing
-267;niet van toepassing
+266;nee
+267;nee
 268;nee
 269;-
 270;niet genoemd
@@ -295,7 +295,7 @@
 294;nee
 295;nee
 296;nee
-297;2 problemen 1. geen beginscene, maar Roodkapje zegt wel, in antwoord op de wolf: Ik ga naar oma, ze is ziek. 2.  Spreekt de wolf Roodkapje aan met haar naam? Ook al eerder, indirecte reden, dus niet genoemd eigenlijk...
+297;-
 298;niet van toepassing
 299;niet van toepassing
 300;nee

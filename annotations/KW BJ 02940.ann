@@ -1,10 +1,10 @@
 0;verhaal
 1;alwetende verteller
 2;"Er/daar was eens..."
-3;voorjaar
+3;lente
 4;ja
-5;meester (schoolmeester)
-6;niet genoemd
+5;meester
+6;ja
 7;-
 8;nee
 9;-
@@ -16,18 +16,18 @@
 15;nee
 16;grootmoeder
 17;niet genoemd
-18;onbepaald (bv. toen ze klein was)
+18;niet genoemd
 19;grootmoeder
 20;-
 21;ja
-22;lief, vrolijk
-23;-
+22;lief, verstandig
+23;ongehoorzaam
 24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;ja
 28;nee
-29;nee
+29;ja
 30;ja
 31;-
 32;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude vrouw
 38;ja
 39;nee
 40;moeder
@@ -69,7 +69,7 @@
 68;ja
 69;ja
 70;moeder
-71;niet genoemd
+71;ja
 72;ja
 73;niet genoemd
 74;nee
@@ -80,7 +80,7 @@
 79;nee
 80;nee
 81;ja
-82;nee
+82;ja
 83;nee
 84;ja
 85;middag
@@ -98,8 +98,8 @@
 97;op het pad
 98;nee
 99;nee
-100;nee
-101;nee
+100;ja
+101;niet genoemd
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;nee
@@ -107,7 +107,7 @@
 106;nee
 107;nee
 108;ja
-109;nee
+109;ja
 110;ja
 111;nee
 112;ja
@@ -119,7 +119,7 @@
 118;-
 119;-
 120;verteller
-121;andere reden
+121;Roodkapje is niet genoeg
 122;niet genoemd
 123;niet genoemd
 124;nee
@@ -140,24 +140,24 @@
 139;-
 140;nee
 141;ja
-142;nee
-143;niet genoemd
+142;ja
+143;nee
 144;ja
 145;ja
 146;niet genoemd
-147;liefste stemmetje
+147;liefste
 148;ja
 149;-
 150;niet genoemd
 151;ja
-152;trekken aan touw waardoor binnen grendel van de deur gaat
+152;trek aan het touwtje
 153;ja
 154;niet genoemd
 155;nee
 156;ja
 157;verslinden
 158;ja
-159;nee
+159;niet genoemd
 160;nee
 161;nee
 162;ja
@@ -180,7 +180,7 @@
 179;nee
 180;ja
 181;niet genoemd
-182;ja
+182;nee
 183;niet genoemd
 184;niet genoemd
 185;ja
@@ -189,7 +189,7 @@
 188;nee
 189;nee
 190;ja
-191;mandje op de grond, bloemen op tafel
+191;grond, tafel
 192;nee
 193;nee
 194;ja
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -216,10 +216,10 @@
 215;-
 216;ja
 217;ja
-218;bed grootmoeder
+218;bed
 219;ja
 220;ja
-221;de jager
+221;jager
 222;nee
 223;ja
 224;jager
@@ -229,25 +229,25 @@
 228;-
 229;niet van toepassing
 230;-
-231;ja
-232;wolf
+231;niet genoemd
+232;-
 233;ja
 234;ja
 235;ja
 236;ja
 237;ja
-238;ja
+238;nee
 239;nee
-240;niet genoemd
+240;ja
 241;nee
 242;niet genoemd
 243;ja
 244;ja
-245;ja
+245;nee
 246;nee
 247;nee
 248;ja
-249;de jager
+249;jager
 250;jagersmes
 251;ja
 252;redder
@@ -278,7 +278,7 @@
 277;-
 278;-
 279;ja
-280;de jager
+280;jager
 281;ja
 282;ja
 283;niet genoemd
@@ -295,7 +295,7 @@
 294;ja
 295;nee
 296;ja
-297;Grootmoeder vertelt over R.'s ongehoorzaamheid. In 2e episode bedenkt grootmoeder list om wolf te vangen, die verdrinkt in trog, wordt gevild en van huid krijgt R. en jasje.
+297;-
 298;niet van toepassing
 299;redder
 300;nee

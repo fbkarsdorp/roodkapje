@@ -3,7 +3,7 @@
 2;"Er/daar was eens..."
 3;-
 4;ja
-5;Grootmoeder
+5;Grootmoeder, iedereen
 6;niet genoemd
 7;-
 8;nee
@@ -15,7 +15,7 @@
 14;ja
 15;ja
 16;grootmoeder
-17;niet genoemd
+17;omdat Oma zoveel van haar houdt
 18;niet genoemd
 19;grootmoeder
 20;-
@@ -118,11 +118,11 @@
 117;nee
 118;-
 119;-
-120;de wolf
+120;verteller
 121;niet genoemd
 122;niet genoemd
 123;niet genoemd
-124;ja
+124;nee
 125;nee
 126;-
 127;nee
@@ -141,7 +141,7 @@
 140;nee
 141;ja
 142;ja
-143;niet genoemd
+143;nee
 144;ja
 145;nee
 146;niet genoemd
@@ -152,7 +152,7 @@
 151;nee
 152;-
 153;nee
-154;nee
+154;niet genoemd
 155;ja
 156;nee
 157;-
@@ -167,12 +167,12 @@
 166;niet genoemd
 167;nee
 168;niet genoemd
-169;niet genoemd
+169;ja
 170;niet genoemd
-171;niet genoemd
+171;bedstee
 172;niet genoemd
 173;nee
-174;nee
+174;ja
 175;niet genoemd
 176;nee
 177;-
@@ -183,7 +183,7 @@
 182;nee
 183;niet genoemd
 184;niet genoemd
-185;niet genoemd
+185;ja
 186;niet genoemd
 187;nee
 188;nee
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -233,14 +233,14 @@
 232;-
 233;niet genoemd
 234;niet genoemd
-235;niet van toepassing
-236;niet van toepassing
+235;nee
+236;ja
 237;nee
 238;nee
 239;nee
 240;niet genoemd
 241;nee
-242;niet genoemd
+242;ja
 243;ja
 244;nee
 245;nee
@@ -259,13 +259,13 @@
 258;ja
 259;ja
 260;bijl
-261;niet van toepassing
+261;voordat
 262;nee
 263;nee
 264;-
 265;niet van toepassing
-266;ja
-267;niet van toepassing
+266;nee
+267;ja
 268;nee
 269;-
 270;niet genoemd
@@ -295,7 +295,7 @@
 294;nee
 295;nee
 296;nee
-297;163 andere lokatie gekozen, maar is onbepaald
+297;-
 298;niet van toepassing
 299;niet van toepassing
 300;ja

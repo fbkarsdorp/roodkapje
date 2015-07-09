@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oma
 38;nee
 39;nee
 40;niet genoemd
@@ -141,9 +141,9 @@
 140;nee
 141;ja
 142;ja
-143;niet genoemd
+143;nee
 144;ja
-145;nee
+145;niet genoemd
 146;niet genoemd
 147;-
 148;nee
@@ -151,9 +151,9 @@
 150;0
 151;nee
 152;-
-153;nee
-154;nee
-155;ja
+153;niet genoemd
+154;niet genoemd
+155;niet genoemd
 156;ja
 157;opvreten
 158;nee
@@ -191,10 +191,10 @@
 190;ja
 191;-
 192;nee
-193;nee
+193;ja
 194;ja
 195;mond
-196;ja
+196;nee
 197;nee
 198;niet van toepassing
 199;niet genoemd

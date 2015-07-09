@@ -6,7 +6,7 @@
 5;iedereen
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,11 +22,11 @@
 21;ja
 22;leuk, vrolijk
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
-28;nee
+28;ja
 29;nee
 30;nee
 31;-
@@ -152,10 +152,10 @@
 151;nee
 152;-
 153;nee
-154;nee
+154;niet genoemd
 155;ja
 156;ja
-157;slokken
+157;naar binnen slokken
 158;nee
 159;niet genoemd
 160;nee
@@ -175,7 +175,7 @@
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
@@ -209,7 +209,7 @@
 208;-
 209;ja
 210;ja
-211;slokken
+211;naar binnen slokken
 212;nee
 213;nee
 214;niet van toepassing
@@ -228,7 +228,7 @@
 227;nee
 228;-
 229;niet van toepassing
-230;binnenklimmen
+230;naar binnen klimmen
 231;niet genoemd
 232;-
 233;nee

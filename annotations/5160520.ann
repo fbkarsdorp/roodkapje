@@ -26,7 +26,7 @@
 25;ja
 26;nee
 27;ja
-28;nee
+28;ja
 29;ja
 30;nee
 31;-
@@ -85,7 +85,7 @@
 84;ja
 85;niet genoemd
 86;ja
-87;sinaasappels, fles bessensap
+87;koeken, sinaasappels, fles bessensap
 88;in een mandje
 89;ja
 90;ervoor
@@ -297,3 +297,7 @@
 296;nee
 297;Wat neemt Roodkapje mee voor Grootmoeder? + koeken; Wordt de wolf aangeduid als "grote (boze) wolf"?: ja!
 298;niet van toepassing
+299;niet van toepassing
+300;nee
+301;nee
+302;nee

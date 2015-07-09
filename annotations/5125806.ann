@@ -107,7 +107,7 @@
 106;nee
 107;nee
 108;nee
-109;ja
+109;nee
 110;nee
 111;nee
 112;nee
@@ -151,7 +151,7 @@
 150;0
 151;nee
 152;-
-153;niet genoemd
+153;nee
 154;niet genoemd
 155;ja
 156;ja
@@ -183,8 +183,8 @@
 182;nee
 183;niet genoemd
 184;niet genoemd
-185;ja
-186;nee
+185;niet genoemd
+186;niet genoemd
 187;nee
 188;nee
 189;nee
@@ -197,9 +197,9 @@
 196;niet van toepassing
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -249,14 +249,14 @@
 248;ja
 249;houthakker
 250;-
-251;nee
-252;niet genoemd
+251;ja
+252;redder
 253;nee
 254;-
 255;niet van toepassing
 256;niet van toepassing
 257;niet van toepassing
-258;nee
+258;niet genoemd (ook niet impliciet)
 259;nee
 260;-
 261;niet van toepassing
@@ -264,18 +264,18 @@
 263;nee
 264;-
 265;niet van toepassing
-266;niet van toepassing
-267;niet van toepassing
+266;nee
+267;nee
 268;nee
 269;-
 270;niet genoemd
 271;nee
 272;niet van toepassing
-273;niet genoemd
-274;niet van toepassing
+273;ja
+274;nadat
 275;-
 276;-
-277;-
+277;wafeltje
 278;-
 279;nee
 280;-

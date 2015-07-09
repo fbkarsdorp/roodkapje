@@ -35,13 +35,13 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder, grootmoe
+37;grootmoeder, grootmoe, oude vrouw, vrouw
 38;nee
 39;nee
 40;niet genoemd
 41;ja
 42;ja
-43;moeder, Moe
+43;moeder, Moe, vrouw
 44;ja
 45;ja
 46;nee
@@ -69,7 +69,7 @@
 68;niet genoemd
 69;ja
 70;moeder
-71;niet genoemd
+71;ja
 72;ja
 73;niet genoemd
 74;nee
@@ -150,9 +150,9 @@
 149;-
 150;niet genoemd
 151;ja
-152;trek aan touwtje
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;scheuren, opeten
@@ -165,21 +165,21 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
 171;niet genoemd
 172;niet genoemd
-173;nee
+173;ja
 174;ja
 175;nee
 176;ja
-177;klop
+177;-
 178;niet genoemd
 179;nee
 180;ja
-181;ja
+181;niet genoemd
 182;ja
 183;niet genoemd
 184;niet genoemd

@@ -4,7 +4,7 @@
 3;-
 4;ja
 5;iedereen
-6;nee
+6;niet genoemd
 7;-
 8;nee
 9;-
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -106,9 +106,9 @@
 105;nee
 106;nee
 107;nee
-108;ja
-109;nee
-110;ja
+108;nee
+109;ja
+110;nee
 111;nee
 112;nee
 113;nee
@@ -143,7 +143,7 @@
 142;ja
 143;nee
 144;ja
-145;nee
+145;niet genoemd
 146;niet genoemd
 147;-
 148;nee
@@ -151,11 +151,11 @@
 150;0
 151;nee
 152;-
-153;nee
-154;nee
-155;ja
+153;niet genoemd
+154;niet genoemd
+155;niet genoemd
 156;ja
-157;naar binnenslikken
+157;naar binnen slikken
 158;nee
 159;niet genoemd
 160;nee
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -197,12 +197,12 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -228,12 +228,12 @@
 227;nee
 228;-
 229;niet van toepassing
-230;stappen
+230;naar binnen stappen
 231;ja
 232;-
 233;nee
 234;ja
-235;nee
+235;niet genoemd
 236;ja
 237;ja
 238;nee

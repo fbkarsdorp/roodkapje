@@ -6,7 +6,7 @@
 5;mensen
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder, oudje
+37;grootmoeder, oudje, grootmoedertje, grootje, oude vrouw
 38;ja
 39;nee
 40;niet genoemd
@@ -83,7 +83,7 @@
 82;ja
 83;nee
 84;ja
-85;ochtend
+85;niet genoemd
 86;ja
 87;potje boter, wafeltjes
 88;onder haar schortje
@@ -114,7 +114,7 @@
 113;ja
 114;ja
 115;ja
-116;ja
+116;nee
 117;nee
 118;-
 119;-
@@ -147,10 +147,10 @@
 146;niet genoemd
 147;-
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;trek aan touwtjes
+152;trek aan touwtje
 153;nee
 154;nee
 155;nee
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;ja
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -233,7 +233,7 @@
 232;deugniet
 233;nee
 234;ja
-235;nee
+235;niet genoemd
 236;ja
 237;ja
 238;nee
@@ -254,7 +254,7 @@
 253;ja
 254;stenen
 255;vóór
-256;niet genoemd
+256;nee
 257;niet genoemd
 258;ja
 259;nee
@@ -288,7 +288,7 @@
 287;nee
 288;nee
 289;ja
-290;nee
+290;ja
 291;ja
 292;nee
 293;nee

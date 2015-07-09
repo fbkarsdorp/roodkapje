@@ -27,7 +27,7 @@
 26;nee
 27;nee
 28;ja
-29;nee
+29;ja
 30;nee
 31;-
 32;nee
@@ -60,7 +60,7 @@
 59;niet van toepassing
 60;nee
 61;niet van toepassing
-62;de jager
+62;jager
 63;ja
 64;Grootmoeder is ziek
 65;niet genoemd
@@ -73,7 +73,7 @@
 72;nee
 73;niet genoemd
 74;nee
-75;niet genoemd
+75;zelfde dag terug
 76;nee
 77;nee
 78;nee
@@ -85,7 +85,7 @@
 84;ja
 85;niet genoemd
 86;ja
-87;-
+87;lekkere hapjes
 88;in een mandje
 89;niet genoemd
 90;niet van toepassing
@@ -101,13 +101,13 @@
 100;nee
 101;niet genoemd
 102;ja
-103;de wolf spreekt Roodkapje aan
-104;nee
+103;niet genoemd
+104;niet genoemd
 105;nee
 106;nee
 107;nee
 108;nee
-109;ja
+109;nee
 110;nee
 111;nee
 112;nee
@@ -153,11 +153,11 @@
 152;-
 153;nee
 154;niet genoemd
-155;niet genoemd
+155;ja
 156;ja
-157;hap
+157;opeten
 158;nee
-159;ja
+159;niet genoemd
 160;nee
 161;nee
 162;ja
@@ -165,13 +165,13 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
 171;niet genoemd
 172;niet genoemd
-173;niet genoemd
+173;nee
 174;ja
 175;niet genoemd
 176;ja
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -219,7 +219,7 @@
 218;-
 219;niet van toepassing
 220;ja
-221;een jager
+221;jager
 222;nee
 223;nee
 224;jager
@@ -258,7 +258,7 @@
 257;niet van toepassing
 258;ja
 259;ja
-260;geweer
+260;schiettuig (impliciet)
 261;voordat
 262;nee
 263;nee
@@ -284,7 +284,7 @@
 283;niet genoemd
 284;niet genoemd
 285;niet genoemd
-286;ja
+286;niet genoemd
 287;nee
 288;nee
 289;nee

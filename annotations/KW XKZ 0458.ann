@@ -27,7 +27,7 @@
 26;nee
 27;nee
 28;ja
-29;nee
+29;ja
 30;nee
 31;-
 32;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;Grootmoeder, Grootmoe
+37;Grootmoeder, Grootmoe, oude vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -147,7 +147,7 @@
 146;niet genoemd
 147;-
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;nee
 152;-
@@ -202,7 +202,7 @@
 201;nee
 202;-
 203;nee
-204;nee
+204;niet genoemd
 205;-
 206;nee
 207;nee
@@ -228,8 +228,8 @@
 227;nee
 228;-
 229;niet van toepassing
-230;-
-231;ja
+230;komen
+231;niet genoemd
 232;-
 233;nee
 234;ja

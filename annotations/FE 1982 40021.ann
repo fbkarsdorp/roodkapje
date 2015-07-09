@@ -11,9 +11,9 @@
 10;-
 11;nee
 12;niet genoemd
-13;nee
-14;nee
-15;nee
+13;ja
+14;ja
+15;ja
 16;niet genoemd
 17;niet genoemd
 18;niet genoemd
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoe, grootmoeder
+37;grootmoe, grootmoeder, schriel scharminkel
 38;nee
 39;nee
 40;niet genoemd
@@ -147,12 +147,12 @@
 146;niet genoemd
 147;-
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;nee
 152;-
 153;ja
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;opvreten
@@ -165,7 +165,7 @@
 164;ja
 165;ja
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;nee
 170;niet genoemd
@@ -230,7 +230,7 @@
 229;niet van toepassing
 230;-
 231;niet genoemd
-232;-
+232;grootmoe
 233;nee
 234;niet genoemd
 235;niet van toepassing

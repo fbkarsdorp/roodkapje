@@ -22,7 +22,7 @@
 21;ja
 22;lief, gehoorzaam
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;ja
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude vrouw, grootmoedertje
 38;nee
 39;nee
 40;niet genoemd
@@ -63,7 +63,7 @@
 62;jager
 63;ja
 64;Grootmoeder is jarig
-65;niet genoemd
+65;anders
 66;Roodkapjes moeder
 67;nee
 68;niet genoemd
@@ -85,7 +85,7 @@
 84;ja
 85;ochtend
 86;ja
-87;wafelen, wijn
+87;wafelen, fles wijn, potje boter
 88;in een mandje
 89;ja
 90;erna
@@ -95,7 +95,7 @@
 94;ja
 95;erna
 96;ja
-97;niet genoemd
+97;op het pad
 98;nee
 99;nee
 100;ja
@@ -107,7 +107,7 @@
 106;nee
 107;nee
 108;ja
-109;nee
+109;ja
 110;ja
 111;nee
 112;nee
@@ -150,9 +150,9 @@
 149;-
 150;niet genoemd
 151;ja
-152;deurknop
+152;druk op de deurknop
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;opslokken
@@ -163,7 +163,7 @@
 162;ja
 163;ja
 164;niet genoemd
-165;ja
+165;niet genoemd
 166;niet genoemd
 167;ja
 168;niet genoemd
@@ -197,7 +197,7 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
 201;nee
 202;-
@@ -209,7 +209,7 @@
 208;-
 209;ja
 210;ja
-211;-
+211;naar binnen hebben
 212;nee
 213;nee
 214;niet van toepassing
@@ -228,11 +228,11 @@
 227;nee
 228;-
 229;niet van toepassing
-230;gaan
+230;naar binnen gaan
 231;niet genoemd
 232;-
 233;nee
-234;ja
+234;niet genoemd
 235;niet genoemd
 236;ja
 237;ja
@@ -284,7 +284,7 @@
 283;niet genoemd
 284;ja
 285;niet genoemd
-286;ja
+286;niet genoemd
 287;nee
 288;nee
 289;nee

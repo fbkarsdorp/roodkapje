@@ -19,10 +19,10 @@
 18;niet genoemd
 19;niet genoemd
 20;fluweel
-21;nee
-22;-
+21;ja
+22;flink
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;Grootmoeder
+37;Grootmoeder, oude vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -69,7 +69,7 @@
 68;niet genoemd
 69;ja
 70;moeder
-71;niet genoemd
+71;ja
 72;nee
 73;niet genoemd
 74;nee
@@ -107,9 +107,9 @@
 106;nee
 107;nee
 108;ja
-109;nee
+109;ja
 110;ja
-111;nee
+111;ja
 112;nee
 113;nee
 114;niet genoemd
@@ -147,15 +147,15 @@
 146;niet genoemd
 147;zacht
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;trek aan touwtje
+152;trek aan het touwtje
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
-157;binnenhappen
+157;naar binnen happen
 158;nee
 159;niet genoemd
 160;nee
@@ -227,7 +227,7 @@
 226;ja
 227;nee
 228;-
-229;niet van toepassing
+229;nee
 230;binnengaan
 231;niet genoemd
 232;wreedaardig beest

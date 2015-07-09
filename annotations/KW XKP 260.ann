@@ -101,14 +101,14 @@
 100;nee
 101;niet genoemd
 102;ja
-103; Roodkapje spreekt de wolf aan
-104;nee
+103;niet genoemd
+104;niet genoemd
 105;ja
 106;nee
 107;nee
 108;ja
 109;nee
-110;ja
+110;nee
 111;nee
 112;nee
 113;ja
@@ -143,7 +143,7 @@
 142;ja
 143;nee
 144;ja
-145;nee
+145;niet genoemd
 146;niet genoemd
 147;-
 148;nee
@@ -151,9 +151,9 @@
 150;0
 151;nee
 152;-
-153;nee
-154;nee
-155;ja
+153;niet genoemd
+154;niet genoemd
+155;niet genoemd
 156;ja
 157;opeten
 158;nee
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -231,7 +231,7 @@
 230;-
 231;niet genoemd
 232;-
-233;niet genoemd
+233;nee
 234;niet genoemd
 235;niet genoemd
 236;ja
@@ -249,14 +249,14 @@
 248;ja
 249;jager
 250;mes
-251;nee
-252;niet genoemd
+251;ja
+252;redder
 253;nee
 254;-
 255;niet van toepassing
 256;niet van toepassing
 257;niet van toepassing
-258;nee
+258;niet genoemd (ook niet impliciet)
 259;nee
 260;-
 261;niet van toepassing
@@ -264,8 +264,8 @@
 263;nee
 264;-
 265;niet van toepassing
-266;niet van toepassing
-267;niet van toepassing
+266;nee
+267;nee
 268;nee
 269;-
 270;niet genoemd

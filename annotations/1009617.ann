@@ -6,7 +6,7 @@
 5;-
 6;niet genoemd
 7;-
-8;ja
+8;nee
 9;-
 10;-
 11;nee
@@ -22,7 +22,7 @@
 21;ja
 22;lief
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;ja
@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude vrouw
 38;ja
 39;ja
 40;niet genoemd
@@ -83,7 +83,7 @@
 82;ja
 83;nee
 84;ja
-85;niet genoemd
+85;ochtend
 86;ja
 87;koek, fles wijn
 88;in een mandje
@@ -99,7 +99,7 @@
 98;nee
 99;nee
 100;ja
-101;nee
+101;niet genoemd
 102;ja
 103;de wolf spreekt Roodkapje aan
 104;ja
@@ -114,7 +114,7 @@
 113;ja
 114;ja
 115;ja
-116;ja
+116;nee
 117;nee
 118;-
 119;-
@@ -147,12 +147,12 @@
 146;niet genoemd
 147;-
 148;ja
-149;klop
+149;-
 150;niet genoemd
 151;ja
-152;druk op klink
+152;druk op de klink
 153;nee
-154;nee
+154;niet genoemd
 155;nee
 156;ja
 157;opslokken
@@ -165,7 +165,7 @@
 164;ja
 165;niet genoemd
 166;niet genoemd
-167;nee
+167;ja
 168;niet genoemd
 169;ja
 170;niet genoemd
@@ -182,7 +182,7 @@
 181;niet genoemd
 182;nee
 183;niet genoemd
-184;niet genoemd
+184;ja
 185;niet genoemd
 186;niet genoemd
 187;nee
@@ -227,7 +227,7 @@
 226;ja
 227;nee
 228;-
-229;niet van toepassing
+229;nee
 230;binnengaan
 231;ja
 232;ouwe boosdoener
@@ -254,7 +254,7 @@
 253;ja
 254;stenen
 255;vóór
-256;niet genoemd
+256;nee
 257;niet genoemd
 258;ja
 259;nee
@@ -270,7 +270,7 @@
 269;-
 270;niet genoemd
 271;nee
-272;niet van toepassing
+272;nee
 273;ja
 274;nadat
 275;-

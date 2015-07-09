@@ -3,7 +3,7 @@
 2;"Er/daar was eens..."
 3;-
 4;ja
-5;-
+5;iedereen
 6;niet genoemd
 7;-
 8;nee
@@ -22,12 +22,12 @@
 21;ja
 22;lief
 23;-
-24;niet genoemd
+24;onbepaald (bv. dreumes)
 25;ja
 26;nee
 27;nee
 28;nee
-29;nee
+29;ja
 30;nee
 31;-
 32;nee
@@ -35,13 +35,13 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oma
 38;nee
 39;nee
 40;niet genoemd
 41;ja
 42;ja
-43;mam
+43;mam, moeder
 44;ja
 45;ja
 46;nee
@@ -60,7 +60,7 @@
 59;niet van toepassing
 60;nee
 61;niet van toepassing
-62;konijntjes, egeltjes, jager
+62;jager
 63;ja
 64;Grootmoeder is ziek
 65;niet genoemd
@@ -103,7 +103,7 @@
 102;ja
 103; Roodkapje spreekt de wolf aan
 104;nee
-105;nee
+105;ja
 106;nee
 107;nee
 108;ja
@@ -127,7 +127,7 @@
 126;-
 127;nee
 128;niet van toepassing
-129;ja
+129;nee
 130;nee
 131;nee
 132;ja
@@ -150,7 +150,7 @@
 149;-
 150;niet genoemd
 151;ja
-152;touwtje trekken
+152;trek aan het touwtje
 153;nee
 154;niet genoemd
 155;nee
@@ -165,13 +165,13 @@
 164;ja
 165;ja
 166;niet genoemd
-167;NO ANSWER PROVIDED
-168;ja
+167;ja
+168;niet genoemd
 169;ja
 170;ja
 171;niet genoemd
 172;niet genoemd
-173;niet genoemd
+173;nee
 174;ja
 175;ja
 176;nee
@@ -187,7 +187,7 @@
 186;niet genoemd
 187;ja
 188;nee
-189;niet genoemd
+189;nee
 190;ja
 191;-
 192;nee
@@ -197,9 +197,9 @@
 196;nee
 197;nee
 198;niet van toepassing
-199;niet genoemd
+199;nee
 200;nee
-201;niet genoemd
+201;nee
 202;-
 203;nee
 204;niet genoemd
@@ -219,7 +219,7 @@
 218;bed
 219;ja
 220;ja
-221;een jager
+221;jager
 222;nee
 223;nee
 224;jager
@@ -230,9 +230,9 @@
 229;niet van toepassing
 230;-
 231;ja
-232;gemene, boze wolf
-233;niet genoemd
-234;niet genoemd
+232;gemene boze wolf
+233;nee
+234;ja
 235;niet genoemd
 236;ja
 237;ja
@@ -240,17 +240,17 @@
 239;nee
 240;niet genoemd
 241;nee
-242;niet genoemd
+242;ja
 243;ja
 244;ja
 245;ja
 246;ja
 247;nee
 248;ja
-249;de jager
+249;jager
 250;mes
 251;ja
-252;redder
+252;combinatie van personen
 253;ja
 254;stenen
 255;vóór
@@ -273,9 +273,9 @@
 272;niet van toepassing
 273;ja
 274;nadat
-275;glaasje sap, koekjes
+275;koekjes
 276;glaasje sap, koekjes
-277;glaasje sap, koekjes
+277;koekjes
 278;-
 279;nee
 280;-
@@ -295,7 +295,7 @@
 294;nee
 295;nee
 296;nee
-297;wolf zegt van zichzelf dat hij geen boze wolf is, maar een lieve; trekt een nachthemd aan, zet de slaapmuts op; R. vindt het gek dat de deur open staat; de wolf heeft dorst
+297;-
 298;niet van toepassing
 299;combinatie van personen
 300;nee

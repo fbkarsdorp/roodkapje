@@ -35,7 +35,7 @@
 34;niet genoemd
 35;nee
 36;ja
-37;grootmoeder
+37;grootmoeder, oude vrouw
 38;nee
 39;nee
 40;niet genoemd
@@ -146,11 +146,11 @@
 145;nee
 146;niet genoemd
 147;-
-148;nee
-149;-
-150;0
+148;ja
+149;klop
+150;>5
 151;nee
-152;-
+152;draai de knop om
 153;nee
 154;niet genoemd
 155;nee
@@ -206,7 +206,7 @@
 205;buiten
 206;ja
 207;ja
-208;wijde nachthemd en rok
+208;wijde nachthemd en lange rok
 209;ja
 210;nee
 211;-
@@ -223,7 +223,7 @@
 222;nee
 223;nee
 224;houthakker
-225;hij komt toevallig voorbij
+225;niet genoemd
 226;nee
 227;nee
 228;-
@@ -233,8 +233,8 @@
 232;-
 233;nee
 234;niet genoemd
-235;niet van toepassing
-236;ja
+235;nee
+236;niet van toepassing
 237;nee
 238;nee
 239;nee
@@ -295,8 +295,9 @@
 294;nee
 295;nee
 296;nee
-297;    148;Klopt (tikt, bonst, etc.) de wolf op de deur van Grootmoeders huisje?;ja 149;Hoe klinkt het kloppen van de wolf? (één woord per klank) klop, Hoe vaak klopt de wolf? >5 
+297;-
 298;niet van toepassing
 299;niet van toepassing
 300;nee
 301;nee
+302;nee
