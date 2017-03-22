@@ -4,6 +4,7 @@ from flask.ext.login import LoginManager
 
 app = flask.Flask(__name__)
 app.config.from_object('config')
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.secret_key = "=\x07BoZ\xeb\xb0\x13\x88\xf8mW(\x93}\xe6k\r\xebA\xbf\xff\xb1v"
 db = SQLAlchemy(app)
 lm = LoginManager()
