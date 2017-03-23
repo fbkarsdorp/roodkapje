@@ -1,0 +1,196 @@
+[
+  {
+    "number": "0",
+    "qtype": "R",
+    "question": "Wat is de vorm van de tekst?",
+    "skip": [],
+    "default": [
+      "-"
+    ],
+    "options": [
+      "(rijmend) gedicht",
+      "verhaal",
+      "toneel",
+      "anders"
+    ]
+  },
+  {
+    "number": "1",
+    "qtype": "R",
+    "question": "Wie is de verteller van de tekst?",
+    "skip": [],
+    "default": [
+      "-"
+    ],
+    "options": [
+      "alwetende verteller",
+      "ik-verteller",
+      "andere verteller"
+    ]
+  },
+  {
+    "number": "2",
+    "qtype": "R",
+    "question": "Begint het verhaal met een klassieke openingsformule?",
+    "skip": [],
+    "default": [
+      "-"
+    ],
+    "options": [
+      "niet aanwezig",
+      "\"Lang lang geleden...\"",
+      "\"Er/daar was eens...\"",
+      "\"In een land hier ver vandaan...\"",
+      "andere openingsformule"
+    ]
+  },
+  {
+    "number": "3",
+    "qtype": "T",
+    "question": "Staat in de tekst in welk seizoen het verhaal zich afspeelt? Zo ja, in welk seizoen?",
+    "skip": [],
+    "default": [
+      "-"
+    ],
+    "options": []
+  },
+  {
+    "number": "4",
+    "qtype": "R",
+    "question": "Beschrijft de tekst hoe Sneeuwwitje aan haar naam is gekomen?",
+    "skip": [
+      "5"
+    ],
+    "default": [
+      "nee"
+    ],
+    "options": [
+      "ja",
+      "nee"
+    ]
+  },
+  {
+    "number": "5",
+    "qtype": "T",
+    "question": "Wie heeft Sneeuwwitje haar naam gegeven?",
+    "skip": [],
+    "default": [
+      "-"
+    ],
+    "options": []
+  },
+  {
+    "number": "6",
+    "qtype": "R",
+    "question": "Heeft Sneeuwwitje nog een andere naam behalve Sneeuwwitje?",
+    "skip": [
+      "7"
+    ],
+    "default": [
+      "niet genoemd",
+      "nee"
+    ],
+    "options": [
+      "ja",
+      "nee",
+      "niet genoemd"
+    ]
+  },
+  {
+    "number": "7",
+    "qtype": "T",
+    "question": "Wat is de andere naam van Sneeuwwitje?",
+    "skip": [],
+    "default": [
+      "-"
+    ],
+    "options": []
+  },
+  {
+    "number": "8",
+    "qtype": "R",
+    "question": "Worden er uiterlijke kenmerken van Sneeuwwitje genoemd?",
+    "skip": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "default": [
+      "nee"
+    ],
+    "options": [
+      "ja",
+      "nee"
+    ]
+  },
+  {
+    "number": "9",
+    "qtype": "T",
+    "question": "Welke kleur ogen heeft Sneeuwwitje?",
+    "skip": [],
+    "default": [
+      "-"
+    ],
+    "options": []
+  },
+  {
+    "number": "10",
+    "qtype": "T",
+    "question": "Welke kleur haar heeft Sneeuwwitje?",
+    "skip": [],
+    "default": [
+      "-"
+    ],
+    "options": []
+  },
+  {
+    "number": "11",
+    "qtype": "T",
+    "question": "Welke kleur van lippen heeft Sneeuwwitje?",
+    "skip": [],
+    "default": [
+      "-"
+    ],
+    "options": []
+  },
+  {
+    "number": "12",
+    "qtype": "R",
+    "question": "Wordt Sneeuwwitje omschreven als mooi / knap etc.?",
+    "skip": [],
+    "default": [
+      "nee"
+    ],
+    "options": [
+      "ja",
+      "nee"
+    ]
+  },
+  {
+    "number": "13",
+    "qtype": "R",
+    "question": "Wordt Sneeuwwitje door iemand om haar uiterlijk geroemd?",
+    "skip": [],
+    "default": [
+      "niet genoemd"
+    ],
+    "options": [
+      "ja",
+      "niet genoemd"
+    ]
+  },
+  {
+    "number": "14",
+    "qtype": "R",
+    "question": "Wordt het karakter van Sneeuwwitje beschreven? Is ze bijvoorbeeld lief of juist stout of ondeugend?",
+    "skip": [],
+    "default": [
+      "nee"
+    ],
+    "options": [
+      "ja",
+      "nee"
+    ]
+  }
+]
