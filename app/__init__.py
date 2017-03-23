@@ -15,6 +15,7 @@ lm.login_view = 'login'
 if not app.debug:
     import logging
     from logging.handlers import RotatingFileHandler
+    import os
     if not os.path.isdir("tmp"):
         os.mkdir("tmp")
     file_handler = RotatingFileHandler('tmp/annotation.log', 'a', 1 * 1024 * 1024, 10)
