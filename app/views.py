@@ -23,7 +23,7 @@ def before_request():
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
-    if flask.g.user is not None and flask.g.user.is_authenticated():
+    if flask.g.user is not None and flask.g.user.is_authenticated:
         return flask.redirect(flask.url_for("index"))
     form = LoginForm()
     if flask.request.method == 'GET':
@@ -76,7 +76,7 @@ def annotate(storyname):
         story.done = 1
         db.session.commit()
         with codecs.open(os.path.join(app.config['ANNOTATION_DIR'], story.storyname + '.ann'), 'w', 'utf-8') as outfile:
-            for qnumber, answer in sorted(answers['answers'].iteritems(), key=lambda i: int(i[0])):
+            for qnumber, answer in sorted(answers['answers'].items(), key=lambda i: int(i[0])):
                 outfile.write("%s;%s\n" % (qnumber, answer))
         return json.dumps({'annotation stored':'OK'})
     with codecs.open(os.path.join(app.config["ROOT_DIR"], 'questions.json'), encoding='utf-8') as inf:
@@ -113,7 +113,7 @@ def review(storyname):
         story.story = answers['story']
         db.session.commit()
         with codecs.open(os.path.join(app.config['ANNOTATION_DIR'], story.storyname + '.ann'), 'w', 'utf-8') as outfile:
-            for qnumber, answer in sorted(answers['answers'].iteritems(), key=lambda i: int(i[0])):
+            for qnumber, answer in sorted(answers['answers'].items(), key=lambda i: int(i[0])):
                 outfile.write("%s;%s\n" % (qnumber, answer))
         return json.dumps({'annotation stored':'OK'})
     with codecs.open(os.path.join(app.config["ROOT_DIR"], 'questions.json'), encoding='utf-8') as inf:
