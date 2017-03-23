@@ -6,11 +6,11 @@ import json
 from collections import Counter
 
 import flask
-from flask.ext.login import login_user, current_user, login_required
+from flask_login import login_user, current_user, login_required
 
 from app import app, lm, db
-from models import User, Story
-from forms import LoginForm, RegisterForm
+from .models import User, Story
+from .forms import LoginForm, RegisterForm
 
 
 @lm.user_loader
